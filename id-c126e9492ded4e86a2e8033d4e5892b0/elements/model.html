@@ -1,0 +1,175 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>EAAB</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>EAAB</b>
+
+            <!-- If a View with Viewpoint -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+                       <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-purpose"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#query" aria-controls="query" role="tab" data-toggle="tab" class="i18n-query"></a></li>
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="query">
+						<br>
+						<style>
+						#myprompt {
+						    width: 80%;
+						    font-family: Consolas,Monaco, monospace;
+						}
+						</style>
+
+						<div id='myconsole'></div>
+
+						<p>
+							<tt><span id="useid">alasql</span> &gt;</tt> <input id='myprompt' autofocus/> 
+						</p>
+
+						<script src='../../lib/alasql/alasql.min.js'></script>
+
+						<script>
+							function decodeURL(s) {
+								return decodeURIComponent(s.replace(/\+/g, "%20"));
+							}
+
+							var first = decodeURI(location.search.substr(1));
+						 	alasql.options.logtarget = 'myconsole';
+							alasql.prompt('myprompt','useid');
+							alasql.prompt('myprompt','useid', first);
+
+							var dataElements = [ ];	  
+						  	var dataProperties = [ ];
+						 	var dataRelationships = [ ];
+						 	var dataViews = [ ];
+						 	var dataViewsContent = [ ];
+						 	var dataFolders = [ ];
+						 	var dataFoldersContent = [ ];
+
+							dataFolders.push({id:"id-c126e9492ded4e86a2e8033d4e5892b0", type:"ArchimateModel", name:decodeURL("EAAB"), documentation:decodeURL("")});
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-028ead9a9fad4f9e905ee7b19077107f", contenttype:"Folder"});
+								dataFolders.push({id:"id-028ead9a9fad4f9e905ee7b19077107f", type:"Folder", name:decodeURL("Strategy"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-b41e79be54a147c98165099d53673b8f", contenttype:"Folder"});
+								dataFolders.push({id:"id-b41e79be54a147c98165099d53673b8f", type:"Folder", name:decodeURL("Business"), documentation:decodeURL("")});
+									dataFoldersContent.push({folderid:"id-b41e79be54a147c98165099d53673b8f", contentid:"id-4479aed2f36846feb22c94c9d6d166c7", contenttype:"BusinessObject"});
+										dataElements.push({id:"id-4479aed2f36846feb22c94c9d6d166c7", type:"BusinessObject", name:decodeURL("Marco+conceptual+de+interoperabilidad"), documentation:decodeURL("El+Marco+de+Interoperabilidad+proporciona+la+orientaci%C3%B3n+necesaria+a+las+entidades+p%C3%BAblicas+%0D%0Ay+en+general+a+todos+aquellos+que+quieran+intercambiar+informaci%C3%B3n%2C+mediante+un+conjunto+%0D%0Ade+lineamientos+sobre+c%C3%B3mo+mejorar+la+gobernanza+de+las+actividades+relacionadas+a+la%0D%0Ainteroperabilidad%2C+permitiendo+establecer+relaciones+entre+proveedores+y+consumidores+de+%0D%0Ainformaci%C3%B3n+y+racionalizar+los+procesos+que+dan+soporte+a+los+tr%C3%A1mites+y+servicios+o+%0D%0Acualquier+servicio+digital+prestado+por+las+entidades%2C+de+conformidad+con+el+marco+%0D%0Anormativo+vigente+y+con+garant%C3%ADa+de+hacerlo+en+un+entorno+de+confianza+digital.%0D%0A%0D%0AEl+Marco+de+Interoperabilidad+conceptualmente+se+compone+de+cuatro+%284%29+dominios%3A+%0D%0A*+Pol%C3%ADtico+Legal%0D%0A*+Organizacional%0D%0A*+Sem%C3%A1ntico+%0D%0A*+T%C3%A9cnico+%0D%0Aamparados+por+un+conjunto+de+principios+que+definen+y+orientan+la+concepci%C3%B3n%2C+dise%C3%B1o+e+implementaci%C3%B3n+de+los+servicios+de+intercambio+de+informaci%C3%B3n+centrados+en+el+ciudadano.+El+marco+se+completa+con+un+esquema+de+gobierno+y+un+modelo+de+madurez+que+permite+determinar+el+estado+actual+y+proyectado+de+interoperabilidad+para+las+entidades.")});
+									dataFoldersContent.push({folderid:"id-b41e79be54a147c98165099d53673b8f", contentid:"id-b5bff95f0ed74ec0bcb27fbf0efbbe69", contenttype:"BusinessObject"});
+										dataElements.push({id:"id-b5bff95f0ed74ec0bcb27fbf0efbbe69", type:"BusinessObject", name:decodeURL("Gobernanza+de+la+Interoperabilidad"), documentation:decodeURL("La+gobernanza+de+la+interoperabilidad+tiene+por+objetivo+supervisar+los+intercambios+de+%0D%0Ainformaci%C3%B3n+que+se+realizan+en+las+entidades+del+Estado+necesarias+para+realizar+los+ejercicios+de+interoperabilidad.+%0D%0A%0D%0AEs+importante+que%2C+para+la+Gobernanza+de+la+Interoperabilidad%2C+las+entidades+o+sectores+%0D%0Adefinan+una+estrategia+de+interoperabilidad%2C+que+sea+coordinada%2C+comunicada%2C+supervisada%0D%0Ay+ejecutada+teniendo+como+base+los+principios%2C+dominios%2C+lineamientos+y+herramientas+%0D%0Adefinidas+para+este+prop%C3%B3sito.+Estas+estrategias+podr%C3%A1n+ser+realizadas+de+forma+colaborativa%2C+dependiendo+las+necesidades+del+ciudadano+o+de+las+mismas+entidades.%0D%0A%0D%0ALos+servicios+de+intercambio+de+informaci%C3%B3n+han+de+ser+gobernados+con+el+prop%C3%B3sito+de+garantizar+la+integraci%C3%B3n+y+ejecuci%C3%B3n+constante+de+servicios+estandarizados+e+interoperables.%0D%0A")});
+									dataFoldersContent.push({folderid:"id-b41e79be54a147c98165099d53673b8f", contentid:"id-9f150a5503a64f31bd2055d5137c74db", contenttype:"BusinessObject"});
+										dataElements.push({id:"id-9f150a5503a64f31bd2055d5137c74db", type:"BusinessObject", name:decodeURL("Elementos+de+Gobernanza+de+la+Interoperabilidad"), documentation:decodeURL("La+estructura+de+esta+secci%C3%B3n+se+basa+en+el+Modelo+de+Referencia+de+Gobierno+SOA%2C+del+%0D%0AOpen+Group+y+se+deben+contemplar+los+siguientes+elementos%0D%0A%0D%0A*+Contrato+de+descripci%C3%B3n+del+servicio+de+intercambio%3A+Deber%C3%A1+existir+un+contrato+de+%0D%0Adescripci%C3%B3n+del+servicio+de+intercambio+de+informaci%C3%B3n+entre+el+proveedor+y+%0D%0Aconsumidor+del+servicio+para+garantizar+la+correcta+%E2%80%9Centrega%E2%80%9D+del+servicio.+Este+%0D%0Acontrato+incluye+informaci%C3%B3n+relacionada+con+la+identificaci%C3%B3n+del+servicio+como+son%3A%0D%0Aentidad+proveedora%2C+responsables%2C+descripci%C3%B3n%2C+contactos%2C+versi%C3%B3n%2C+disponibilidad%2C+%0D%0Adocumentaci%C3%B3n+normativa.+Adicionalmente%2C+este+contrato+describe+informaci%C3%B3n+%0D%0At%C3%A9cnica+como%3A+la+implementaci%C3%B3n+de+la+interfaz+de+los+servicios+de+intercambio%2C+la+%0D%0Aforma+de+comunicaci%C3%B3n%2C+es+decir%2C+los+requisitos+del+protocolo+y+los+formatos+de+los+%0D%0Amensajes+necesarios+para+interactuar+con+los+servicios+listados+en+su+cat%C3%A1logo%2C+los+%0D%0Acuales+deben+estar+estandarizados+en+el+Lenguaje+Com%C3%BAn+de+Intercambio+de+%0D%0AInformaci%C3%B3n.+Tambi%C3%A9n+describe+las+operaciones+y+mensajes+que+soporta+junto+con+el%0D%0Aprotocolo+concreto+del+formato+del+mensaje%0D%0A*+Monitoreo+y+disponibilidad+del+servicio%3A+Los+contratos+de+servicio+de+intercambio%0D%0Adeben+ser+monitoreados+a+trav%C3%A9s+de+indicadores+que+dar%C3%A1n+cuenta+de+la+%0D%0Adisponibilidad+del+servicio+de+intercambio+de+informaci%C3%B3n+y+deben+estar+disponibles+%0D%0Aen+cualquier+momento%0D%0A*+Procesos+de+Gobierno%3A+El+cuerpo+de+gobierno+de+cada+instituci%C3%B3n+deber%C3%A1+ser+guiado+%0D%0Apor+un+conjunto+de+procesos+de+gobierno+documentados+que+definir%C3%A1n+las+%0D%0Aactividades+y+entregables+de+la+aplicaci%C3%B3n+del+Marco+de+Interoperabilidad+en+su+%0D%0Acontexto+organizacional%0D%0A*+Procesos+gobernados+de+interoperabilidad%3A+Los+%E2%80%9Cprocesos+gobernados+de+interoperabilidad%E2%80%9D+administrar%C3%A1n+el+ciclo+%0D%0Ade+vida+de+planeaci%C3%B3n+%2F+dise%C3%B1o+%2F+operaci%C3%B3n+de+un+portafolio+de+soluciones%2C+y+el+ciclo+de+vida+de+planeaci%C3%B3n+%2F+dise%C3%B1o+%2F+operaci%C3%B3n+de+un+portafolio+de+servicios%0D%0A**+Proceso+de+Gesti%C3%B3n+del+portafolio+de+servicios+de+intercambio%0D%0A**+Proceso+ciclo+de+vida+del+servicio+de+intercambio%3A%0D%0A**+Proceso+de+gesti%C3%B3n+de+soluciones+de+interoperabilidad%0D%0A%0D%0A%0D%0A")});
+									dataFoldersContent.push({folderid:"id-b41e79be54a147c98165099d53673b8f", contentid:"id-320f512eef3b4302a56956a67fa039c8", contenttype:"BusinessObject"});
+										dataElements.push({id:"id-320f512eef3b4302a56956a67fa039c8", type:"BusinessObject", name:decodeURL("Pprincipios+del+Marco+de+Interoperabilidad"), documentation:decodeURL("Orientar+el+desarrollo+de+capacidades+sobre+los+servicios+de+intercambio+de+informaci%C3%B3n.%0D%0A%0D%0A*+Enfoque+en+el+ciudadano%0D%0A*+Cobertura+y+proporcionalidad.-+La+interoperabilidad+deber%C3%A1+ser+aplicada+en+cualquier+tipo+de+entidad+del+orden+nacional%2C+departamental+o+municipal.+Tambi%C3%A9n+deber%C3%A1+ser+utilizado+por+parte+de+organizaciones+privadas+cuando+interact%C3%BAen+con+el+Estado%0D%0A*+Seguridad%2C+protecci%C3%B3n+y+preservaci%C3%B3n+de+la+Informaci%C3%B3n%0D%0A*+Colaboraci%C3%B3n+y+participaci%C3%B3n%0D%0A*+Simplicidad.-+En+la+medida+de+lo+posible%2C+las+entidades+p%C3%BAblicas+deber%C3%ADan+racionalizar+y+simplificar+sus+tr%C3%A1mites%2C+servicios+y+otros+procedimientos+administrativos+mediante+la+optimizaci%C3%B3n+de+los+mismos%2C+evitando+exigir+documentos%2C+certificaciones%2C+constancias+u+otros+actos+administrativos+que+pueden+ser+verificados%2C+compartidos+o+intercambiados+a+trav%C3%A9s+de+los+servicios+de+intercambio+de+informaci%C3%B3n.%0D%0A%0D%0A")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-c88ecb0e819246f8a5d4f7d209728acc", contenttype:"Folder"});
+								dataFolders.push({id:"id-c88ecb0e819246f8a5d4f7d209728acc", type:"Folder", name:decodeURL("Application"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-22d5bdbea8ef419d8a7beafc5d13ea06", contenttype:"Folder"});
+								dataFolders.push({id:"id-22d5bdbea8ef419d8a7beafc5d13ea06", type:"Folder", name:decodeURL("Technology+%26+Physical"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-e673027cb39e4d128efb5de0743b4ece", contenttype:"Folder"});
+								dataFolders.push({id:"id-e673027cb39e4d128efb5de0743b4ece", type:"Folder", name:decodeURL("Motivation"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-9fc52a75544243ea9550ecc15685d10c", contenttype:"Folder"});
+								dataFolders.push({id:"id-9fc52a75544243ea9550ecc15685d10c", type:"Folder", name:decodeURL("Implementation+%26+Migration"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-31ce532c1f8e4cedb0efe15119c5e12f", contenttype:"Folder"});
+								dataFolders.push({id:"id-31ce532c1f8e4cedb0efe15119c5e12f", type:"Folder", name:decodeURL("Other"), documentation:decodeURL("")});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-e71c2a01b14d4d9a91669b3ba5fe93ac", contenttype:"Folder"});
+								dataFolders.push({id:"id-e71c2a01b14d4d9a91669b3ba5fe93ac", type:"Folder", name:decodeURL("Relations"), documentation:decodeURL("")});
+									dataFoldersContent.push({folderid:"id-e71c2a01b14d4d9a91669b3ba5fe93ac", contentid:"id-77a10dcb666c4f53bed7511a7f1d98d7", contenttype:"AssociationRelationship"});
+										dataRelationships.push({id:"id-77a10dcb666c4f53bed7511a7f1d98d7", type:"AssociationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"id-4479aed2f36846feb22c94c9d6d166c7", targetid:"id-b5bff95f0ed74ec0bcb27fbf0efbbe69"});
+									dataFoldersContent.push({folderid:"id-e71c2a01b14d4d9a91669b3ba5fe93ac", contentid:"id-6c5bf39a92bf4a74b6f36fde677c7493", contenttype:"AssociationRelationship"});
+										dataRelationships.push({id:"id-6c5bf39a92bf4a74b6f36fde677c7493", type:"AssociationRelationship", name:decodeURL(""), documentation:decodeURL(""), sourceid:"id-b5bff95f0ed74ec0bcb27fbf0efbbe69", targetid:"id-9f150a5503a64f31bd2055d5137c74db"});
+
+								dataFoldersContent.push({folderid:"id-c126e9492ded4e86a2e8033d4e5892b0", contentid:"id-3b7589a83e1b4855b5f626271979d7d0", contenttype:"Folder"});
+								dataFolders.push({id:"id-3b7589a83e1b4855b5f626271979d7d0", type:"Folder", name:decodeURL("Views"), documentation:decodeURL("")});
+									dataFoldersContent.push({folderid:"id-3b7589a83e1b4855b5f626271979d7d0", contentid:"id-81aeed148b914741b282ac619ec90e91", contenttype:"ArchimateDiagramModel"});
+										dataViews.push({id:"id-81aeed148b914741b282ac619ec90e91", type:"ArchimateDiagramModel", name:decodeURL("Objetos+de+negocio"), documentation:decodeURL("")});
+												dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-4479aed2f36846feb22c94c9d6d166c7", contenttype:"BusinessObject"});
+												dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-b5bff95f0ed74ec0bcb27fbf0efbbe69", contenttype:"BusinessObject"});
+												dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-9f150a5503a64f31bd2055d5137c74db", contenttype:"BusinessObject"});
+												dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-320f512eef3b4302a56956a67fa039c8", contenttype:"BusinessObject"});
+
+																		dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-77a10dcb666c4f53bed7511a7f1d98d7", contenttype:"AssociationRelationship"});
+
+																		dataViewsContent.push({viewid:"id-81aeed148b914741b282ac619ec90e91", contentid:"id-6c5bf39a92bf4a74b6f36fde677c7493", contenttype:"AssociationRelationship"});
+
+
+
+
+
+
+						    alasql('CREATE TABLE Elements');
+						    alasql('CREATE TABLE Properties');
+						    alasql('CREATE TABLE Relationships');
+						    alasql('CREATE TABLE Views');
+						    alasql('CREATE TABLE ViewsContent');
+						    alasql('CREATE TABLE Folders');
+						    alasql('CREATE TABLE FoldersContent');
+
+						    alasql.tables.Elements.data = dataElements;
+						    alasql.tables.Properties.data = dataProperties;
+						    alasql.tables.Relationships.data = dataRelationships;
+						    alasql.tables.Views.data = dataViews;
+						    alasql.tables.ViewsContent.data = dataViewsContent;
+						    alasql.tables.Folders.data = dataFolders;
+						    alasql.tables.FoldersContent.data = dataFoldersContent;
+						</script> 
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

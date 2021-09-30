@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objetos de negocio"
-    id="id-81aeed148b914741b282ac619ec90e91">
+    id="id-81aeed148b914741b282ac619ec90e91"
+    documentation="Marco de interoperabilidad EAAB&#xD;&#xA;&#xD;&#xA;* Conceptos&#xD;&#xA;* Gobernanza&#xD;&#xA;* Componentes&#xD;&#xA;* Principios">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34562f3bd8e14adda564e483e24dc724">
@@ -14,6 +15,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-77a10dcb666c4f53bed7511a7f1d98d7.xml#id-77a10dcb666c4f53bed7511a7f1d98d7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ead87aeb59654d29a3aac3283f55bdad"
+        source="id-34562f3bd8e14adda564e483e24dc724"
+        target="id-734f44752234482a9b265ab6c0b13532">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-aaa88a928e604492a0c9497f9c486bd5.xml#id-aaa88a928e604492a0c9497f9c486bd5"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -61,10 +71,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-734f44752234482a9b265ab6c0b13532">
+      id="id-734f44752234482a9b265ab6c0b13532"
+      targetConnections="id-ead87aeb59654d29a3aac3283f55bdad">
     <bounds
-        x="375"
-        y="262"
+        x="240"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement

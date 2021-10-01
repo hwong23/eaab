@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad"
     id="id-81aeed148b914741b282ac619ec90e91"
-    documentation="Marco de interoperabilidad EAAB&#xD;&#xA;&#xD;&#xA;* Conceptos&#xD;&#xA;* Gobernanza&#xD;&#xA;* Componentes&#xD;&#xA;* Principios">
+    documentation="Marco de interoperabilidad EAAB&#xD;&#xA;&#xD;&#xA;* Conceptos&#xD;&#xA;* Gobernanza&#xD;&#xA;* Componentes&#xD;&#xA;* Principios&#xD;&#xA;&#xD;&#xA;Con el objetivo de integrar los servicios web implementados de las entidades tanto para exponer, como para consumir, las entidades deben implementar el protocolo X-ROAD Message para usar el Servidor de Seguridad X-ROAD de cada entidad. Este protocolo define unos encabezados en el mensaje dependiendo de si es Rest o SOAP, para la petición (request) o respuesta (response) y por último, si el servicio a exponer o consumir es SOAP con adjuntos.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34562f3bd8e14adda564e483e24dc724">
@@ -33,6 +33,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-c869e7b2d07b4024b6afbce78e3d7805.xml#id-c869e7b2d07b4024b6afbce78e3d7805"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b7f1d886520a43fc979aa2dd92575792"
+        source="id-34562f3bd8e14adda564e483e24dc724"
+        target="id-1a39dee0d709491ea10a028e6b9ea0ad">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5b6cb74817c341e3bb38d37f0a5250ff.xml#id-5b6cb74817c341e3bb38d37f0a5250ff"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -159,7 +168,7 @@
       id="id-6ff2e4780d7b403dadce9050464b5b44"
       targetConnections="id-e853af3b49ed4d06828c5b65350474d6">
     <bounds
-        x="408"
+        x="468"
         y="200"
         width="120"
         height="55"/>
@@ -172,7 +181,7 @@
       id="id-3a64a828607a4b62b62ad73577463b3b"
       targetConnections="id-d08e8e6fe3fd4fbb9f409385fd56cbff">
     <bounds
-        x="540"
+        x="600"
         y="266"
         width="120"
         height="55"/>
@@ -185,7 +194,7 @@
       id="id-54d65290bc8b4f928843d658672874e8"
       targetConnections="id-bc936b25d49f4b1f96c564fd764acfa2">
     <bounds
-        x="540"
+        x="600"
         y="200"
         width="120"
         height="55"/>
@@ -197,7 +206,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2a3549abd64a4923a164c971efb95458">
     <bounds
-        x="408"
+        x="468"
         y="266"
         width="120"
         height="55"/>
@@ -210,7 +219,7 @@
       id="id-672e9fdd53524e5a9eef9e1353b6d4c2"
       targetConnections="id-47b3f335b2aa41f58540b9eb62b582a7">
     <bounds
-        x="408"
+        x="468"
         y="332"
         width="120"
         height="55"/>
@@ -223,7 +232,7 @@
       id="id-161bc97a86f44c03aee3d22e07be635d"
       targetConnections="id-1d94ece0745a491fa6df71b869cd7f6d">
     <bounds
-        x="540"
+        x="600"
         y="396"
         width="120"
         height="55"/>
@@ -236,7 +245,7 @@
       id="id-1baaba0d1efc4b5c9d2a9e8d0be6e195"
       targetConnections="id-8ef408248e074327ae799504f4c0a007">
     <bounds
-        x="408"
+        x="468"
         y="396"
         width="120"
         height="55"/>
@@ -249,7 +258,7 @@
       id="id-89693050739d4b19a61f379776074eb5"
       targetConnections="id-d5e56d69ad734ee7b1f6cf3fff90b11c">
     <bounds
-        x="540"
+        x="600"
         y="332"
         width="120"
         height="55"/>
@@ -391,5 +400,18 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-fa54bc89cf6546ec854f6d472b89e922.xml#id-fa54bc89cf6546ec854f6d472b89e922"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1a39dee0d709491ea10a028e6b9ea0ad"
+      targetConnections="id-b7f1d886520a43fc979aa2dd92575792">
+    <bounds
+        x="240"
+        y="254"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-97b94958887c4ee3b7d8836f397e96c2.xml#id-97b94958887c4ee3b7d8836f397e96c2"/>
   </children>
 </archimate:ArchimateDiagramModel>

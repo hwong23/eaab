@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Principios del Marco de Interoperabilidad</title>
+	<title>Seguridad, protección y preservación de la Información</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -22,7 +22,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>Principios del Marco de Interoperabilidad</b>
+               <b>Seguridad, protecci&#243;n y preservaci&#243;n de la Informaci&#243;n</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-BusinessObject"></span>)
@@ -46,16 +46,9 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Orientar el desarrollo de capacidades sobre los servicios de intercambio de informaci&#243;n.
-
-* Enfoque en el ciudadano
-* Cobertura y proporcionalidad.- La interoperabilidad deber&#225; ser aplicada en cualquier tipo de entidad del orden nacional, departamental o municipal. Tambi&#233;n deber&#225; ser utilizado por parte de organizaciones privadas cuando interact&#250;en con el Estado
-* Seguridad, protecci&#243;n y preservaci&#243;n de la Informaci&#243;n
-* Colaboraci&#243;n y participaci&#243;n
-* Simplicidad.- En la medida de lo posible, las entidades p&#250;blicas deber&#237;an racionalizar y simplificar sus tr&#225;mites, servicios y otros procedimientos administrativos mediante la optimizaci&#243;n de los mismos, evitando exigir documentos, certificaciones, constancias u otros actos administrativos que pueden ser verificados, compartidos o intercambiados a trav&#233;s de los servicios de intercambio de informaci&#243;n. Se deben simplificar los procesos y utilizar canales digitales siempre que sea apropiado para la prestaci&#243;n de tr&#225;mites, servicios y otros procedimientos administrativos
-* Neutralidad tecnol&#243;gica y adaptabilidad.- Orientaci&#243;n a la funcionalidad, no a la tecnolog&#237;a. Las decisiones de tecnolog&#237;a deber&#225;n guiarse por el uso de especificaciones que faciliten la interconexi&#243;n con los sistemas de la soluci&#243;n. Los servicios de intercambio de informaci&#243;n no deber&#225;n exigir ninguna tecnolog&#237;a exclusiva o limitada al &#225;mbito de un proveedor o plataforma, as&#237; mismo, las entidades p&#250;blicas deben dar acceso a sus servicios de intercambio de informaci&#243;n con independencia de cualquier tecnolog&#237;a o producto concreto y permitir su reutilizaci&#243;n
-* Reutilizaci&#243;n
-* Costo-efectividad.- Las inversiones de los servicios de intercambio de informaci&#243;n deben generar beneficios que justifiquen, compensen e idealmente excedan los gastos incurridos. A pesar de esto, las dimensiones de evaluaci&#243;n de los beneficios no se deber&#225;n limitar a los econ&#243;micos o cuantificables
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Tomando como referencia OWASP (Open Web Application Security Project), se listan a continuaci&#243;n las recomendaciones en la implementaci&#243;n segura de servicios web. Implementar 
+* SSL/TLS como protocolo de comunicaciones de los servicios web. El m&#233;todo de implementaci&#243;n se recomienda sea POST para los formularios en los cuales se intercambia informaci&#243;n de negocio
+* Implementar OAuth 2.0 por medio de Json Web Tokens. Esta implementaci&#243;n se realiza por medio de headers de la siguiente manera:Autenticaci&#243;n. Haciendo uso del header Authorization Basic Base64.Encoded(&#8220;usuario:contrase&#241;a&#8221;). Esta operaci&#243;n retornar&#237;a un token implementando JWT
 </div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad, protección y preservación de la Información"
-    id="id-299cd12c27d342e5a577894c03267e41"/>
+    id="id-299cd12c27d342e5a577894c03267e41"
+    documentation="Tomando como referencia OWASP (Open Web Application Security Project), se listan a continuación las recomendaciones en la implementación segura de servicios web. Implementar &#xD;&#xA;* SSL/TLS como protocolo de comunicaciones de los servicios web. El método de implementación se recomienda sea POST para los formularios en los cuales se intercambia información de negocio&#xD;&#xA;* Implementar OAuth 2.0 por medio de Json Web Tokens. Esta implementación se realiza por medio de headers de la siguiente manera:Autenticación. Haciendo uso del header Authorization Basic Base64.Encoded(“usuario:contraseña”). Esta operación retornaría un token implementando JWT&#xD;&#xA;"/>

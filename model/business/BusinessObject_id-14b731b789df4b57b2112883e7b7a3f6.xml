@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dominio Técnico"
+    id="id-14b731b789df4b57b2112883e7b7a3f6"
+    documentation="El dominio técnico de la interoperabilidad hace referencia a las aplicaciones e infraestructuras que conectan sistemas de información, a través de los servicios de intercambio de información. Incluye aspectos como especificaciones de interfaz, protocolosde interconexión, servicios de integración de datos, presentación e intercambio de datos y protocolos de comunicación seguros.&#xD;&#xA;&#xD;&#xA;Lineamiento LI.IOP.TE.03: Usar mecanismos de seguridad al realizar la implementación de servicios de intercambio de información. Lineamiento LI.IOP.TE.04: Separar la lógica que implementa el proceso de negocio de la capa responsable de realizar el intercambio de información.&#xD;&#xA;&#xD;&#xA;Realizar el intercambio de los conjuntos de datos susceptibles a interoperar mediante servicios de intercambio de información integrados a la plataforma de interoperabilidad del Estado (PDI)."/>

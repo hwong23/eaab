@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PDI (seguridad)"
+    id="id-feb77d3aeb2d45e49be8137f1b907697"
+    documentation="El servidor de seguridad interactúa con las invocaciones al servicio de intercambio de información (entidades públicas o privadas) y las respuestas desde el sistemade información misional de la entidad. Adicionalmente, administra las claves para la firma digital, autenticación y envío de mensajes a través del canal seguro.Este componente hace parte de los Servicios Ciudadanos Digitales. Una descripción detallada del se encuentra en la “Guía para la vinculación y uso de los Servicios Ciudadanos Digitales”"/>

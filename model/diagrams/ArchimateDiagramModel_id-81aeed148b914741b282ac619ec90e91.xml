@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad"
     id="id-81aeed148b914741b282ac619ec90e91"
-    documentation="Marco de interoperabilidad EAAB&#xD;&#xA;&#xD;&#xA;* Conceptos&#xD;&#xA;* Gobernanza&#xD;&#xA;* Componentes&#xD;&#xA;* Principios&#xD;&#xA;&#xD;&#xA;Con el objetivo de integrar los servicios web implementados de las entidades tanto para exponer, como para consumir, las entidades deben implementar el protocolo X-ROAD Message para usar el Servidor de Seguridad X-ROAD de cada entidad. Este protocolo define unos encabezados en el mensaje dependiendo de si es Rest o SOAP, para la petición (request) o respuesta (response) y por último, si el servicio a exponer o consumir es SOAP con adjuntos.&#xD;&#xA;">
+    documentation="Interoperabilidad es acogida como: “La capacidad de las organizaciones para intercambiar información y conocimiento en el marco de sus procesos de negocio para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios en línea a ciudadanos, empresas y a otras entidades, mediante el intercambio de datos entre sus sistemas”.&#xD;&#xA;&#xD;&#xA;El Marco de Interoperabilidad es la estructura de trabajo, conceptos y criterios que guían el intercambio de información. Define el conjunto de principios, recomendaciones y directrices que orientan los esfuerzos políticos, legales, organizacionales, semánticos y técnicos de las entidades, con el fin de facilitar el intercambio seguro y eficiente de información.&#xD;&#xA;Además, se desarrolla un modelo de madurez y un conjunto de principios, lineamientos, recomendaciones, protocolos, estándares y guías metodológicas, necesarias para que las entidades compartan información a través de servicios de intercambio de información.&#xD;&#xA;&#xD;&#xA;Colaboración entre entidades para el intercambio de información en la administración pública.- Preparar a la entidad para cooperar digitalmente entre entidades públicas y con el ciudadano.&#xD;&#xA;&#xD;&#xA;El uso del marco de interoperabilidad dirige las iniciativas de intercambio de información. El Marco proporciona la orientación necesaria a las entidades públicas y en general a todos aquellos que quieran intercambiar información, mediante un conjunto de lineamientos sobre cómo mejorar la gobernanza de las actividades relacionadas a la interoperabilidad, permitiendo establecer relaciones entre proveedores y consumidores de información.&#xD;&#xA;&#xD;&#xA;Escenario funcional de interoperabilidad: una entidad requiera comprobar la existencia de alguna circunstancia necesaria para la prestación de un servicio que obre en otra entidad, no debe solicitarle dicha información al usuario, sino que deberá obtenerla de la entidad respectiva.&#xD;&#xA;&#xD;&#xA;Servicio de Intercambio de Información.- Consumidor, proveedor; intercambios G2C, G2B, G2G.&#xD;&#xA;&#xD;&#xA;Con el objetivo de integrar los servicios web implementados de las entidades tanto para exponer, como para consumir, las entidades deben implementar el protocolo X-ROAD Message para usar el Servidor de Seguridad X-ROAD de cada entidad. Este protocolo define unos encabezados en el mensaje dependiendo de si es Rest o SOAP, para la petición (request) o respuesta (response) y por último, si el servicio a exponer o consumir es SOAP con adjuntos.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-34562f3bd8e14adda564e483e24dc724">
@@ -413,5 +413,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-97b94958887c4ee3b7d8836f397e96c2.xml#id-97b94958887c4ee3b7d8836f397e96c2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-db69b6c95f7d4f0897b3b52c350469b0"
+      textAlignment="1"
+      content="Marco de interoperabilidad EAAB&#xD;&#xA;v0.1">
+    <bounds
+        x="12"
+        y="-132"
+        width="169"
+        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>

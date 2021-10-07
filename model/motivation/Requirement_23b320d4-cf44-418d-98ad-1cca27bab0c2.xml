@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Determinar la cantidad de firmas digitales (en uso y requeridas)"
+    id="23b320d4-cf44-418d-98ad-1cca27bab0c2"
+    documentation="Determinar la cantidad de firmas digitales que actualmente se usan en la EAAB y las requeridas para la implementación de un SGDEA.&#xA;">
+  <properties
+      key="ID"
+      value="5.4"/>
+</archimate:Requirement>

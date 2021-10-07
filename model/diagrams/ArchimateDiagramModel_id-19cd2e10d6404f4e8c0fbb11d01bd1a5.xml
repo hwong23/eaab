@@ -8,9 +8,9 @@
       id="id-e0f98bc643194288ada1a1df0856cb34"
       targetConnections="id-3d59cc475d414e93b62528de267ae498">
     <bounds
-        x="79"
+        x="72"
         y="100"
-        width="126"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"

@@ -1,13 +1,21 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="Doc Maestro"
     id="dea9fd0a-cc29-45a6-909d-6916b17d2ab0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="811b8394-bcab-47a3-81ef-4c8dba83e2ff"
-      targetConnections="3dbd3a3b-281c-4215-9311-7b5d064049b6"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-17bc48f562b543a9a1448c5a682d6778"
+        source="811b8394-bcab-47a3-81ef-4c8dba83e2ff"
+        target="495e4bbb-fedc-4489-a37c-81b1b9ee3945">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-32a0832cd56445cb9d1080a0e296d66e.xml#id-32a0832cd56445cb9d1080a0e296d66e"/>
+    </sourceConnections>
     <bounds
         x="84"
         y="48"
@@ -32,16 +40,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="495e4bbb-fedc-4489-a37c-81b1b9ee3945"
+      targetConnections="id-17bc48f562b543a9a1448c5a682d6778"
       textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3dbd3a3b-281c-4215-9311-7b5d064049b6"
-        source="495e4bbb-fedc-4489-a37c-81b1b9ee3945"
-        target="811b8394-bcab-47a3-81ef-4c8dba83e2ff">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_55c274e8-5e8c-4010-abe0-dc636bc70687.xml#55c274e8-5e8c-4010-abe0-dc636bc70687"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="401a7b23-6175-45e4-8e25-7f72b38a5634"

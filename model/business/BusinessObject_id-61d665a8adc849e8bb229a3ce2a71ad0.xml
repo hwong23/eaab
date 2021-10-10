@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analítica e Inteligencia del Negocio – BIA"
-    id="id-61d665a8adc849e8bb229a3ce2a71ad0">
+    id="id-61d665a8adc849e8bb229a3ce2a71ad0"
+    documentation="Esta  iniciativa plantea  en la EAAB-ESP, una forma  técnica  de  soportar  los  procesos de control de gestión y toma de decisiones sobre información en tiempo real para alcanzar: &#xA;&#xA;* Nueva dinámica organizacional y corporativa. &#xA;* Mecanismos  y  herramientas  para  la  Gestión  y  el  Control  Estratégico,  Táctico  y Operativo y apoyo efectivo para la Toma de Decisiones. &#xA;* Disponer  de  información  con  valor,  oportuna,  de  autoservicio,  en  dispositivos  móviles, a niveles directivos, ejecutivos, tácticos y operativos. &#xA;* Cambio de estilo, de buscar datos a analizar datos con consistencia y alta calidad.   &#xA;* Reducir los riesgos empresariales&#xA;* Atender las directrices de MIN TIC y Distritales, cumplir con acciones del MIPG y del Plan Maestro de Tecnología PMT,  Res. EAAB 1260/2018 – Res EAAB 0647/2019. &#xA;&#xA;Con modelos analíticos se espera contribuir&#xA;&#xA;* Minimizar el costo y tiempo de buscar datos y convertirlos en información. &#xA;* Reducción de pérdidas y la optimización de procesos. &#xA;* Mejorar la atención y servicio al cliente.  &#xA;* Identificar costos ocultos.  &#xA;* Identificar acciones improductivas. &#xA;* Descubrir oportunidades de negocio. &#xA;* Hacer publicación de datos abiertos, con actualización programada. &#xA;* Hacer  análisis  de  datos  estructurados  y  no  estructurados  (páginas  web  y  redes sociales&#xA;">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>

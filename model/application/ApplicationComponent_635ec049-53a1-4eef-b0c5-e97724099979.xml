@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SIMIP"
+    id="635ec049-53a1-4eef-b0c5-e97724099979"
+    documentation="Sistema de Información - Modelo Integrado de Planeamiento&#xA;">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ApplicationComponent>

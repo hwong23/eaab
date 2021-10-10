@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Areas"
+    id="b8e1063d-e5db-4bc0-a8e7-ff726dfddde7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="46a2d11f-5405-48c5-8a0b-47949504dedc">
+    <bounds
+        x="69"
+        y="82"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_6c9e27e9-4880-470d-93b3-bf0f1b1e74f7.xml#6c9e27e9-4880-470d-93b3-bf0f1b1e74f7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

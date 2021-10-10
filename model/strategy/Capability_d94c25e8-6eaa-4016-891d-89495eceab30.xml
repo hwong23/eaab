@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gobierno y gestión de datos e información"
+    id="d94c25e8-6eaa-4016-891d-89495eceab30"
+    documentation="Habilidad para brindar herramientas que permitan desarrollar actividades tendientes a monitorear, medir y controlar los datos (Datos maestros, datos de referencia y datos transaccionales) y la información generados y requeridos en los procesos como un activo de la organización; así mismo, garantizar su disponibilidad, conservación, calidad y accesibilidad oportuna para la toma de decisiones, definición de roles, permisos y demás actividades enmarcadas en la seguridad de la información. La capacidad incluye habilidades para incorporar esquemas de recolección de información con posibilidades de sincronizar con un repositorio y para extraer la información de documentos impresos y/o digitales."/>

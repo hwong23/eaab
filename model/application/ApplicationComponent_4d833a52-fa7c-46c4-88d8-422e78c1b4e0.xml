@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aurora"
+    id="4d833a52-fa7c-46c4-88d8-422e78c1b4e0"
+    documentation="Aplicación a la medida para la gestión y seguimiento de las actividades en terreno propios del proceso comercial de viabilidad de servicios.&#xA;">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ApplicationComponent>

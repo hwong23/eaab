@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SIMIP"
     id="635ec049-53a1-4eef-b0c5-e97724099979"
-    documentation="Sistema de Información - Modelo Integrado de Planeamiento&#xA;">
+    documentation="Sistema de Información - Modelo Integrado de Planeamiento&#xA;&#xA;Herramientas integrada al ERP para soportar el Modelo Integrado de Planeación de la Empresa. Permitirá:&#xA;&#xA;* Eliminar herramientas no integradas y no soportadas como el Banco de Proyectos en Excel, el Sistema de Gestión de Infraestructura en lotus domino, etc&#xA;* Incorporar diferentes variables para construir modelos de planeación estratégica y financiera&#xA;* Gestionar el portafolio de inversiones con el propósito de evaluar el impacto de las decisiones para dar cumplimiento a las metas del Plan Estratégico.&#xA;* Determinar de manera detallada la planificación y el presupuesto anual de ingresos, costos y gastos e inversión.&#xA;* Determinar el Plan Anual de Caja&#xA;* Definir el Plan de Contratación y Compras">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>

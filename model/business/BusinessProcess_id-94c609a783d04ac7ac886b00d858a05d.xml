@@ -1,9 +1,12 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recaudo"
-    id="056c2963-e956-43b4-b1ef-330303af1fe4"
-    documentation="Atención al Cliente&#xA;Cartera">
+    name="MPFD10 - VALORACIÓN DOCUMENTAL"
+    id="id-94c609a783d04ac7ac886b00d858a05d"
+    documentation="&#xD;&#xA;">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+  <properties
+      key="Cubierto"
+      value="No"/>
 </archimate:BusinessProcess>

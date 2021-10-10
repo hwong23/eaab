@@ -1,9 +1,11 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recaudo"
-    id="056c2963-e956-43b4-b1ef-330303af1fe4"
-    documentation="Atención al Cliente&#xA;Cartera">
+    name="MPMA05 - DISTRIBUCIÓN Y CONTROL DE REDES MATRICES"
+    id="id-0f827f60043d41d98b7c49e8f667506c">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+  <properties
+      key="Cubierto"
+      value="No"/>
 </archimate:BusinessProcess>

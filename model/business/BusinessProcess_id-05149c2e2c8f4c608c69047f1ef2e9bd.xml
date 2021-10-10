@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acueducto"
+    id="id-05149c2e2c8f4c608c69047f1ef2e9bd"
+    documentation="Asegurar el suministro de agua potable a los usuarios, en condiciones de calidad, cantidad, continuidad y presión de acuerdo con lo establecido en la normatividad vigente.&#xD;&#xA;&#xD;&#xA;Subprocesos:&#xD;&#xA;MPMA01 - Captación, Almacenamiento y Aducción de Agua Cruda&#xD;&#xA;MPMA02 - Tratamiento de Agua Cruda&#xD;&#xA;MPMA03 - Mantenimiento en Plantas De Tratamiento&#xD;&#xA;MPMA04 - Infraestructura de Redes Matrices&#xD;&#xA;MPMA05 - Distribución y Control De Redes Matrices&#xD;&#xA;MPMA06 - Mantenimiento de Redes Matrices&#xD;&#xA;MPMA07 - Operación y Mantenimiento de Redes Menores de Acueducto&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessProcess>

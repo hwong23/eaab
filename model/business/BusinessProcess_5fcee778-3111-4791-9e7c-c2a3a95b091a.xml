@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Flujos de Trabajo"
-    id="5fcee778-3111-4791-9e7c-c2a3a95b091a"/>
+    id="5fcee778-3111-4791-9e7c-c2a3a95b091a">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessProcess>

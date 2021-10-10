@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Facturación"
     id="083898ce-972c-4acf-8eb5-cd784e5a09e9"
-    documentation="&#xA;Atención al Cliente&#xA;Cartera"/>
+    documentation="&#xA;Atención al Cliente&#xA;Cartera">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessProcess>

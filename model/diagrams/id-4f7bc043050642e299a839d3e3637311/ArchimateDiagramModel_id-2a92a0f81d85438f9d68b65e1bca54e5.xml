@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datos Maestros"
+    id="id-2a92a0f81d85438f9d68b65e1bca54e5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5210bbd69d764c04af1ebc5a026e517d">
+    <bounds
+        x="118"
+        y="116"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-dd00c26e6ba548d6817ed061edc2a5a8.xml#id-dd00c26e6ba548d6817ed061edc2a5a8"/>
+  </children>
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ArchimateDiagramModel>

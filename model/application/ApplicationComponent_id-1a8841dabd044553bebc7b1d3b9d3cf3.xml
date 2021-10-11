@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CORI"
+    id="id-1a8841dabd044553bebc7b1d3b9d3cf3"
+    documentation="Correspondencia. El requerimiento es ingresado a SAP a través del CIC0 utilizando los contactos, al mismo tiempo es registrado en “CORI” donde la carta es escaneada y almacenada y es asociado el número de reclamo o requerimiento para seguimiento del cliente. A partir de los avisos se podría monitorear la trazabilidad de los requerimientos, siendo posible configurar diferentes tipos de status, tipos de avisos, catálogos, medidas. De esta manera toda la gestión e información de las cartas queda registrada en los avisos, sin necesidad de utilización de medios externos">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ApplicationComponent>

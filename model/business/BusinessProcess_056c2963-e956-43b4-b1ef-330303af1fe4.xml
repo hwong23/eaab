@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recaudo"
     id="056c2963-e956-43b4-b1ef-330303af1fe4"
-    documentation="Atención al Cliente&#xA;Cartera">
+    documentation="Extracción de datos consolidados mensualmente por BW, manipulados posteriormente para análisis y presentación a otras áreas EAAB.">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>

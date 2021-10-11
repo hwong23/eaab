@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Facturación"
     id="083898ce-972c-4acf-8eb5-cd784e5a09e9"
-    documentation="&#xA;Atención al Cliente&#xA;Cartera">
+    documentation="1. El proceso de lectura resulta farragoso porque intervienen distintos sistemas y hay un intercambio continuo de informaciones entre sistemas que puede crear incongruencias de datos.&#xD;&#xA;1. Cálculo y liquidación de clientes suspendidos: Los clientes con status suspendidos (con medidor instalado, pero con servicio suspendido) son leídos cada 2 meses (conforme al calendario de la MRU/CC), pero no son calculados ni facturados. Van a ser facturados solamente cuando el contrato sea activado nuevamente. No hay control si hay consumo durante el periodo de suspensión porque el control es manual.&#xD;&#xA;1. Se deduce por los comentarios recibidos que las rutas de lectura no están correctamente dimensionadas y por esto en cada ciclo hay modificaciones. Todos los meses se ejecuta un proceso manual llamado &quot;selección&quot;, donde una persona manualmente hace el vínculo del lecturista con la ruta. No importa que sea el mismo lector del último mes, hay que ejecutar el proceso manual. En este proceso los errores catastrales son identificados y corregidos manualmente.&#xD;&#xA;1. La entrada de lecturas en ISU es hecha para toda una MRU y vía IDOC.&#xD;&#xA;1. Facturación colectiva: No se genera una Factura Colectiva.&#xD;&#xA;1. Planeamiento de lecturas, cálculo y facturación: Todo el planeamiento y control de facturación es hecho manualmente en un Excel.&#xD;&#xA;">
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>

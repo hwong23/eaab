@@ -1,5 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de Medición"
+    name="Medición"
     id="cedb235b-e86a-475f-82a1-08fb81dd596b"
-    documentation="Facturación&#xA;Recaudo&#xA;Atención al Cliente&#xA;Cartera"/>
+    documentation="Facturación&#xA;Recaudo&#xA;Atención al Cliente&#xA;Cartera">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessProcess>

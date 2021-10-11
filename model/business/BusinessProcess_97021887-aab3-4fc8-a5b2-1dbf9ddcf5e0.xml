@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Atención al Cliente"
     id="97021887-aab3-4fc8-a5b2-1dbf9ddcf5e0"
-    documentation="&#xA;&#xA;"/>
+    documentation="1. El proceso de relectura es ejecutado en campo con una nota de servicio. La creación de las notas es un proceso manual, pero hay tiempos definidos por la legislación para la ejecución en campo que incluyen avisar el cliente de la ejecución.&#xD;&#xA;1. Costos planificados/realizados: El sistema actual no permite transferir, de forma natural o vía interfaz, información al sistema ERP de las órdenes de servicio para el cálculo de costos.&#xD;&#xA;1. Integración y consolidación de la información: La funcionalidad del sistema ISU hoy no aparece ligada de manera natural y en línea con las funcionalidades de compras, inventario, contabilidad, costos y presupuestos.&#xD;&#xA;">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PQRS.Servicio Petición"
+    id="id-b298921030dc4360a2a0bb6f50b79fa0"
+    documentation="Servicio que permite ejercer el derecho que tiene toda persona individual o jurídica, o partes interesadas de la EAABESP de solicitar o reclamar ante la empresa en razón de su interés público ya sea individual, general o colectivo ante la prestación de servicios de la entidad.PQRS Servicio Queja Es la manifestación legítima de protesta, censura, descontento o inconformidad que formula una persona en relación con una conducta que considera irregular de uno o varios servidores públicos en desarrollo de sus funciones.PQRS Servicio Reclamo Es el derecho que tiene toda persona de exigir, reivindicar o demandar una solución, ya sea por motivo general o particular, referente a la prestación indebida de un servicio, la falta de atención de una solicitud o para ejercer su derecho de habeas data.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

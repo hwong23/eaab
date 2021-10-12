@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="export"
-    id="id-39e0fa43b20449b3ba45230dad7d57ee">
+    name="Servicios de negocio EAAB"
+    id="id-de97ee1e91924a1b9d9216c919e1a51e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-14a946ceca7f47ea96c8642facd32cb8">
+      id="id-c9de292203784521957274f985f373b0">
     <bounds
-        x="24"
-        y="72"
+        x="104"
+        y="99"
         width="120"
         height="55"/>
     <archimateElement

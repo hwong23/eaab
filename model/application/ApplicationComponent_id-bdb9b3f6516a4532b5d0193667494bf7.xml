@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flujo del Trabajo"
+    id="id-bdb9b3f6516a4532b5d0193667494bf7"
+    documentation="Procesos de liberación.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ApplicationComponent>

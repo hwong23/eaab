@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inteligencia del Negocio"
+    id="id-78dd4a66be9b4702b3f4d5d91c30e73f"
+    documentation="Procesamiento de información empresarial.&#xD;&#xA;">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:ApplicationComponent>

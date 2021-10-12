@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio.Servicio Geo portal"
+    id="id-3117e3fe23e2463ab65e57ffc1ca0153"
+    documentation="Geo portal es un tipo de portal web que se utiliza para encontrar y acceder a información geográfica y servicios geográficos asociados a través de Internet. Los geos portalesson importantes para el uso eficaz de los sistemas de información geográfica y un elemento clave de la infraestructura de datos.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

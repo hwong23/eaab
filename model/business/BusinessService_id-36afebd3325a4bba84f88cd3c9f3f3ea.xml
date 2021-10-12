@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio.Reporte Tapas faltantes"
+    id="id-36afebd3325a4bba84f88cd3c9f3f3ea"
+    documentation="Servicio disponible a los ciudadanos para reportar pérdida, robo o deterioro de tapas faltantes de alcantarillado.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

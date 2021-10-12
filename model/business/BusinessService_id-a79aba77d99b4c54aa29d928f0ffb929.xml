@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Acometidas De Acueducto"
+    id="id-a79aba77d99b4c54aa29d928f0ffb929"
+    documentation="Para acceder al servicio de acueducto, es responsabilidad del constructor y/o urbanizador, la construcción y adecuación técnica, previa revisión de la EAAB-ESP, de la Acometida de acueducto que es la derivación de la red de distribución que se conecta al registro de corte en el inmueble. En edificios de propiedad horizontal o condominios la acometida llega hasta el registro de corte general; Este trámite también comprende la instalación de los medidores y la Activación y facturación del servicio de acometidas de acueducto (Definida en el Decreto 1077 de 2015).">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

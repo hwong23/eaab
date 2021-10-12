@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio.Laboratorios"
+    id="id-d111d865b1274c4b81593fc8ba91c58d"
+    documentation="La Empresa presta servicios técnicos a través de los laboratorios de Aguas, Medidores, Suelos y Materiales y el área de Hidrología básica a través de los cuales, los usuarios nacionales e internacionales pueden acceder a resultados confiables de análisis científicos, calibración de medidores y datos de mediciones hidro meteorologías.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

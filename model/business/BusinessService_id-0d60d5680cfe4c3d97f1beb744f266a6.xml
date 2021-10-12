@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PQRS.Recurso de Reposición"
+    id="id-0d60d5680cfe4c3d97f1beb744f266a6"
+    documentation="Se trata de un recurso ordinario que se abre en contra de decisiones tanto administrativas como judiciales para que estas sean evaluadas Conforme al recurso de reposición, una decisión puede ser reformada o revocada.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

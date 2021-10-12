@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comerciales.Cambio de la clase de uso de un inmueble al cual se le brinda el servicio público"
+    id="id-933606febbaa421989a18048ac260242"
+    documentation="Cambiar la clase de uso actual del inmueble en el cual se presta el servicio público de acuerdo con la utilización que éste tiene, puede ser residencial, industrial, comercial, oficial o especial.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

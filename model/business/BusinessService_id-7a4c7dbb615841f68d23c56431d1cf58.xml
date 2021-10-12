@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comerciales.Cambios en la factura de servicio público"
+    id="id-7a4c7dbb615841f68d23c56431d1cf58"
+    documentation="Modificar la información registrada en la base de datos del servicio público concerniente al nombre del propietario, dirección y/o al estrato del predio.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Restablecimiento del servicio público"
+    id="id-4d3f4f07aefd4f0d8e62dde101e16b43"
+    documentation="Conectar nuevamente el servicio público a un inmueble al cual se le había suspendido.Técnicos Trámite Suspensión del servicio públicoSuspender el servicio público por mutuo acuerdo entre el suscriptor y el prestador del servicio.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

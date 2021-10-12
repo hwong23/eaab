@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Acometidas de Alcantarillado"
+    id="id-7b21bebc76624fc0975864cdbd3431e4"
+    documentation="Para acceder al servicio de alcantarillado, es responsabilidad del constructor y/o urbanizador, laconstrucciónyadecuación técnica, previa revisión de la EAAB-ESP, de la Acometidade Alcantarillado que es la derivación que parte de la cajade inspección domiciliaria y, llega hasta la red secundariade alcantarillado o al colector. (Definida en el Decreto 1077 de 2015).">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

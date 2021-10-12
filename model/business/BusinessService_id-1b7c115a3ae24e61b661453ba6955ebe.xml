@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Factibilidad de servicios públicos"
+    id="id-1b7c115a3ae24e61b661453ba6955ebe"
+    documentation="Obtener el documento mediante el cual se establecen las condiciones técnicas, jurídicas y económicas que permitan ejecutar la infraestructura de servicios públicos dentro de procesos de urbanización que se adelanten mediante un plan parcial.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

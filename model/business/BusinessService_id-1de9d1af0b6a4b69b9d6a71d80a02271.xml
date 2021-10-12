@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Aprobación de Diseños de Redes Externas"
+    id="id-1de9d1af0b6a4b69b9d6a71d80a02271"
+    documentation="El urbanizador elabora y presenta para aprobación de la EAAB-ESP, los diseños de redes externas de acueducto y alcantarillado para todo el predio, de acuerdo con la Certificación de Viabilidad y Disponibilidad Inmediata de Servicios Públicos, la licencia de Urbanismo vigente y la alternativa técnica que considere conveniente y se ajuste a las normas técnicas del SISTEC.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

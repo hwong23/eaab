@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Viabilidad y disponibilidad de servicios públicos"
+    id="id-392de7a6f9324dcda4e6b7453a7d535d"
+    documentation="Obtener el documento mediante el cual se certifica la posibilidad técnica de conectar un predio o predios objeto de la licencia urbanística a las redes matrices de servicios públicos existentes.Técnicos Servicio Servicio prueba Cambiar la clase de uso actual del inmueble en el cual se presta el servicio público de acuerdo con la utilización que éste tiene, puede ser residencial, industrial, comercial, oficial o especial.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Supervisión técnica de urbanizadores"
+    id="id-7760352653d94f7689b5d5fddbe2ba55"
+    documentation="Es el trámite mediante el cual la EAAB-ESP, realiza la supervisión técnica y administrativa de las obras a ejecutar por parte de los urbanizadores aprobadas mediante la carta de compromisos. Las obras deberán ejecutarse según las especificaciones contenidas en los diseños aprobados por la EAAB-ESP, verificando el cumplimiento del Manual de Supervisión Técnica, la norma técnica de la EAAB-ESP y la carta de compromiso.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

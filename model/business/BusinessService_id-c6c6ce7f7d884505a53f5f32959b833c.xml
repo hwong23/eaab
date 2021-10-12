@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Instalación, mantenimiento o reparación de medidores"
+    id="id-c6c6ce7f7d884505a53f5f32959b833c"
+    documentation="Instalación y mantenimiento de los instrumentos para medir los consumos reales de los usuarios.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

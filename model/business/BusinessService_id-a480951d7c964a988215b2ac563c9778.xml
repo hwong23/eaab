@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Técnicos.Conexión a los servicios públicos"
+    id="id-a480951d7c964a988215b2ac563c9778"
+    documentation="Acceder al servicio público para un predio residencial, comercial, industrial, oficial o especial.">
+  <properties
+      key="URL"
+      value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+</archimate:BusinessService>

@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ERP SAP R3 EAAB"
+    name="ERP SAP R3 EAAB  SAPSR3"
     id="id-59772e4a4a1f4e4e887727de9ccd3873"
-    documentation="SAP ERP 6.08 implementado en la EAAB. &#xD;&#xA;"/>
+    documentation="SAP ERP 6.08 implementado en la EAAB. &#xD;&#xA;&#xD;&#xA;CAPACIDADES DE INFORMACION (Datos)&#xD;&#xA;Gestión de Materiales (MM)&#xD;&#xA;Producción (PP)&#xD;&#xA;Gestión de Calidad (QM)&#xD;&#xA;Mantenimiento (PM)&#xD;&#xA;Gestión de Servicios (CS)&#xD;&#xA;Proyectos (PS)&#xD;&#xA;Gestión de Inversión (IM)&#xD;&#xA;Finanzas (FI)&#xD;&#xA;Costos (CO)&#xD;&#xA;Tesorería (TR)&#xD;&#xA;Presupuesto Público (PSM-FM)&#xD;&#xA;Recursos Humanos (HCM)&#xD;&#xA;Utilities (IS-U)&#xD;&#xA;Ventas y Distribución (SD)&#xD;&#xA;"/>

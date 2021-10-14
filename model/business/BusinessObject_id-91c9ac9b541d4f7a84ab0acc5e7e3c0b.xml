@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Componentes de Informacion"
-    id="id-91c9ac9b541d4f7a84ab0acc5e7e3c0b"/>
+    id="id-91c9ac9b541d4f7a84ab0acc5e7e3c0b"
+    documentation="Todas las entidades de datos, tales como: tablas,&#xD;&#xA;estructuras, vistas, entre otros, se encuentran definidos dentro del esquema SAPSR3 sobre una base de datos ORACLE 19.6.0.0"/>

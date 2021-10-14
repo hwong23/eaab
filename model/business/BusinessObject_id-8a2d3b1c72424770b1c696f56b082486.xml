@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAPSR3"
+    id="id-8a2d3b1c72424770b1c696f56b082486"
+    documentation="CAPACIDADES DE INFORMACION (Datos)&#xD;&#xA;Gestión de Materiales (MM)&#xD;&#xA;Producción (PP)&#xD;&#xA;Gestión de Calidad (QM)&#xD;&#xA;Mantenimiento (PM)&#xD;&#xA;Gestión de Servicios (CS)&#xD;&#xA;Proyectos (PS)&#xD;&#xA;Gestión de Inversión (IM)&#xD;&#xA;Finanzas (FI)&#xD;&#xA;Costos (CO)&#xD;&#xA;Tesorería (TR)&#xD;&#xA;Presupuesto Público (PSM-FM)&#xD;&#xA;Recursos Humanos (HCM)&#xD;&#xA;Utilities (IS-U)&#xD;&#xA;Ventas y Distribución (SD)"/>

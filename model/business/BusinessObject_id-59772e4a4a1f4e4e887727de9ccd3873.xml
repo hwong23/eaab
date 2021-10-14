@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ERP SAP R3 EAAB"
+    id="id-59772e4a4a1f4e4e887727de9ccd3873"
+    documentation="SAP&#xD;&#xA;ERP 6.08 implementado en la EAAB. Todas las entidades de datos, tales como: tablas,&#xD;&#xA;estructuras, vistas, entre otros, se encuentran definidos dentro del esquema SAPSR3 sobre una base de datos ORACLE 19.6.0.0&#xD;&#xA;"/>

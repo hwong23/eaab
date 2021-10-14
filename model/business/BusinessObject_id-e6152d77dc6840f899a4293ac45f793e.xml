@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caracteristicas Fundamentales"
+    id="id-e6152d77dc6840f899a4293ac45f793e"
+    documentation="Las principales cualidades que debe tener un Sistema de gestión documental son:&#xD;&#xA;•&#x9;Introducción ágil de la documentación&#xD;&#xA;•&#x9;Seguridad: Control de acceso a los documentos&#xD;&#xA;•&#x9;Seguridad: Trazabilidad: registro de las operaciones que realizan los usuarios&#xD;&#xA;•&#x9;Seguridad: Robustez de la base de datos (y basada en un estándar)&#xD;&#xA;•&#x9;Sistema de búsquedas: potente (con opciones) y rápido&#xD;&#xA;•&#x9;Conexión con otros programas o sistemas internos o externos &#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elementos Necesarios"
+    id="id-ed107c3864174e44ae449bed488872b0"
+    documentation="•&#x9;Servidor, en el que se instala la base de datos en la que se almacenan todos los documentos y sus datos asociados.&#xD;&#xA;•&#x9;Puestos o clientes, que acceden al servidor y muestran la información de una forma clara.&#xD;&#xA;•&#x9;Escáner, en uno o más puestos de trabajo, para “alimentar” al sistema con los documentos en papel.&#xD;&#xA;. Impresoras de Rotulación&#xD;&#xA;&#xD;&#xA;Sistema de copias de seguridad, en el servidor o en cualquier punto de la red local.&#xD;&#xA;Otra Opción puede ser la incorporación de un servidor Web para permitir el acceso a los datos a través de la Web.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

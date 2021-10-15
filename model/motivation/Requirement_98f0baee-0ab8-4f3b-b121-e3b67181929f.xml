@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autenticidad"
+    id="98f0baee-0ab8-4f3b-b121-e3b67181929f"
+    documentation="Garantizar la autenticidad de los documentos, tanto físicos, digitalizado y con firma digital. El proceso de firmado debe realizarse dentro del SGDEA, lo cual evita que las firmas sean alteradas o cambiadas por una distinta a la del autor o firmante del documento. &#xA;"/>

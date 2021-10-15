@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procesos Archivísticos"
+    id="e5aa967e-df08-4292-8c12-9e1ba148c0bc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="96c37660-fcca-4b2d-b9e2-7108bc9e0189">
+    <bounds
+        x="173"
+        y="38"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_721d7bb8-8afb-4d43-a11f-29cfc79ed070.xml#721d7bb8-8afb-4d43-a11f-29cfc79ed070"/>
+  </children>
+</archimate:ArchimateDiagramModel>

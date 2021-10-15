@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verificación continua del documento"
+    id="155abf7e-8648-48e5-b320-6eea64ef8ce8"
+    documentation="Según el estándar aplicable en Colombia en cumplimiento de las políticas de seguridad, se debe asegurar la autenticidad, confidencialidad, integridad y disponibilidad de los datos, los documentos y los procesos, por lo tanto, se debe realizar un diagnóstico de seguridad a sistemas y servicios que permita identificar vulnerabilidades, riesgos y posibles amenazas para la información.&#xA;"/>

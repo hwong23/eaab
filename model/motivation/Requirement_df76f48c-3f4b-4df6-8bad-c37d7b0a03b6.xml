@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confidencialidad"
+    id="df76f48c-3f4b-4df6-8bad-c37d7b0a03b6"
+    documentation="Los documentos solo pueden ser accedidos a través de estas herramientas por los usuarios autorizados sea entre dependencias o de la misma dependencia. Las herramientas pueden garantizar, de ser necesario, que usuarios de otras dependencias no puedan visualizar ni acceder a la información."/>

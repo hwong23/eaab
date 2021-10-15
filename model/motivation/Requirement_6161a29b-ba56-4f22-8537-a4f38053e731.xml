@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integridad"
+    id="6161a29b-ba56-4f22-8537-a4f38053e731"
+    documentation="Es necesario que un documento esté protegido contra modificaciones no autorizadas. Hace referencia al carácter completo e inalterado del documento electrónico. Según el principio de seguridad de la información, debe salvaguardar la exactitud y totalidad de la información y los métodos de procesamiento asociados a la misma. "/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mantenimiento"
+    id="721d7bb8-8afb-4d43-a11f-29cfc79ed070"
+    documentation="Esta etapa hace referencia a los aspectos que permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la Entidad.&#xA;&#xA;* Actividades que realizan una verificación continúa a la integridad del documento almacenado.&#xA;* Controles adecuados de seguridad sobre los documentos.&#xA;* Sistema de información que conserva los documentos electrónicos.&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos.&#xA;* Firmas electrónicas y digitales en los documentos.&#xA;"/>

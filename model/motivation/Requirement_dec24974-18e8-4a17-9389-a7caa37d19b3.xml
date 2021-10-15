@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Disponibilidad"
+    name="REQ505. Disponibilidad"
     id="dec24974-18e8-4a17-9389-a7caa37d19b3"
     documentation="Las herramientas del SGDEA deben garantizar la máxima disponibilidad de los documentos; es decir, mantener entre 90% y 99% el porcentaje de disponibilidad que mide el tiempo en que los documentos están al alcance de quien puede accederlos en el momento en que lo haga."/>

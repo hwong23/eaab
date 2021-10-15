@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC303. Gestión de edición de metadatos"
+    id="ebc1d85b-844a-4bbc-977a-62faa4147cb0"
+    documentation="Controlar que metadatos se pueden modificar y cuáles no"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC310. Control expediente"
+    id="6cf72d51-945d-4109-a3cc-049de83cd8d8"
+    documentation="Si el expediente se encuentra cerrado no se permitan adicionar ni modificar documentos"/>

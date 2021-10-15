@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registros deEjecución deCalibración yEnsayo 52.1"
-    id="id-3912f56e68ef49449b251eaf239e633b"/>
+    name="Subserie 52.1 Registros deEjecución deCalibración yEnsayo "
+    id="id-3912f56e68ef49449b251eaf239e633b"
+    documentation="Tipo Documental&#xD;&#xA;&#xD;&#xA;Registro de apertura y consumo de reactivos&#xD;&#xA;Registro de preparación&#xD;&#xA;Registro de datos y calculo manual&#xD;&#xA;Registro de verificación de las pruebas ensayos dimensionales&#xD;&#xA;Planilla de calibración&#xD;&#xA;Registro de datos&#xD;&#xA;primarios de calibración o ensayo&#xD;&#xA;Registro de control de calidad"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC316. Autenticación de usuario firmante"
+    id="id-bc0febb4ebd54dc09358fa3753ed6267"
+    documentation="La autenticación emergente corrobora que el usuario firmante es quien dice ser antes de rubricar el documento.&#xD;&#xA;"/>

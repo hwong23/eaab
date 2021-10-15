@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Correo Certificado"
-    id="id-987e6bb38706471bab87e08878b2dce7">
+    id="id-987e6bb38706471bab87e08878b2dce7"
+    documentation="Definido por la UPU (Unión Postal Universal), como servicio accesorio a los servicios de correspondencia y encomienda, que comporta una garantía fija contra los riesgos de pérdida, expoliación o avería, y que facilita al remitente, a petición de éste, una prueba de depósito del envío postal y de su entrega al destinatario.  &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a29516fc2ae4424c8883669c531afcf2">

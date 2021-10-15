@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FUNC319. Almacenamiento de la (s) Firma"
-    id="id-57d554d59c1d4765ace8839709b9a87c"/>
+    id="id-57d554d59c1d4765ace8839709b9a87c"
+    documentation="Funcionalidad del SGDEA de almacenamiento de la firma digital y datos asociados a los firmantes.&#xD;&#xA;"/>

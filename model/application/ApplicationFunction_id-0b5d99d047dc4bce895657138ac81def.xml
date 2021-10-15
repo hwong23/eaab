@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC315. Límite de tiempo de edición (copy)"
+    id="id-0b5d99d047dc4bce895657138ac81def"
+    documentation="Defina un tiempo después del cual el documento no se pueda modificar una vez almacenado"/>

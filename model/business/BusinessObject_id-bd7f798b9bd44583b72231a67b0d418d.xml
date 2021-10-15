@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identificar involucrados y sus Intereses"
-    id="id-bd7f798b9bd44583b72231a67b0d418d"/>
+    id="id-bd7f798b9bd44583b72231a67b0d418d"
+    documentation="Identificación de involucrados"/>

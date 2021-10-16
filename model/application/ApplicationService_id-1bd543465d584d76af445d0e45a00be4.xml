@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servicio Correo Certificado"
-    id="id-1bd543465d584d76af445d0e45a00be4"/>
+    name="SERV21. Servicio Correo Certificado"
+    id="id-1bd543465d584d76af445d0e45a00be4"
+    documentation="Punto de entrada al servicio externo de certificación de correo físico y electrónico.&#xA;"/>

@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="usa"
+    name="consume"
     id="id-da0394d63f4442119e31946b19fde892">
   <source
       xsi:type="archimate:ApplicationService"

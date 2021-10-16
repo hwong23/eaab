@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servicio Firma Digital"
-    id="id-a0ea223cdba84cc3bcc9c40055848b7d"/>
+    name="SERV20. Servicio Firma Digital"
+    id="id-a0ea223cdba84cc3bcc9c40055848b7d"
+    documentation="Punto de entrada y exposición de los componentes activos que implementan la firma digital.&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generación de clave dinámica"
-    id="id-6a2020b09b36419684f9cc24866dafb2"/>
+    name="COMP28. Generación de clave dinámica"
+    id="id-6a2020b09b36419684f9cc24866dafb2"
+    documentation="Implementa la funcionalidad de generación de clave dinámica (token) para el firmado temporal de documentos que garanticen el no repudio.&#xA;"/>

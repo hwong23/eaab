@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Flujos de Trabajo (WFM)"
-    id="id-17b7c940360f4cf6b32d257bd49a59a9"/>
+    name="Flujos Documentales (WFM)"
+    id="id-17b7c940360f4cf6b32d257bd49a59a9"
+    documentation="Motor de ejecución de flujos de trabajo documental del SGDEA.&#xA;"/>

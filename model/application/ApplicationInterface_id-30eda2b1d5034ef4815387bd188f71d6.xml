@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FLUJ27. Flujo Almacenamiento de la (s) Firma"
-    id="id-30eda2b1d5034ef4815387bd188f71d6"/>
+    name="FLUJ27. Flujo validación documento firmado"
+    id="id-30eda2b1d5034ef4815387bd188f71d6"
+    documentation="Validación de la autenticidad del documento firmado y de la firma.&#xA;"/>

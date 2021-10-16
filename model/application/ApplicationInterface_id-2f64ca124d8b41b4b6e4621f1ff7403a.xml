@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FLUJ25. Acceso y Edición de la Firma"
-    id="id-2f64ca124d8b41b4b6e4621f1ff7403a"/>
+    name="FLUJ25. Flujo acceso y edición de la firma"
+    id="id-2f64ca124d8b41b4b6e4621f1ff7403a"
+    documentation="Flujo de trabajo de edición de la firma electrónica y certificado digital del autor."/>

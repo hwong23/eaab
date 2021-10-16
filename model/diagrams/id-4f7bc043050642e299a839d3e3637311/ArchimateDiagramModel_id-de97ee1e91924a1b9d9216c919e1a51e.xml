@@ -9,7 +9,7 @@
     <bounds
         x="36"
         y="24"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -21,7 +21,7 @@
     <bounds
         x="186"
         y="24"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -33,7 +33,7 @@
     <bounds
         x="336"
         y="24"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -45,7 +45,7 @@
     <bounds
         x="36"
         y="84"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -57,7 +57,7 @@
     <bounds
         x="186"
         y="84"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -69,7 +69,7 @@
     <bounds
         x="336"
         y="84"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -81,7 +81,7 @@
     <bounds
         x="492"
         y="84"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -91,9 +91,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-816f27317e0b426a8db432a8c5178eb5">
     <bounds
-        x="642"
-        y="84"
-        width="120"
+        x="36"
+        y="324"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -103,9 +103,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7dcb2a64643847ca880db29f37768069">
     <bounds
-        x="792"
-        y="84"
-        width="120"
+        x="186"
+        y="324"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -117,7 +117,7 @@
     <bounds
         x="36"
         y="144"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -129,7 +129,7 @@
     <bounds
         x="186"
         y="144"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -141,7 +141,7 @@
     <bounds
         x="336"
         y="144"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -153,7 +153,7 @@
     <bounds
         x="492"
         y="144"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -163,9 +163,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-32e45f36b7844debadf8107451e7e196">
     <bounds
-        x="642"
-        y="144"
-        width="120"
+        x="36"
+        y="384"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -175,9 +175,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ae1597d89a284c518821f8929e6cc5cb">
     <bounds
-        x="792"
-        y="144"
-        width="120"
+        x="186"
+        y="384"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -189,7 +189,7 @@
     <bounds
         x="492"
         y="204"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -199,9 +199,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-59bbce96096e4e3a8e2de18888e098ab">
     <bounds
-        x="642"
-        y="204"
-        width="120"
+        x="342"
+        y="324"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -211,9 +211,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7d37d83fa8dd4eeda594a3d09ad26b5f">
     <bounds
-        x="792"
-        y="204"
-        width="120"
+        x="492"
+        y="324"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -225,7 +225,7 @@
     <bounds
         x="36"
         y="204"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -237,7 +237,7 @@
     <bounds
         x="186"
         y="204"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -249,7 +249,7 @@
     <bounds
         x="336"
         y="204"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -261,7 +261,7 @@
     <bounds
         x="36"
         y="264"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -273,7 +273,7 @@
     <bounds
         x="186"
         y="264"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -285,7 +285,7 @@
     <bounds
         x="336"
         y="264"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -297,7 +297,7 @@
     <bounds
         x="491"
         y="24"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -307,9 +307,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ab73290a452242f1b3b9d1b9f2753c35">
     <bounds
-        x="642"
-        y="24"
-        width="120"
+        x="492"
+        y="264"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"

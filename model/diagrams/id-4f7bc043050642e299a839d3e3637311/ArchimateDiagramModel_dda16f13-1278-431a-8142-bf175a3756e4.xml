@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contenido. Firma Digital (mantenimiento)"
     id="dda16f13-1278-431a-8142-bf175a3756e4"
-    documentation="Aspectos que permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la Entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos.&#xA;* Actividades que realizan una verificación continúa a la integridad del documento almacenado.&#xA;* Controles adecuados de seguridad sobre los documentos.&#xA;* Sistema de información que conserva los documentos electrónicos.&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos.&#xA;">
+    documentation="Los aspectos del SGDEA de EAAB que permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la Entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos&#xA;* Verificación continúa a la integridad del documento almacenado&#xA;* Controles adecuados de seguridad sobre los documentos&#xA;* Sistema de información que conserva los documentos electrónicos&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c6fd3169-e479-4ea5-b21e-e9ba979858c0"
@@ -101,15 +101,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-43b85960a0cc40d481781e040cb9d0b1.xml#id-43b85960a0cc40d481781e040cb9d0b1"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5dcb25171c3c45489daed6d1b4a2f67e"
-        source="6e52ba84-6f7b-42c6-aed6-a15af077a32a"
-        target="id-d84f36016632405797d07b26897dc094">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-c67133b7540a43ad8911132802c2191d.xml#id-c67133b7540a43ad8911132802c2191d"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -330,19 +321,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-d84f36016632405797d07b26897dc094"
-        targetConnections="id-5dcb25171c3c45489daed6d1b4a2f67e">
-      <bounds
-          x="648"
-          y="228"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:DataObject"
-          href="DataObject_id-4615ce81f176458a8a0b255f029b7824.xml#id-4615ce81f176458a8a0b255f029b7824"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-239e22169b1a45f7a3f15f1cce3c77a8"
         targetConnections="id-9ed8e63f15b94d4a893c0b04f8d5461d">
       <bounds
@@ -463,8 +441,8 @@
         id="id-449a92e70d8b4f9986d958e0d24373a1"
         targetConnections="id-f505e24956094046b1bc8d60dd6e3928">
       <bounds
-          x="48"
-          y="384"
+          x="648"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement

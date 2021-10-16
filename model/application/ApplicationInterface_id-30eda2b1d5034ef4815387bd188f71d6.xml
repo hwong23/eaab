@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FLUJ27. Flujo validación documento firmado"
     id="id-30eda2b1d5034ef4815387bd188f71d6"
-    documentation="Validación de la autenticidad del documento firmado y de la firma.&#xA;"/>
+    documentation="Validación de la autenticidad del documento firmado y de la firma.&#xA;&#xA;1. Acceso al documento&#xA;1. Ingreso de la firma del autor&#xA;1. Verificación de documento y firma&#xA;"/>

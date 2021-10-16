@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COMP26. Firmas digitales"
-    id="id-3ca89f47464a4a21aaddad44cb1ff779"
+    name="COMP29. Firmas electrónicas"
+    id="4fcb46bb-2647-4a25-bed5-5b6047e8b9c4"
     documentation="Implementa funcionalidad de inserción de firma digital al documento."/>

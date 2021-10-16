@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firma Digital. Mantenimiento"
     id="dda16f13-1278-431a-8142-bf175a3756e4"
-    documentation="Los aspectos del SGDEA de EAAB que permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la Entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos&#xA;* Verificación continúa a la integridad del documento almacenado&#xA;* Controles adecuados de seguridad sobre los documentos&#xA;* Sistema de información que conserva los documentos electrónicos&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos&#xA;">
+    documentation="Los aspectos del SGDEA de EAAB relacionados con la solución de Firma Digital que le permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos&#xA;* Verificación continúa a la integridad del documento almacenado&#xA;* Controles adecuados de seguridad sobre los documentos&#xA;* Sistema de información que conserva los documentos electrónicos&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c6fd3169-e479-4ea5-b21e-e9ba979858c0"
@@ -988,7 +988,7 @@
         id="7aa87976-1ede-4cc2-aea6-609586f0fc87"
         targetConnections="id-977959bd6c7344a58917b4cc8351adfa">
       <bounds
-          x="12"
+          x="36"
           y="48"
           width="144"
           height="55"/>
@@ -1001,7 +1001,7 @@
         id="e1393233-f066-4884-948a-27d757d77069"
         targetConnections="id-990227601b974a079f206b38610e87ff">
       <bounds
-          x="168"
+          x="192"
           y="48"
           width="144"
           height="55"/>
@@ -1014,7 +1014,7 @@
         id="693bb611-a16f-4041-ab37-898e46d35729"
         targetConnections="id-c299a2ed8078475daeeaa9256b7b1054">
       <bounds
-          x="168"
+          x="192"
           y="168"
           width="144"
           height="55"/>
@@ -1027,7 +1027,7 @@
         id="cc8bc2bb-b9ff-4f6a-a0dc-0c363d8f76f5"
         targetConnections="id-48fff24e64014472981268d74d6e31dc">
       <bounds
-          x="12"
+          x="36"
           y="108"
           width="144"
           height="55"/>
@@ -1040,7 +1040,7 @@
         id="id-12040d032e964a5881f5f1e4e4b8cddf"
         targetConnections="id-459699125f80448fbb87ecd54a707b39">
       <bounds
-          x="168"
+          x="192"
           y="108"
           width="144"
           height="55"/>
@@ -1053,7 +1053,7 @@
         id="id-f9c8ef14414e45869f49cd9bf00466f7"
         targetConnections="id-476898de24464517a8fd084748bd9e6a">
       <bounds
-          x="12"
+          x="36"
           y="168"
           width="144"
           height="55"/>
@@ -1064,5 +1064,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-3d44b4b6f6c941f1bd67f65602baa86f.xml#id-3d44b4b6f6c941f1bd67f65602baa86f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="00a98b7a-cac2-4808-96f7-d6060ca438f6"
+      textAlignment="1"
+      content="Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. &#xA;&#xA;Alcance, Motivaciones, Requerimientos y Funcionalidades.&#xD;&#xA;v0.5&#xA;">
+    <bounds
+        x="84"
+        y="-144"
+        width="205"
+        height="96"/>
   </children>
 </archimate:ArchimateDiagramModel>

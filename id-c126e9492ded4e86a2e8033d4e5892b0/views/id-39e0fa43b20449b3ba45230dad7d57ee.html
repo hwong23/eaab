@@ -32,6 +32,14 @@
 
 		<div class="panel-body root-panel-body">
 		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-39e0fa43b20449b3ba45230dad7d57ee.png" alt="export" usemap="#id-39e0fa43b20449b3ba45230dad7d57eemap"/>
+			   <map name="id-39e0fa43b20449b3ba45230dad7d57eemap">
+				  		<area shape="rect" coords="142,10,262,65" href="../elements/eaf3acc5-190a-489d-9e04-3d7d1e1cb303.html"  target="element">
+				  		<area shape="rect" coords="310,94,430,149" href="../elements/id-4786e451228a4ef3880cb5def2ce886f.html"  target="element">
+				  		<area shape="rect" coords="10,94,130,149" href="../elements/id-85d14aee095f4806a80a508f06aeddcf.html"  target="element">
+				  		<area shape="rect" coords="10,226,130,281" href="../elements/id-fece3a0a1f55484eacf6410df0e49548.html"  target="element">
+
+			   </map>
 
 			<div role="tabpanel">
 				<!-- Nav tabs -->
@@ -42,12 +50,16 @@
                     <!-- Properties -->
                     <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
 
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+						<textarea id="docsrc" style="display:none"></textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">
@@ -61,6 +73,68 @@
 							</tbody>
 						</table>
 					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-fece3a0a1f55484eacf6410df0e49548.html" target="element"> Servicio.Bot&#243;n PSE </a> </td>
+											    <td> <a href="../elements/id-fece3a0a1f55484eacf6410df0e49548.html" target="element" class="i18n-elementtype-BusinessService"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-85d14aee095f4806a80a508f06aeddcf.html" target="element"> Representation </a> </td>
+											    <td> <a href="../elements/id-85d14aee095f4806a80a508f06aeddcf.html" target="element" class="i18n-elementtype-Representation"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-4786e451228a4ef3880cb5def2ce886f.html" target="element"> Business Object </a> </td>
+											    <td> <a href="../elements/id-4786e451228a4ef3880cb5def2ce886f.html" target="element" class="i18n-elementtype-BusinessObject"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/eaf3acc5-190a-489d-9e04-3d7d1e1cb303.html" target="element"> Resource (copy) </a> </td>
+											    <td> <a href="../elements/eaf3acc5-190a-489d-9e04-3d7d1e1cb303.html" target="element" class="i18n-elementtype-Resource"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-fd5334fdd2a7401db7088fad695183fa.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-fd5334fdd2a7401db7088fad695183fa.html" target="element" class="i18n-elementtype-AssociationRelationship"></a> </td>
+																		<td> <a href="../elements/id-85d14aee095f4806a80a508f06aeddcf.html" target="element"> Representation </a> </td>
+																		<td> <a href="../elements/id-fece3a0a1f55484eacf6410df0e49548.html" target="element"> Servicio.Bot&#243;n PSE </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-685ee55a892042c194858a2132f34506.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-685ee55a892042c194858a2132f34506.html" target="element" class="i18n-elementtype-AssociationRelationship"></a> </td>
+																		<td> <a href="../elements/id-4786e451228a4ef3880cb5def2ce886f.html" target="element"> Business Object </a> </td>
+																		<td> <a href="../elements/id-85d14aee095f4806a80a508f06aeddcf.html" target="element"> Representation </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
 			  </div>
 			</div>
 		</div>

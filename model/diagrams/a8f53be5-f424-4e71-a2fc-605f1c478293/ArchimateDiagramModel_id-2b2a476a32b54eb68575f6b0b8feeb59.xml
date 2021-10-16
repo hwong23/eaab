@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firma Digital. Solución"
     id="id-2b2a476a32b54eb68575f6b0b8feeb59"
-    documentation="En este solución comprende los tipos de firmas que se utilizan con los tipos documentales analizados de las dependencias de la EAAB basados en los documentos de analisis y levantamiento de información realizados en la entidad.&#xA;">
+    documentation="Esta solución comprende los tipos de firmas que se utilizan con los tipos documentales analizados de las dependencias de la EAAB basados en los documentos de análisis y levantamiento de información realizados en la entidad.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e8a8cc6c8adb4faeb477f5c227bf4021"

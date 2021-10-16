@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Firma Digital. Mantenimiento"
+    name="Firma Digital. Matriz de Requerimientos y Funcionalidades"
     id="dda16f13-1278-431a-8142-bf175a3756e4"
-    documentation="Los aspectos del SGDEA de EAAB relacionados con la solución de Firma Digital que le permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos&#xA;* Verificación continúa a la integridad del documento almacenado&#xA;* Controles adecuados de seguridad sobre los documentos&#xA;* Sistema de información que conserva los documentos electrónicos&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos&#xA;">
+    documentation="Los aspectos del SGDEA de EAAB relacionados con la solución de Firma Digital que permiten mantener y asegurar la integridad, autenticidad y disponibilidad de los documentos en la entidad.&#xA;&#xA;* Firmas electrónicas y digitales en los documentos&#xA;* Verificación continúa a la integridad del documento almacenado&#xA;* Controles adecuados de seguridad sobre los documentos&#xA;* Sistema de información que conserva los documentos electrónicos&#xA;* Copias de seguridad y frecuencia para recuperación de los documentos&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c6fd3169-e479-4ea5-b21e-e9ba979858c0"

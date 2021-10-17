@@ -1,5 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GOL201. Solución integral de autenticidad"
+    name="GOL201. Solución Integral de Autenticidad"
     id="b969157c-06ce-4738-8ba7-ced68f1b388a"
     documentation="El SGDEA debe incluir un circuito propio de firma electrónica que integre todas las herramientas y conecte los servicios y proveedores de firma digital de documentos, correo electrónico certificado y estampa cronológica, de tal manera que el SGDEA unifique las funcionalidades de firmar documentos digitalmente.&#xA;"/>

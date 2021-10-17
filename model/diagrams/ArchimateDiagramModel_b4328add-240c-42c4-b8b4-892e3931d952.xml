@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BMM"
     id="b4328add-240c-42c4-b8b4-892e3931d952"
-    documentation="#### Motivaciones de la EAAB para la implementación del SGDEA integral&#xA;Las motivaciones misionales que dirigen a la EAAB ESP a la implementación de un SGDEA integral que será el &quot;ERP&quot; de gestión documental de toda la organización. &#xA;&#xA;Evidenciar y validar, junto con EAAB, las motivaciones misionales que dirigirán las decisiones de diseño del SGDEA. Listar y definir los principios misionales que el equipo contratista enfrentará y hará cumplir en el trabajo de diseño del SGDEA integral. Lo anterior sirve para convertir las motivaciones en acciones, objetivos y expectativas de resultados de la ejecución del contrato de diseño.&#xA;&#xA;**Definir y apegarse a las motivaciones acordadas, como Mejorar el desempeño de las comunicaciones oficiales EAAB (MOT02 en la vista), ayudará a prever calidades globales del tabajo del contratista** y establecerá consideraciones de impacto general al producto de diseño establecido en el objeto del contrato y a la solución del SGDEA integral. Las motivaciones misionales terminan conviertiéndose en acciones que aportan al cumplimiento contractual. &#xA;&#xA;**Los objetivos y las expectativas de resultados, como Seguridad y controles de acceso (GOL200 en la vista), convierten a las motivaciones misionales en acciones macro o hitos de acción** del proyecto de diseño del SGDEA. Sirven por tanto, para enfocar y gestionar el avance del proyecto completo de diseño del SGDEA. &#xA;&#xA;Las motivaciones misionales, y el impacto global que tienen en el proyecto, actúan como marco de referencia beneficiario de la calidad del producto de diseño del SGDEA, y como directriz para las decisiones y las acciones del proyecto.&#xA;">
+    documentation="#### Motivaciones de la EAAB para la implementación del SGDEA integral&#xA;Las motivaciones misionales que dirigen a la EAAB ESP a la implementación de un SGDEA integral que será el &quot;ERP&quot; de gestión documental de toda la organización. &#xA;&#xA;Evidenciar y validar, junto con EAAB, las motivaciones misionales que dirigirán las decisiones de diseño del SGDEA. Listar y definir los principios misionales que el equipo contratista enfrentará y hará cumplir en el trabajo de diseño del SGDEA integral. Lo anterior sirve para convertir las motivaciones en acciones, objetivos y expectativas de resultados de la ejecución del contrato de diseño.&#xA;&#xA;> **Definir y apegarse a las motivaciones acordadas, como Mejorar el desempeño de las comunicaciones oficiales EAAB (MOT02 en la vista), ayudará a prever calidades globales del tabajo del contratista** y establecerá consideraciones de impacto general al producto de diseño establecido en el objeto del contrato y a la solución del SGDEA integral. Las motivaciones misionales terminan conviertiéndose en acciones que aportan al cumplimiento contractual. &#xA;&#xA;> **Los objetivos y las expectativas de resultados, como Seguridad y controles de acceso (GOL200 en la vista), convierten a las motivaciones misionales en acciones macro o hitos de acción** del proyecto de diseño del SGDEA. Sirven por tanto, para enfocar y gestionar el avance del proyecto completo de diseño del SGDEA. &#xA;&#xA;Las motivaciones misionales, y el impacto global que tienen en el proyecto, actúan como marco de referencia beneficiario de la calidad del producto de diseño del SGDEA, y como directriz para las decisiones y las acciones del proyecto.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e8dac750-738e-489b-8bec-f795f848680a">
@@ -79,18 +79,9 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_c39f694d-75eb-422f-ba1c-a82559785fd5.xml#c39f694d-75eb-422f-ba1c-a82559785fd5"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7490fdba-55f1-48ee-97be-6e82ae1ec9d2"
-        source="2510d6f3-a617-4f55-a454-b46024b5a4b6"
-        target="22bb5096-ccdb-41fe-a4b2-07d7ca673e12">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_840c38fb-7455-488b-b5f6-4e71e8b57161.xml#840c38fb-7455-488b-b5f6-4e71e8b57161"/>
-    </sourceConnections>
     <bounds
         x="780"
-        y="146"
+        y="128"
         width="120"
         height="55"/>
     <archimateElement
@@ -155,7 +146,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="22bb5096-ccdb-41fe-a4b2-07d7ca673e12"
-      targetConnections="8f1be30c-ebba-4404-a3b7-c8752c0475b4 272cb523-2294-4163-9f0d-5c84779502c1 d294b993-ba3f-4599-9565-56e24c4e0516 7490fdba-55f1-48ee-97be-6e82ae1ec9d2">
+      targetConnections="8f1be30c-ebba-4404-a3b7-c8752c0475b4 272cb523-2294-4163-9f0d-5c84779502c1 d294b993-ba3f-4599-9565-56e24c4e0516 058108f5-77a7-492b-81ac-05c3dcb1521d">
     <bounds
         x="504"
         y="182"
@@ -164,5 +155,26 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_b969157c-06ce-4738-8ba7-ced68f1b388a.xml#b969157c-06ce-4738-8ba7-ced68f1b388a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e7a61bc2-da51-4fa6-b27a-a782c8d9ee31">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="058108f5-77a7-492b-81ac-05c3dcb1521d"
+        source="e7a61bc2-da51-4fa6-b27a-a782c8d9ee31"
+        target="22bb5096-ccdb-41fe-a4b2-07d7ca673e12">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_c3655ec3-5d58-4a9a-a7c0-632eaf87f0ee.xml#c3655ec3-5d58-4a9a-a7c0-632eaf87f0ee"/>
+    </sourceConnections>
+    <bounds
+        x="780"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_3b902388-118d-4084-a32e-840523a8eeb1.xml#3b902388-118d-4084-a32e-840523a8eeb1"/>
   </children>
 </archimate:ArchimateDiagramModel>

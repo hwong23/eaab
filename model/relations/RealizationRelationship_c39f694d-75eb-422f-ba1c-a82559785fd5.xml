@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="acción"
     id="c39f694d-75eb-422f-ba1c-a82559785fd5">
   <source
       xsi:type="archimate:Outcome"

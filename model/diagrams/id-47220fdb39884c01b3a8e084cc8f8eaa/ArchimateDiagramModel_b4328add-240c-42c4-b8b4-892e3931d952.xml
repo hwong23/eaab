@@ -81,9 +81,9 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="128"
-        width="120"
-        height="55"/>
+        y="120"
+        width="132"
+        height="60"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_931f796e-0bb2-4b6f-ac2e-b9d4926beb5e.xml#931f796e-0bb2-4b6f-ac2e-b9d4926beb5e"/>
@@ -170,9 +170,9 @@
     </sourceConnections>
     <bounds
         x="780"
-        y="192"
-        width="120"
-        height="55"/>
+        y="184"
+        width="132"
+        height="60"/>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_3b902388-118d-4084-a32e-840523a8eeb1.xml#3b902388-118d-4084-a32e-840523a8eeb1"/>

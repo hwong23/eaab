@@ -3,20 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firma Digital. Matriz de Requerimientos y Funcionalidades"
     id="dda16f13-1278-431a-8142-bf175a3756e4"
-    documentation="#### Alcance del Servicio de Firma Digital del SGDEA&#xD;&#xA;Definición del alcance de la solución de Firmas Digitales del SGDEA de EAAB. Identificación de las funcionalidades, como Control de Firmado (FUNC307), que componen el alcance. Condiciones y restricciones de consumo y crecimiento de las firmas con base en las series documentales requirientes.&#xD;&#xA;&#xD;&#xA;> **La definición y validación del alcance de la solución de Firma Digital da forma a los entregables esperados por EABB** y favorece la alineación del diseño con los fines misionales Seguridad y Controles de Acceso (GOL200), Solución Integral de Autenticidad (GOL201). El alcance que defina la EAAB dará gestión a las expectativas del componente de firmado del SGDEA tendientes a asegurar la integridad, autenticidad y disponibilidad de los documentos de la entidad. Este ejercicio de dimensionamiento del componente permite además el control contractual del SGDEA y trae eficacia al trabajo del diseño de la solución de firmado. &#xD;&#xA; &#xD;&#xA;> **Definir las funcionalidades que van a componer el alcance** de la solución de Firmas Digitales provee elementos de juicio y priorización de esfuerzos para el contratista encargado del diseño del SGDEA, lo mismo para la gestión del del proyecto. Presentar las funcionalidades en la actual vista permite que la entidad pueda evaluar el planteamiento (alcance) de la solución de Firmas Digitales respecto a las necesidades de firmado digital y electrónico en los documentos, verificación continúa a la integridad del documento almacenado, controles adecuados de seguridad sobre los documentos, integración con sistema de información de conservación de los documentos electrónicos.&#xA;&#xD;&#xA;> **Establecer las condiciones y restricciones de consumo, crecimiento y operación de la solución de firmado de los documentos es una de las razones por qué evaluar el alcance y las funcionalidades presentes en la vista actual. Para el efecto, proponemos como primer criterio de consumo y crecimiento de la solución a las series documentales que tienen relación directa con las firmas digitales (otros criterios pueden incluirse para mejorar las estimaciones de crecimiento).&#xD;&#xA;&#xD;&#xA;Alinear el alcance con las funcionalidades de seguridad, integridad, autenticidad y disponibilidad de los documentos junto con las expectativas de crecimiento de la solución de Firmas Digitales del SGDEA contribuye a la eficacia y asertividad del diseño del SGDEA objeto del contrato y da elementos de gestión al proyecto.&#xD;&#xA;">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c6fd3169-e479-4ea5-b21e-e9ba979858c0"
-      targetConnections="id-2ebba0a4f2c840dabfee07b023496f98">
-    <bounds
-        x="84"
-        y="264"
-        width="161"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_da254e01-4bc2-459b-8a1e-e104ac573f3b.xml#da254e01-4bc2-459b-8a1e-e104ac573f3b"/>
-  </children>
+    documentation="## Alcance del Servicio de Firma Digital del SGDEA&#xD;&#xA;Definición del alcance de la solución de Firmas Digitales del SGDEA de EAAB. Identificación de las funcionalidades, como Control de Firmado (FUNC307), que componen el alcance. Condiciones y restricciones de consumo y crecimiento de las firmas con base en las series documentales requirientes.&#xD;&#xA;&#xD;&#xA;> **La definición y validación del alcance de la solución de Firma Digital da forma a los entregables esperados por EABB** y favorece la alineación del diseño con los fines misionales Seguridad y Controles de Acceso (GOL200), Solución Integral de Autenticidad (GOL201). El alcance que defina la EAAB dará gestión a las expectativas del componente de firmado del SGDEA tendientes a asegurar la integridad, autenticidad y disponibilidad de los documentos de la entidad. Este ejercicio de dimensionamiento del componente permite además el control contractual del SGDEA y trae eficacia al trabajo del diseño de la solución de firmado. &#xD;&#xA; &#xD;&#xA;> **Definir las funcionalidades que van a componer el alcance** de la solución de Firmas Digitales provee elementos de juicio y priorización de esfuerzos para el contratista encargado del diseño del SGDEA, lo mismo para la gestión del del proyecto. Presentar las funcionalidades en la actual vista permite que la entidad pueda evaluar el planteamiento (alcance) de la solución de Firmas Digitales respecto a las necesidades de firmado digital y electrónico en los documentos, verificación continúa a la integridad del documento almacenado, controles adecuados de seguridad sobre los documentos, integración con sistema de información de conservación de los documentos electrónicos.&#xA;&#xD;&#xA;> **Establecer las condiciones y restricciones de consumo, crecimiento y operación de la solución de firmado de los documentos es una de las razones por qué evaluar el alcance y las funcionalidades presentes en la vista actual. Para el efecto, proponemos como primer criterio de consumo y crecimiento de la solución a las series documentales que tienen relación directa con las firmas digitales (otros criterios pueden incluirse para mejorar las estimaciones de crecimiento).&#xD;&#xA;&#xD;&#xA;Alinear el alcance con las funcionalidades de seguridad, integridad, autenticidad y disponibilidad de los documentos junto con las expectativas de crecimiento de la solución de Firmas Digitales del SGDEA contribuye a la eficacia y asertividad del diseño del SGDEA objeto del contrato y da elementos de gestión al proyecto.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6e52ba84-6f7b-42c6-aed6-a15af077a32a"
@@ -481,19 +468,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="adb4238b-ba3e-45c4-b3d2-a5a322404cf9"
-      targetConnections="id-7f8a3141b9a7483f8ff56ec3697de0f1">
-    <bounds
-        x="276"
-        y="264"
-        width="161"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_b969157c-06ce-4738-8ba7-ced68f1b388a.xml#b969157c-06ce-4738-8ba7-ced68f1b388a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49d28b8bc568468ba205ac9e4e575c5a"
       targetConnections="id-f0653e83cee947668b72664b70efb2cb id-c61ac63fd7994fe684a7f46ec1707026"
       textAlignment="1">
@@ -857,7 +831,7 @@
         targetConnections="id-8cabe1dcd5fa48f28b6031b437180393">
       <bounds
           x="204"
-          y="120"
+          y="144"
           width="161"
           height="55"/>
       <archimateElement
@@ -870,7 +844,7 @@
         targetConnections="id-1ff16c9dc2664dbd99374dc535add4b5">
       <bounds
           x="36"
-          y="120"
+          y="144"
           width="161"
           height="55"/>
       <archimateElement
@@ -883,7 +857,7 @@
         targetConnections="id-c3e40f0936384948b17074f0bf766d33">
       <bounds
           x="36"
-          y="60"
+          y="84"
           width="161"
           height="55"/>
       <archimateElement
@@ -896,7 +870,7 @@
         targetConnections="id-f2604058472d48a4828c97135e059aa7">
       <bounds
           x="204"
-          y="60"
+          y="84"
           width="161"
           height="55"/>
       <archimateElement
@@ -909,7 +883,7 @@
         targetConnections="id-6441698aabef430a8d86e70cad3044b6">
       <bounds
           x="372"
-          y="60"
+          y="84"
           width="161"
           height="55"/>
       <archimateElement
@@ -1069,11 +1043,68 @@
       xsi:type="archimate:DiagramModelNote"
       id="00a98b7a-cac2-4808-96f7-d6060ca438f6"
       textAlignment="1"
-      content="Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. &#xA;&#xA;Alcance, Motivaciones, Requerimientos y Funcionalidades.&#xD;&#xA;v0.5&#xA;">
+      content="Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. Alcance, Motivaciones, Requerimientos y Funcionalidades. v0.5&#xD;&#xA;">
     <bounds
         x="84"
         y="-144"
         width="217"
         height="108"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c8f47debca0b4b1fb6ed74a54d51860f"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0d63d04730954d328f7f0469e75d3182"
+        source="id-c8f47debca0b4b1fb6ed74a54d51860f"
+        target="c6fd3169-e479-4ea5-b21e-e9ba979858c0">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9637bfae218e4ab9a4cc0c45fe4e7c79.xml#id-9637bfae218e4ab9a4cc0c45fe4e7c79"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-64f7bfd8071943e5a4cc187e72ff5255"
+        source="id-c8f47debca0b4b1fb6ed74a54d51860f"
+        target="adb4238b-ba3e-45c4-b3d2-a5a322404cf9">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-41e19187373b40c8828a3d139fe83312.xml#id-41e19187373b40c8828a3d139fe83312"/>
+    </sourceConnections>
+    <bounds
+        x="84"
+        y="172"
+        width="600"
+        height="176"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="c6fd3169-e479-4ea5-b21e-e9ba979858c0"
+        targetConnections="id-2ebba0a4f2c840dabfee07b023496f98 id-0d63d04730954d328f7f0469e75d3182">
+      <bounds
+          x="24"
+          y="60"
+          width="161"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_da254e01-4bc2-459b-8a1e-e104ac573f3b.xml#da254e01-4bc2-459b-8a1e-e104ac573f3b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="adb4238b-ba3e-45c4-b3d2-a5a322404cf9"
+        targetConnections="id-7f8a3141b9a7483f8ff56ec3697de0f1 id-64f7bfd8071943e5a4cc187e72ff5255">
+      <bounds
+          x="216"
+          y="60"
+          width="161"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_b969157c-06ce-4738-8ba7-ced68f1b388a.xml#b969157c-06ce-4738-8ba7-ced68f1b388a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a89c98dc944d49fb86f2985f9cd0468f.xml#id-a89c98dc944d49fb86f2985f9cd0468f"/>
   </children>
 </archimate:ArchimateDiagramModel>

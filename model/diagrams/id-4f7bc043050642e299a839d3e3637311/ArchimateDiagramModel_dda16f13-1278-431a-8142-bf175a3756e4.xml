@@ -1045,7 +1045,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="00a98b7a-cac2-4808-96f7-d6060ca438f6"
       textAlignment="1"
-      content="Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. Alcance, Motivaciones, Requerimientos y Funcionalidades. v0.5&#xD;&#xA;">
+      content="Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. &#xA;Alcance, Motivaciones, Requerimientos y Funcionalidades. &#xA;&#xA;> v0.5.&#xD;&#xA;">
     <bounds
         x="84"
         y="-144"

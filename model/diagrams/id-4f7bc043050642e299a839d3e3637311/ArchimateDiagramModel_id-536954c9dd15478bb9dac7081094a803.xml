@@ -1,5 +1,68 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formatos de Preservación Documental"
     id="id-536954c9dd15478bb9dac7081094a803"
-    documentation="peso de documentos, repositorios, formatos. &#xD;&#xA;Dónde está la producción dcmtl del EAAB&#xD;&#xA;"/>
+    documentation="peso de documentos, repositorios, formatos. &#xD;&#xA;Dónde está la producción dcmtl del EAAB&#xD;&#xA;"
+    viewpoint="application_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a4b45a79615644a394b4462e2a01430b">
+    <bounds
+        x="60"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-e613c8bac81f486582ec26178cc21228.xml#id-e613c8bac81f486582ec26178cc21228"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-df0276691adb478e9bbefd47ec0e5b12">
+    <bounds
+        x="336"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-757b51f5616045b2810672ed00934f05.xml#id-757b51f5616045b2810672ed00934f05"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-666a5bfc537d488b8a59d9b2505f7578">
+    <bounds
+        x="468"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-2dc9edef32f94a0e97845feea161d6bb.xml#id-2dc9edef32f94a0e97845feea161d6bb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b27257798dd34244bf50eed3ccf10e7e">
+    <bounds
+        x="336"
+        y="444"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-6503868eb5484a83a294bd2113644715.xml#id-6503868eb5484a83a294bd2113644715"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d948c90d3a5240429f07aa5a75e9e857">
+    <bounds
+        x="60"
+        y="348"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-efbc4f57e91a4648b6e95d3878fe8834.xml#id-efbc4f57e91a4648b6e95d3878fe8834"/>
+  </children>
+</archimate:ArchimateDiagramModel>

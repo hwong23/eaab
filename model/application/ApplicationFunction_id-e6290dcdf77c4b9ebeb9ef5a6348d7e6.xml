@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Correo autenticado"
+    name="FUNC401. Correo autenticado"
     id="id-e6290dcdf77c4b9ebeb9ef5a6348d7e6"
     documentation="Asegurar que el correo es de la entidad EAAB.&#xD;&#xA;"/>

@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Serie Documentales"
-    id="3e00bb6d-f3fd-446e-8efe-a11674b88b76"/>
+    id="3e00bb6d-f3fd-446e-8efe-a11674b88b76">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d1ca8d4ff2234cec91f31b70a43cc564">
+    <bounds
+        x="171"
+        y="69"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-2557b47b63bb49e29fd2994ba8fdbdb8.xml#id-2557b47b63bb49e29fd2994ba8fdbdb8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proyectos de arquitectura SGDEA"
+    id="id-fb03b1061f1347c2904ef342034fdaa8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3162f5660a394497bfb98a7543518e69">
+    <bounds
+        x="48"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-052bf0cf3e404091949b05cc9db519fa.xml#id-052bf0cf3e404091949b05cc9db519fa"/>
+  </children>
+</archimate:ArchimateDiagramModel>

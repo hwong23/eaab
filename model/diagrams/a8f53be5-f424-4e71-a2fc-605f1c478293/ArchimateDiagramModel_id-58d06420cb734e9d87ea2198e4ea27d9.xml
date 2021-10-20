@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Correo Certificado. Solución"
+    id="id-58d06420cb734e9d87ea2198e4ea27d9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2d1d3313396741aa8ca9bb46b7ad33bc">
+    <bounds
+        x="145"
+        y="114"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-269703e3eef146b99cee16a6493b1746.xml#id-269703e3eef146b99cee16a6493b1746"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-832c8e388068476aafd70d270c066201">
+    <bounds
+        x="145"
+        y="180"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-e6290dcdf77c4b9ebeb9ef5a6348d7e6.xml#id-e6290dcdf77c4b9ebeb9ef5a6348d7e6"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3e6563b754fc460ba6f63732827a3fd0">
+    <bounds
+        x="145"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-2feed8c2589149f9be92184b2fdda99b.xml#id-2feed8c2589149f9be92184b2fdda99b"/>
+  </children>
+</archimate:ArchimateDiagramModel>

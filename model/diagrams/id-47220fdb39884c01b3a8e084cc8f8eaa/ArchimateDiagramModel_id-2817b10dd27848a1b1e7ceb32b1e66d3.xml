@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Correo Certificado. Requerimientos"
     id="id-2817b10dd27848a1b1e7ceb32b1e66d3"
-    documentation="El correo certificado es un servicio externo a la entidad. Al envío se le asignará un número de seguimiento y se aportará una prueba de que ha sido recibido en el destino, usualmente es una firma del destinatario. Sin esta firma, la respuesta (correo, carta o documento) enviado a través del correo certificado no se entregará. El tercero, o el que haga las veces de la agencia de correo asegurarán de que el destinatario ha recibido el envío.&#xD;&#xA;&#xD;&#xA;La solución de correo certificado aplica tanto a envío físicos como electrónicos. &#xD;&#xA;">
+    documentation="El correo certificado es un servicio externo a la entidad EAAB. El SGDEA asginará al envío un número de seguimiento y se aportará una prueba de que ha sido recibido en el destino, usualmente es una firma del destinatario. Sin esta firma, la respuesta (correo, carta o documento) enviado a través del correo certificado no se entregará. El tercero, o el que haga las veces de la agencia de correo asegurarán de que el destinatario ha recibido el envío.&#xD;&#xA;&#xD;&#xA;La solución de correo certificado aplica tanto a envío físicos como electrónicos. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ea5656be54af450a914ffd545d84f4ad">

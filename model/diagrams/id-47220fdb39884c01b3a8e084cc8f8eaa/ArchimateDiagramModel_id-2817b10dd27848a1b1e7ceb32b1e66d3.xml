@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Correo Certificado. Requerimientos"
-    id="id-2817b10dd27848a1b1e7ceb32b1e66d3">
+    id="id-2817b10dd27848a1b1e7ceb32b1e66d3"
+    documentation="El correo certificado es un servicio externo a la entidad. Al envío se le asignará un número de seguimiento y se aportará una prueba de que ha sido recibido en el destino, usualmente es una firma del destinatario. Sin esta firma, la respuesta (correo, carta o documento) enviado a través del correo certificado no se entregará. El tercero, o el que haga las veces de la agencia de correo asegurarán de que el destinatario ha recibido el envío.&#xD;&#xA;&#xD;&#xA;La solución de correo certificado aplica tanto a envío físicos como electrónicos. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ea5656be54af450a914ffd545d84f4ad">
@@ -20,7 +21,7 @@
       id="id-9baafff73c2d4d978e0d37eacd4088d7">
     <bounds
         x="48"
-        y="120"
+        y="300"
         width="193"
         height="55"/>
     <archimateElement
@@ -50,5 +51,17 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-17982402859d47da8f8365f85764b565.xml#id-17982402859d47da8f8365f85764b565"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ff692a8ebdcd4499a732a4648e575060">
+    <bounds
+        x="48"
+        y="120"
+        width="193"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-008d2a69801f45bab2eab0df8bfde31d.xml#id-008d2a69801f45bab2eab0df8bfde31d"/>
   </children>
 </archimate:ArchimateDiagramModel>

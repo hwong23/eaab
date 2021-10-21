@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Correo Certificado. Solución"
-    id="id-58d06420cb734e9d87ea2198e4ea27d9">
+    id="id-58d06420cb734e9d87ea2198e4ea27d9"
+    documentation="La solución de correo certificado aplica tanto a envío físicos como electrónicos. &#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d1d3313396741aa8ca9bb46b7ad33bc">
@@ -138,5 +139,29 @@
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-449b3f2ef4524f82bc35b5078f53edbb.xml#id-449b3f2ef4524f82bc35b5078f53edbb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5fc4996863274a088e3981a978904dde">
+    <bounds
+        x="420"
+        y="300"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-b0761a724ec34ab0a7a36625c3502fab.xml#id-b0761a724ec34ab0a7a36625c3502fab"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9342d105d9ad4fdfaf9932c7508f5d67">
+    <bounds
+        x="36"
+        y="300"
+        width="193"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-008d2a69801f45bab2eab0df8bfde31d.xml#id-008d2a69801f45bab2eab0df8bfde31d"/>
   </children>
 </archimate:ArchimateDiagramModel>

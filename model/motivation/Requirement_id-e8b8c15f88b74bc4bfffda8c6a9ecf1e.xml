@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR20. Evitar la pérdida de correos EAAB de respuesta "
-    id="id-e8b8c15f88b74bc4bfffda8c6a9ecf1e"/>
+    id="id-e8b8c15f88b74bc4bfffda8c6a9ecf1e"
+    documentation="El correo certificado evita la pérdida de los mensajes enviados ocasionadas por correos no recibidos, retrasos de las entregas, las fallas de envío ocasionadas por la infraestructura de la correspondencia, la tecnología y demás causas asociadas con la pérdida.&#xD;&#xA;"/>

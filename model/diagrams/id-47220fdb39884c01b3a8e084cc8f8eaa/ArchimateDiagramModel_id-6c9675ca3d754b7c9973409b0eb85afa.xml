@@ -1,15 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Correo Certificado. Requerimientos"
-    id="id-2817b10dd27848a1b1e7ceb32b1e66d3"
-    documentation="El correo certificado es un servicio externo a la entidad EAAB. El SGDEA asginará al envío un número de seguimiento y se aportará una prueba de que ha sido recibido en el destino, usualmente es una firma del destinatario. Sin esta firma, la respuesta (correo, carta o documento) enviado a través del correo certificado no se entregará. El tercero, o el que haga las veces de la agencia de correo asegurarán de que el destinatario ha recibido el envío.&#xD;&#xA;&#xD;&#xA;La solución de correo certificado aplica tanto a envío físicos como electrónicos. &#xD;&#xA;">
+    name="Correo Certificado. BMM"
+    id="id-6c9675ca3d754b7c9973409b0eb85afa">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ea5656be54af450a914ffd545d84f4ad">
+      id="id-e9b8404ff0894972b9e84e7424c1421d">
     <bounds
-        x="48"
-        y="60"
+        x="36"
+        y="36"
         width="193"
         height="55"/>
     <archimateElement
@@ -18,10 +17,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9baafff73c2d4d978e0d37eacd4088d7">
+      id="id-0a20fb19f871493b85f8575206aebc90">
     <bounds
-        x="48"
-        y="300"
+        x="36"
+        y="102"
         width="193"
         height="55"/>
     <archimateElement
@@ -30,10 +29,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-072cd132c8ad49ca8906e8b8f633e420">
+      id="id-8083863f1df141ab8b0b244af43945c9">
     <bounds
-        x="48"
-        y="180"
+        x="36"
+        y="162"
         width="193"
         height="55"/>
     <archimateElement
@@ -42,10 +41,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6f96e92f7f0e4a46a368cc637c3501a9">
+      id="id-1a149559f2b14d0a8ff8f8fe6635d08b">
     <bounds
-        x="48"
-        y="240"
+        x="36"
+        y="222"
         width="193"
         height="55"/>
     <archimateElement
@@ -54,10 +53,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ff692a8ebdcd4499a732a4648e575060">
+      id="id-97c10155cd3940a489e629fc24402e74">
     <bounds
-        x="48"
-        y="120"
+        x="36"
+        y="288"
         width="193"
         height="55"/>
     <archimateElement

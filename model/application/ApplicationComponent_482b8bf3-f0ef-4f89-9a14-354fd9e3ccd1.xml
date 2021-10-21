@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COMP29. Validación de firma del documento"
+    name="COMP30. Validación de firma del documento"
     id="482b8bf3-f0ef-4f89-9a14-354fd9e3ccd1"
     documentation="Implementa la funcionalidad de validación de un documento interno firmado en la organización.&#xA;"/>

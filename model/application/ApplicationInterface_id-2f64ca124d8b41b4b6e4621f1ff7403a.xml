@@ -1,5 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FLUJ25. Flujo acceso y edición de la firma"
+    name="FLUJ26. Flujo registro y envío de correo certificado"
     id="id-2f64ca124d8b41b4b6e4621f1ff7403a"
-    documentation="Flujo de trabajo de edición de la firma electrónica y certificado digital del autor.&#xA;&#xA;1. Condición de firmado del autor&#xA;1. Selección de firmas del autor&#xA;   1. Creación de nueva firma&#xA;   1. Envío y recepción de nueva firma&#xA;&#xA;"/>
+    documentation="Secuencia del flujo de trabajo de regisro y envío de correo certificado.&#xA;&#xA;1. Emisión secuencial SGDEA de seguimiento del correo certificado&#xA;1. Vinculación del mensaje a la EAAB (firmado)&#xA;1. Registro del envío &#xA;&#xD;&#xA;&#xA;&#xA;"/>

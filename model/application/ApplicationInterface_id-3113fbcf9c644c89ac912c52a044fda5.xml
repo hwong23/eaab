@@ -1,5 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FLUJ27. Flujo actualización del registro del correo certificado enviado"
+    name="FLUJ29. Flujo actualización del registro del correo certificado enviado"
     id="id-3113fbcf9c644c89ac912c52a044fda5"
     documentation="Secuencia del flujo de trabajo actualización del registro del correo certificado enviado.&#xA;&#xA;1. SGDEA recibe de la solicitud de actualización del registro del correo certificado envíado&#xD;&#xA;1. Actualización del estado del correo enviado&#xA;1. Notificación del cambio de estado a los vinculados al mensaje&#xD;&#xA;1. Retorno de respuesta de la actualización&#xD;&#xA;&#xA;&#xD;&#xA;&#xA;&#xA;"/>

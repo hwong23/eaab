@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR21. Auditoría de  entrada / salida de correos certificados"
-    id="id-bf6e3d0d0c3b4521b2b8a1372d967d5d"/>
+    id="id-bf6e3d0d0c3b4521b2b8a1372d967d5d"
+    documentation="La solución de correo certificado deben facilitar y evidenciar, cuando sea requerido, la traza digital del correo de forma unívoca y vinculada a EAAB. La traza del correo proveerá información suficiente para demostrar que la respuesta, sea física o electrónica, se encuentra gestionada por el SGDEA.&#xD;&#xA;"/>

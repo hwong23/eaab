@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Serie Documentales"
-    id="3e00bb6d-f3fd-446e-8efe-a11674b88b76">
+    id="3e00bb6d-f3fd-446e-8efe-a11674b88b76"
+    documentation="Conjunto de documentos sobre datos de los equipos de las plantas, estaciones y tanques que integran la Red Matriz del Acueducto, tales como marca, modelo, representante, proveedor y controles del mantenimiento, también incluye la documentación de las fallas, sus soluciones y refacciones utilizadas, métodos de prevención, modificaciones al equipo, fallas, tipo de trabajo correctivo o preventivo, tiempo desde la presentación de la falla hasta su reparación.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ee03964a599423aa69d9effd5eceeb3">
@@ -80,9 +81,9 @@
       id="id-f7abbddfcfc84869bb68a95062e3b94f">
     <bounds
         x="108"
-        y="308"
+        y="297"
         width="120"
-        height="55"/>
+        height="77"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-0dbf5d7266664484a41c39cdab77389d.xml#id-0dbf5d7266664484a41c39cdab77389d"/>

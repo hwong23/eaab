@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicios de negocio EAAB"
-    id="id-de97ee1e91924a1b9d9216c919e1a51e">
+    id="id-de97ee1e91924a1b9d9216c919e1a51e"
+    documentation="Los servicios de negocio de EAAB relacionados con el SGDEA.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-10325a7c645e48da9b4d3f8b3f1953af">

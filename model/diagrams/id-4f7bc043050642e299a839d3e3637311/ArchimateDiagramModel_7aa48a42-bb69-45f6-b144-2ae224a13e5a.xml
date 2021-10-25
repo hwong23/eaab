@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Firma Digital. Series Documentales Asociadas"
     id="7aa48a42-bb69-45f6-b144-2ae224a13e5a"
-    documentation="Diagnóstico Tecnológico. Medio en que se produce los documentos de EAAB.&#xA;Series documentales priorizadas para Firma Digital, según los medios en que se producen los documentos en la EAAB.&#xA;">
+    documentation="Informe Diagnóstico Tecnológico. Medio en que se produce los documentos de EAAB.&#xA;Series documentales priorizadas para Firma Digital, según los medios en que se producen los documentos en la EAAB.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e2eb870a-9210-4d63-ac05-1c1fe0770233"
@@ -188,6 +188,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-fe048776632847b5be035553971843fd.xml#id-fe048776632847b5be035553971843fd"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="35ed82c3-d7be-481b-8db1-4e5413de04f1"
+        source="e2eb870a-9210-4d63-ac05-1c1fe0770233"
+        target="8c55acb1-00c2-43d0-9f45-6d84f6e8607b">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_488b93a4-9c2b-4bf8-a4f6-5f555ff20dd3.xml#488b93a4-9c2b-4bf8-a4f6-5f555ff20dd3"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="12"
@@ -199,7 +208,7 @@
         targetConnections="16e519f6-d969-452e-8917-8dc842eb563d">
       <bounds
           x="192"
-          y="300"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -212,7 +221,7 @@
         targetConnections="2ffd14bf-98f6-4465-9aa9-d7827a4bae72">
       <bounds
           x="48"
-          y="300"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -225,7 +234,7 @@
         targetConnections="745c7c97-9e13-49b6-9c95-9d89055ed422">
       <bounds
           x="504"
-          y="228"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
@@ -264,7 +273,7 @@
         targetConnections="ebcd68e2-c941-47dc-8c52-be2cd41d6a24">
       <bounds
           x="348"
-          y="300"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -277,7 +286,7 @@
         targetConnections="28725453-2ce4-4385-a9cd-4f3f4fa13a84">
       <bounds
           x="648"
-          y="300"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -316,7 +325,7 @@
         targetConnections="be51404e-8e62-4fe2-9838-3bc0c19aa20f">
       <bounds
           x="48"
-          y="228"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
@@ -329,7 +338,7 @@
         targetConnections="8bcb1f44-be1b-45ed-b18a-f0f1204a5dd1">
       <bounds
           x="504"
-          y="300"
+          y="276"
           width="120"
           height="55"/>
       <archimateElement
@@ -342,7 +351,7 @@
         targetConnections="b6010427-4928-41bb-90f6-a470a063f33b">
       <bounds
           x="348"
-          y="228"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
@@ -420,7 +429,7 @@
         targetConnections="f8cc44d9-ba85-4332-abc5-e435a3250593">
       <bounds
           x="648"
-          y="228"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
@@ -433,7 +442,7 @@
         targetConnections="10aa58e5-889d-4d3e-ad0a-3472897edf8c">
       <bounds
           x="192"
-          y="228"
+          y="204"
           width="120"
           height="55"/>
       <archimateElement
@@ -452,6 +461,19 @@
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-4167f9e5abfb4abe94eb8b897f44b153.xml#id-4167f9e5abfb4abe94eb8b897f44b153"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8c55acb1-00c2-43d0-9f45-6d84f6e8607b"
+        targetConnections="35ed82c3-d7be-481b-8db1-4e5413de04f1">
+      <bounds
+          x="648"
+          y="336"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-2557b47b63bb49e29fd2994ba8fdbdb8.xml#id-2557b47b63bb49e29fd2994ba8fdbdb8"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

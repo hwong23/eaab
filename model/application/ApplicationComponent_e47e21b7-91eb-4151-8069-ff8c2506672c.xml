@@ -6,4 +6,7 @@
   <properties
       key="URL"
       value="https://drive.google.com/file/d/19QNg7hEXa7EmrgJs_9VwAafXwgtrFsko/view?usp=sharing"/>
+  <properties
+      key="Madurez"
+      value="40"/>
 </archimate:ApplicationComponent>

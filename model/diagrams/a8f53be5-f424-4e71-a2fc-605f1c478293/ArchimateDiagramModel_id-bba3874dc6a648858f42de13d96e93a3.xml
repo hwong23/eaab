@@ -89,7 +89,7 @@
         targetConnections="id-3de241e831024425bce1cc27d7d6286f">
       <bounds
           x="24"
-          y="324"
+          y="300"
           width="157"
           height="55"/>
       <archimateElement
@@ -101,8 +101,8 @@
         id="id-52fe9e8aa2904289ba7fbb1edef07bae"
         targetConnections="id-65a3339e61144dc0bb6cdcab13a75934">
       <bounds
-          x="24"
-          y="252"
+          x="23"
+          y="228"
           width="157"
           height="61"/>
       <archimateElement
@@ -116,8 +116,8 @@
       <bounds
           x="24"
           y="168"
-          width="157"
-          height="73"/>
+          width="156"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-979d385f41e94b459486bd033fc38bb2.xml#id-979d385f41e94b459486bd033fc38bb2"/>

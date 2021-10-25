@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR31. Tipos de firma digital"
+    id="id-20002075d654495392ad0572e5764a3f"
+    documentation="El SGDEA debe permitir Integrar mecanismos tecnológicos como: firmas digitales, estampado cronológico, mecanismos de encriptación, marcas digitales electrónicas, estampado cronológico, Código Seguro de Verificación - CSV.&#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.6.23"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR29. Entorno integrado al servidor de correo electrónico "
+    id="id-52f84dd7ffa6441d9391d31156a9d89a"
+    documentation="El SGDEA debe contar con un entorno integrado al servidor de correo electrónico de manera tal, que la captura de correos electrónicos pueda ser realizada por un usuario desde la aplicación del correo sin necesidad de cambiar al SGDEA, a través de un ADDIN o complemento.">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.6.17"/>
+</archimate:Requirement>

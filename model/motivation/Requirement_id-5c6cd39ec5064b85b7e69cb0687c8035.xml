@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR28. Metadatos de firma digital"
+    id="id-5c6cd39ec5064b85b7e69cb0687c8035"
+    documentation="El SGDEA debe capturar como metadatos la información relacionada con la firma electrónica/digital, permitiendo la vinculación al documento. Los metadatos mínimos a capturar son: &#xD;&#xA;Nombre del firmante&#xD;&#xA;Cargo del firmante&#xD;&#xA;Correo electrónico firmante&#xD;&#xA;Número de serie del certificado&#xD;&#xA;Proveedor del servicio de certificación&#xD;&#xA;Fecha / hora firmado&#xD;&#xA;Fecha / hora verificación&#xD;&#xA;Resultado verificación&#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.3.78"/>
+</archimate:Requirement>

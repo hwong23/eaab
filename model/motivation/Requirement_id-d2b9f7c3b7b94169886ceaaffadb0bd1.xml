@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR27. Firmado de correos certificados"
+    id="id-d2b9f7c3b7b94169886ceaaffadb0bd1"
+    documentation="Debe permitir integrarse con correo electrónico certificado y firmas digitales, para los radicados de salida digitales.&#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.3.74"/>
+</archimate:Requirement>

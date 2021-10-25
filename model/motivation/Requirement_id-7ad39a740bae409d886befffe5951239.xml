@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR32. Integración con Office 365"
+    id="id-7ad39a740bae409d886befffe5951239"
+    documentation="Debe integrar con el correo electrónico Microsoft Office 365 para realizar automáticamente el envío de documentos y/o notificaciones y recepción de documentos a direcciones electrónicas y/o a dispositivos móviles, utilizando protocolos estándares.  &#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="2.4.5"/>
+</archimate:Requirement>

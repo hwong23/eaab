@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR25. Validación Correo-e ciudadadano"
+    id="id-f389542748134e8db300d353854d3b9e"
+    documentation="El módulo de PQRS Web debe permitir la validación del correo electrónico provisto por el ciudadano y así garantizar la existencia de un mismo, de manera que permita remitir la respuesta de la EAAB.&#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.3.33"/>
+</archimate:Requirement>

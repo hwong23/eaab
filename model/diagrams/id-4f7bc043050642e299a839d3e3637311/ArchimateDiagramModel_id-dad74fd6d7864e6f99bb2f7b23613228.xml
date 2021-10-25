@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistemas de Información. Conservación Documentos"
+    name="Sistemas de Información. SGDEA. Conservación Documentos"
     id="id-dad74fd6d7864e6f99bb2f7b23613228"
     documentation="Sistemas de Información de EAAB relacionados con la conservación de documentos.&#xA;">
   <children
@@ -39,18 +39,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-712ada2167884e838d6abe2a3f7310a5.xml#id-712ada2167884e838d6abe2a3f7310a5"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-71cedfce15354ebc8947eb176e99cc02">
-    <bounds
-        x="576"
-        y="50"
-        width="134"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-deb19872acff4259a2cd49bd7bb9279a.xml#id-deb19872acff4259a2cd49bd7bb9279a"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -111,5 +99,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-0258866e6a984aa4a32768736fa90b25.xml#id-0258866e6a984aa4a32768736fa90b25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b43d36ee-8fe4-40e0-906c-1913273ac8f4">
+    <bounds
+        x="583"
+        y="50"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-deb19872acff4259a2cd49bd7bb9279a.xml#id-deb19872acff4259a2cd49bd7bb9279a"/>
   </children>
 </archimate:ArchimateDiagramModel>

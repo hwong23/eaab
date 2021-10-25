@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objetivos y Requerimientos EAAB"
+    id="id-c72805b148b8421b92d428376446257d"
+    documentation="Con base en el diagnóstico de producción documental es importante plantear como prioridad incluir dentro del SGDEA la implementación del manejo de la siguiente documentación.&#xD;&#xA;"
+    viewpoint="motivation">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0213294e48a646b8b8fa30b3dba0a97d">
+    <bounds
+        x="79"
+        y="98"
+        width="222"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_id-1917c65f9ace469094302eadf72c1469.xml#id-1917c65f9ace469094302eadf72c1469"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1becff16fe6e4a16bc1daf6e34d3ab38">
+    <bounds
+        x="79"
+        y="168"
+        width="222"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_id-5db6a819ae5349cbb3353052f4f1b5a8.xml#id-5db6a819ae5349cbb3353052f4f1b5a8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

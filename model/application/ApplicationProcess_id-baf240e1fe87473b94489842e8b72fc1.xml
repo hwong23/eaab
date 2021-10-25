@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PRAPP12. Producción"
-    id="id-baf240e1fe87473b94489842e8b72fc1"/>
+    id="id-baf240e1fe87473b94489842e8b72fc1"
+    documentation="Proceso de aplicación de soporte al flujo de registro de un tipo documental que el SGDEA gestionará. Este proceso de aplicación modela las acciones de registro y actualización de una entrada de un tipo documental al SGDEA.&#xD;&#xA;&#xD;&#xA;"/>

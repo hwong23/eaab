@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PRAPP13. Almacenamiento"
-    id="id-a42b3391181441a4b1d3110f0ed32782"/>
+    id="id-a42b3391181441a4b1d3110f0ed32782"
+    documentation="Proceso de aplicación de soporte al flujo de almacenamiento de un tipo documental gestionado por el SGDEA emite. El proceso de aplicación PRAPP13 modela las acciones necesarias y configurables para la preparación y almacenamiento de un tipo.&#xD;&#xA;&#xD;&#xA;"/>

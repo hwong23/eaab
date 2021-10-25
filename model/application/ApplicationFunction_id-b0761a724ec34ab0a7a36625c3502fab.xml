@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC404. Consulta estado del correo enviado"
+    id="id-b0761a724ec34ab0a7a36625c3502fab"
+    documentation="El SGDEA entrega los detalles del envío del correo certificado. La consulta mostrará datos principales como fecha del envío, de la recepción, el/los destinatarios, el estado del envío.&#xD;&#xA;"/>

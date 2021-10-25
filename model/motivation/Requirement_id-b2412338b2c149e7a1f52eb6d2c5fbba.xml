@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR22. Garantizar la recepción de los correos certificados enviados EAAB"
+    id="id-b2412338b2c149e7a1f52eb6d2c5fbba"
+    documentation="Envío de mensajes de correo y documentos que aseguren la recepción del destinatario. Si el correo no es recibido a conformidad, el SGDEA debe registrar el retorno del mensaje a la EAAB o a la agencia de envío. Acto seguido, dará aviso al remitente y actualizará el estado del correo en el SGDEA.&#xD;&#xA;"/>

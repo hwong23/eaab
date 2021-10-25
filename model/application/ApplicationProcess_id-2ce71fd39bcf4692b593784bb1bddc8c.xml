@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PRAPP15. Archivo"
-    id="id-2ce71fd39bcf4692b593784bb1bddc8c"/>
+    id="id-2ce71fd39bcf4692b593784bb1bddc8c"
+    documentation="Proceso de aplicación de soporte al flujo de envío de archivo y expediente del SGDEA. Este proceso modela las acciones de la preparación y alta/baja de una entrada al expediente.&#xD;&#xA;"/>

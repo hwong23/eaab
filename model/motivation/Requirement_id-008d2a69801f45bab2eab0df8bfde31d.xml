@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR24. Seguimiento del envío del correo certificado"
+    id="id-008d2a69801f45bab2eab0df8bfde31d"
+    documentation="Las consultas de los correos certificados permiten conocer el estado de los correos que la Dependencia ha envíado, o de los correos certificados de las otras. El SGDEA aplicará los privilegios que el usuario tenga sobre la consulta.&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelos de datos Mmestros"
+    name="Modelos de datos Maestros"
     id="id-dd00c26e6ba548d6817ed061edc2a5a8"
     documentation="Actualmente se mantiene una estructura de Datos Maestros donde un cliente puede estar registrado varias veces con Interlocutores Comerciales diferentes, y cada uno de estos IC asociados a los predios donde se haya solicitado el servicio, esto significa que existe una dificultad importante a la hora de identificar un cliente por nombre, apellidos, número telefónico, documento de identificación, ya que el mismo podría aparecer varias veces en el sistema. Se identifica la necesidad de un sistema de CRM que sea maestro de los datos comerciales del cliente"/>

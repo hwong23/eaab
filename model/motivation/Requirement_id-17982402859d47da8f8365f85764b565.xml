@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR23. Garantizar la autenticidad y no repudio de los correo salientes EAAB"
+    id="id-17982402859d47da8f8365f85764b565"
+    documentation="El correo certificado, físico o electrónico, puede demostrar la procedencia y vinculación con la entidad emisora EAAB. De esta manera cumple el SGDEA con el principio de no repudio de las respuestas que la entidad emite.&#xD;&#xA;&#xD;&#xA;"/>

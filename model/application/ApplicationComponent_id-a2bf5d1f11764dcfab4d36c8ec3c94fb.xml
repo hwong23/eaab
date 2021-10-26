@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="COMP33. Gestor de correo certificado EAAB"
-    id="id-a2bf5d1f11764dcfab4d36c8ec3c94fb"/>
+    id="id-a2bf5d1f11764dcfab4d36c8ec3c94fb"
+    documentation="Componente de comunicación y control de la información entrante y saliente de la SGDEA en cuanto a correos físicos y electrónicos puestos al servicio de las agencias de correo nacional. &#xD;&#xA;"/>

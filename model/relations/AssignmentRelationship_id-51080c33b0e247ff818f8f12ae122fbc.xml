@@ -1,11 +1,12 @@
-<archimate:CompositionRelationship
+<archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-d4007cd725ad4adca443a2b2b77308ea">
+    name="asignado"
+    id="id-51080c33b0e247ff818f8f12ae122fbc">
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-2f743f7aede440949417307b06592a70.xml#id-2f743f7aede440949417307b06592a70"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-21bd57eb6fd8416b89e7006b0045201d.xml#id-21bd57eb6fd8416b89e7006b0045201d"/>
   <target
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-e6290dcdf77c4b9ebeb9ef5a6348d7e6.xml#id-e6290dcdf77c4b9ebeb9ef5a6348d7e6"/>
-</archimate:CompositionRelationship>
+</archimate:AssignmentRelationship>

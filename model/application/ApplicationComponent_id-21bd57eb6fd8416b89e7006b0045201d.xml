@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COMP32. Gestor de bandejas de correo electrónico EAAB"
-    id="id-27103a320e384f25a9671c0877a1d350"
+    name="COMP35. Seguridad de correo electrónico "
+    id="id-21bd57eb6fd8416b89e7006b0045201d"
     documentation="Componente de conexión a bandejas de correo electrónico de distintos proveedores. Es posible incluir otras bandejas no conocidas y posteriores al diseño.&#xD;&#xA;"/>

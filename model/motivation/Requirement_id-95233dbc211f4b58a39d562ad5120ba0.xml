@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR30. Firmado de correos certificados"
-    id="id-95233dbc211f4b58a39d562ad5120ba0"
-    documentation="Debe permitir integrarse con correo electrónico certificado y firmas digitales, para los radicados de salida digitales.&#xD;&#xA;">
-  <properties
-      key="ModeloRequisitoEAAB"
-      value="1.3.74"/>
-</archimate:Requirement>

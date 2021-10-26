@@ -189,7 +189,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2f87695d2157425196982e5f65c60a3c"
-        targetConnections="id-d1a6bf988580408fb96cc14ba07afda1">
+        targetConnections="id-d1a6bf988580408fb96cc14ba07afda1 id-53835b86efc54f6eb6e55ff45f1d5b9e">
       <bounds
           x="204"
           y="192"
@@ -588,5 +588,26 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a430128ca29d4071b9872848d45a6570.xml#id-a430128ca29d4071b9872848d45a6570"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fc56c0a57ee54251a2d0d09259a0ec9d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-53835b86efc54f6eb6e55ff45f1d5b9e"
+        source="id-fc56c0a57ee54251a2d0d09259a0ec9d"
+        target="id-2f87695d2157425196982e5f65c60a3c">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-68510861fa1143c482996dd42801672c.xml#id-68510861fa1143c482996dd42801672c"/>
+    </sourceConnections>
+    <bounds
+        x="1092"
+        y="384"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-27103a320e384f25a9671c0877a1d350.xml#id-27103a320e384f25a9671c0877a1d350"/>
   </children>
 </archimate:ArchimateDiagramModel>

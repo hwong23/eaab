@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REQR25. Validación Correo-e ciudadadano"
+    name="REQR25. Validación Correo-e ciudadano"
     id="id-f389542748134e8db300d353854d3b9e"
     documentation="El módulo debe permitir la validación del correo electrónico provisto por el ciudadano y así garantizar la existencia del mismo y garantiza la recepción de la respuesta de la EAAB.&#xD;&#xA;">
   <properties

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC001. Inicio de sesión usuario externo (ciudadano)"
+    id="id-3152f229b4a04631844212c4850566e7"
+    documentation="El SGDEA provee: &#xD;&#xA;* Control de acceso a los tipos documentales por parte de usuarios específicos que manejen los documentos. Sin permisos grupales a toda la dependencia. Sin permisos generales por serie&#xA;* Que permita el control de acceso a nivel de tipo documental y no solo de serie y subserie para los casos en que una serie es manejada por diferentes usuarios,,application-function&#xA;&#xD;&#xA;Nota: haý series en las que algunos tipos documentales se corresponden con ciertos usuarios. Por eso es necesario tener el control de acceso por tipo documental y usuario."/>

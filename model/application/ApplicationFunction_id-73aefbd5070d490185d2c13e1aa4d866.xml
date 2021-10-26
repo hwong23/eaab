@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC406. Verificación de validez del correo electrónico"
+    id="id-73aefbd5070d490185d2c13e1aa4d866"
+    documentation="El SGDEA constata el estado y la capacidad de recibir mensajes de la cuenta de un correo electrónico.&#xD;&#xA;"/>

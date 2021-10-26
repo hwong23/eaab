@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQR26. Consulta web correo emitido por EAAB"
     id="id-8ad2e36552b040e3829437aed9bf1aa9"
-    documentation="Cuando se responda un PQRS que fue registrada a través de la Web, el SGDEA debe enviar al ciudadano la respuesta al correo electrónico registrado por este, adicionalmente publicarlo en el sitio Web de la entidad, que, superado los niveles de acceso, el ciudadano podrá consultar la respuesta.&#xD;&#xA;">
+    documentation="Cuando EAAB responda un mensaje oficial, el SGDEA debe enviar al ciudadano la respuesta al correo electrónico registrado. Adicionalmente hay que publicar el mensaje en el portal oficial de la entidad, en el que, superado los niveles de acceso, el ciudadano podrá consultar la respuesta.&#xD;&#xA;">
   <properties
       key="ModeloRequisitoEAAB"
       value="1.3.61"/>

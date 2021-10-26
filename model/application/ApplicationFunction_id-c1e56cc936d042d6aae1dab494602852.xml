@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC407. Integración de bandejas de correo"
+    id="id-c1e56cc936d042d6aae1dab494602852"
+    documentation="El SGDEA integrará bandejas de otros proveedores de correo y sistemas de correo electrónico (ejemplo, Exchange, Office), internas y externas a la entidad, en una sola interfaz gráfica.&#xD;&#xA;"/>

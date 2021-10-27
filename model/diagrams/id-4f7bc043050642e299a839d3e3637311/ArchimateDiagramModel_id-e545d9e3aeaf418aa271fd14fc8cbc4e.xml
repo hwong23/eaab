@@ -7,11 +7,20 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-46f1782ce5f44191a4e73726ec72461a"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d7c0107366dc4d78976cf9944d76ddab"
+        source="id-46f1782ce5f44191a4e73726ec72461a"
+        target="id-601787ce0e514d1293c64e2ba0220837">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-ffe33622440c4046a60e06661bd1077a.xml#id-ffe33622440c4046a60e06661bd1077a"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="12"
         width="541"
-        height="217"/>
+        height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a7ec4e267b3745d782a97b7ebe9fe59c">
@@ -41,7 +50,7 @@
         id="id-24fb9230fa5d4dec86fe5b76aaa3a11c">
       <bounds
           x="36"
-          y="120"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -53,7 +62,7 @@
         id="id-97ed4a31e07447deb8995ae2b69d32ef">
       <bounds
           x="216"
-          y="120"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -77,12 +86,25 @@
         id="id-f9794f3a34414eb0bb904af24d60a9bb">
       <bounds
           x="396"
-          y="120"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Contract"
           href="Contract_id-5d8bb16d111047a2beda245e8aee4658.xml#id-5d8bb16d111047a2beda245e8aee4658"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-601787ce0e514d1293c64e2ba0220837"
+        targetConnections="id-d7c0107366dc4d78976cf9944d76ddab">
+      <bounds
+          x="36"
+          y="168"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Contract"
+          href="Contract_id-f4143ee0d2f04daaac5876f4973c08c0.xml#id-f4143ee0d2f04daaac5876f4973c08c0"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

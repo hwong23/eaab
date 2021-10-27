@@ -1,0 +1,5 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SGDEA. Servicios, Metadatos, Entidades, Relaciones"
+    id="id-7f3131b7a7a0470fb27de122b10dc03b"
+    documentation="Explica inicialmente el modelo conceptual, es decir, los aspectos teóricos que fundamentan el enfoque definido para el SGDEA y su funcionamiento, por tanto, allí se explican los servicios, metadatos, entidades y relaciones entre ellas, y por supuesto el comportamiento esperado del sistema. Estos conceptos preceden al modelo de arquitectura del SGDEA. &#xD;&#xA;&#xD;&#xA;Diagrama de bloques de los componentes del sistema y su relación con los procesos de la gestión documental.&#xD;&#xA;"/>

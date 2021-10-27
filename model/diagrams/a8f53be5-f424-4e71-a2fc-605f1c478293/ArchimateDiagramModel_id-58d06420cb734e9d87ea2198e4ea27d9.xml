@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Correo Certificado. Requerimientos y Funcionalidades"
     id="id-58d06420cb734e9d87ea2198e4ea27d9"
-    documentation="La solución de correo certificado del SGDEA de la EAAB aplica a envíos físicos y electrónicos. La lista de requerimientos REQR del 20 al 24 son el alcance de la solución de Administración de Correo Certificado del SGDEA.&#xD;&#xA;&#xD;&#xA;">
+    documentation="## Alcance del Servicio Administración de Correo Certificado. del SGDEA&#xD;&#xA;El alcance del Servicio de Firma Digital del SGDEA describe los componentes, elementos y aspectos necesarios para comprender la estructura y funcionamiento archivístico y tecnológico.&#xD;&#xA;&#xD;&#xA;La solución de correo certificado del SGDEA de la EAAB aplica a envíos físicos y electrónicos. La lista de requerimientos REQR del 20 al 24 son el alcance de la solución de Administración de Correo Certificado del SGDEA.&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9391cde12b0c40a592e96829fc385107"

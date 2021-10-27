@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objetivos y Requerimientos EAAB"
     id="id-c72805b148b8421b92d428376446257d"
-    documentation="Con base en el diagnóstico de producción documental es importante plantear como prioridad incluir dentro del SGDEA la implementación del manejo de la siguiente documentación.&#xD;&#xA;"
+    documentation="Con base en el diagnóstico de producción documental es importante plantear como prioridad incluir dentro del SGDEA la implementación del manejo de la siguiente documentación.&#xD;&#xA;&#xD;&#xA;El SGDEA es una definición de requisitos funcionales para un Sistema de Gestión de Documentos Electrónicos de Archivo. No es un patrón de diseño de software.&#xD;&#xA;"
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -45,8 +45,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4d11d9fe98c043e79d4c4c6e1ffccb0a">
     <bounds
-        x="29"
-        y="238"
+        x="264"
+        y="24"
         width="222"
         height="55"/>
     <archimateElement
@@ -57,8 +57,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49b8775f00a3497eb15771f42d1bba55">
     <bounds
-        x="29"
-        y="310"
+        x="264"
+        y="96"
         width="222"
         height="55"/>
     <archimateElement

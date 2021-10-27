@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Normatividad y Leyes SGDEA"
-    id="id-e545d9e3aeaf418aa271fd14fc8cbc4e">
+    id="id-e545d9e3aeaf418aa271fd14fc8cbc4e"
+    documentation="Nótese en el gráfico, que de forma transversal está el ciclo vital de los documentos y la aplicación de políticas, normas, procedimientos y reglas de la gestión documental y de seguridad de la información. De igual forma, se realizan acciones de preservación a lo largo del ciclo vital.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-46f1782ce5f44191a4e73726ec72461a"

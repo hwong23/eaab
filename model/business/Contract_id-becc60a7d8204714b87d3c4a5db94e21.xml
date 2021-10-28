@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Norma ISO 9706"
     id="id-becc60a7d8204714b87d3c4a5db94e21"
-    documentation="Se sugiere utilizar unidades de almacenamiento que permita almacenar folios sueltos y sin perforar, con el propósito de prolongar la conservación de los documentos. Se recomienda tener en cuenta las recomendaciones indicadas en la NTC 4436,  papel para documentos de archivo."/>
+    documentation="Se sugiere utilizar unidades de almacenamiento que permita almacenar folios sueltos y sin perforar, con el propósito de prolongar la conservación de los documentos. Se recomienda tener en cuenta las recomendaciones indicadas en la NTC 4436,  papel para documentos de archivo.">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ley 1409 de 2010"
     id="id-fc5b07a319324c6ab98b1629c0113b3d"
-    documentation="Congreso de la República (Reglamenta el ejercicio profesional de la Archivística, se dicta el Código de Ética y otras disposiciones)"/>
+    documentation="Congreso de la República (Reglamenta el ejercicio profesional de la Archivística, se dicta el Código de Ética y otras disposiciones).&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

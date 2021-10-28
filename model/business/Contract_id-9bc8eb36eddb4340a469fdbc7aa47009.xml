@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Acuerdo 049 de 2000 Articulo 3"
     id="id-9bc8eb36eddb4340a469fdbc7aa47009"
-    documentation="El acuerdo establece los medios ideales para el almacenamiento de los diferentes soportes documentales &quot;Areas de deposito&quot;"/>
+    documentation="El acuerdo establece los medios ideales para el almacenamiento de los diferentes soportes documentales &quot;Areas de deposito&quot;.&#xD;&#xA;">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

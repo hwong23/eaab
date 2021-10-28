@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Acuerdo 038 de 2002 Artículo"
     id="id-bb7606167d0a4ec58399fcd4075bf83d"
-    documentation="La entrega y recibo de los documentos y archivos a que se refiere el artículo anterior, se hará de conformidad con la Tabla de Retención Documental  para tal efecto, se diligenciará el formato."/>
+    documentation="...">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

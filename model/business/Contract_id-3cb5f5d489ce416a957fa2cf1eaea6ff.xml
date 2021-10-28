@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resolución 629 de 2018"
     id="id-3cb5f5d489ce416a957fa2cf1eaea6ff"
-    documentation="El personal que desarrolle las funciones de archivo cuente con las competencias de &#xD;&#xA;formación archivística&#xD;&#xA;Ref: 1150001_Encuesta C Archivístico_V4.0"/>
+    documentation="El personal que desarrolle las funciones de archivo cuente con las competencias de  formación archivística. Ref: 1150001_Encuesta C Archivístico_V4.0">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

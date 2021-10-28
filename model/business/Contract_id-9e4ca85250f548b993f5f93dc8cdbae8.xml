@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="acuerdo 049 de 2000 Artículo 5"
     id="id-9e4ca85250f548b993f5f93dc8cdbae8"
-    documentation="Condiciones ambientales y técnicas. Los edificios y locales destinados a albergar material de archivo, deben cumplir con las condiciones ambientales que incluyen manejo de temperatura, humedad relativa, ventilación, contaminantes atmosféricos e iluminación."/>
+    documentation="Condiciones ambientales y técnicas. Los edificios y locales destinados a albergar material de archivo, deben cumplir con las condiciones ambientales que incluyen manejo de temperatura, humedad relativa, ventilación, contaminantes atmosféricos e iluminación.">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

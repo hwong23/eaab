@@ -1,4 +1,8 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Acuerdo 02 de 2014 “Artículo 11°"
-    id="id-74cf768060cf4d3e9f14d7e975ab5a9d"/>
+    name="Acuerdo 02 de 2014 Artículo 11o"
+    id="id-74cf768060cf4d3e9f14d7e975ab5a9d">
+  <properties
+      key="Aplica"
+      value="25"/>
+</archimate:Contract>

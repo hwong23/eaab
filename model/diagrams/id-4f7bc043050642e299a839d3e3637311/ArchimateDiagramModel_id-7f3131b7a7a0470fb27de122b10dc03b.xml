@@ -809,7 +809,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-97f8901592344adb8cea6258f5f71e70"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="144"
             y="24"
@@ -851,7 +851,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-5d269c6ecee241c4880e5b48fcc38225"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="12"
             y="36"
@@ -864,7 +864,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ce7caf560597489ca1b4cc5a1647a8fb"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="277"
             y="36"
@@ -877,7 +877,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-306d0553d9454dacb3497b48757b3112"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="277"
             y="96"
@@ -903,7 +903,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-e0857963b2684592bfc37080673100bd"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="143"
             y="96"
@@ -955,7 +955,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-b95cec9fb2844933b8d39ffe6b432628"
-          fillColor="#bf4000">
+          fillColor="#006699">
         <bounds
             x="277"
             y="156"
@@ -973,7 +973,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-427fd334079b41c6ae911f65f8d4a50e"
         targetConnections="id-e592dccb1d104344a4147fa8912b7dde"
-        fillColor="#bf4000">
+        fillColor="#006699">
       <bounds
           x="300"
           y="384"
@@ -987,7 +987,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1d26a65f9b074bd59649d85d583d6537"
         targetConnections="id-abeded0eaa284d1ea69848d2cfb00c5b"
-        fillColor="#bf4000">
+        fillColor="#006699">
       <bounds
           x="36"
           y="384"
@@ -1001,7 +1001,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-db081f2e1f004adeba4024de6673d2f0"
         targetConnections="id-82ff0c96c2c14f0c8a3539ab9858e330"
-        fillColor="#bf4000">
+        fillColor="#006699">
       <bounds
           x="169"
           y="384"

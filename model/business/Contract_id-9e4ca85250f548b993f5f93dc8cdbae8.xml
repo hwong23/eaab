@@ -5,5 +5,5 @@
     documentation="Condiciones ambientales y técnicas. Los edificios y locales destinados a albergar material de archivo, deben cumplir con las condiciones ambientales que incluyen manejo de temperatura, humedad relativa, ventilación, contaminantes atmosféricos e iluminación.">
   <properties
       key="Aplica"
-      value="25"/>
+      value="40"/>
 </archimate:Contract>

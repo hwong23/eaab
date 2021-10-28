@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SGDEA. Servicios, Metadatos, Entidades, Relaciones"
     id="id-7f3131b7a7a0470fb27de122b10dc03b"
-    documentation="El SGDEA debe encargarse de aplicar los procesos de la gestión documental, producción, gestión y trámite, organización, transferencia, disposición, preservación a largo plazo y valoración. *Esto se realiza mediante flujos de trabajo*, gestión de contenidos, clasificación documental, conformación de expedientes entre otras,aplicando funciones sobre las entidades y capturando metadatos.&#xD;&#xA;&#xD;&#xA;Cuando un documento pasa al SGDEA puede ser tramitado mediante un flujo, como por ejemplo; asignación, proyecto de respuesta, aprobación y entrega. Se integra luego a un expediente que pertenece a una serie o subserie documental (clase de documento) previamente valorada. La serie determina la regla para la retención y disposición de documento, es decir, su tiempo de retención, tanto en la fase de archivo de gestión como en la fase de archivo central y la disposición que ha de darse una vez agotados estos tiempos. &#xD;&#xA;&#xD;&#xA;">
+    documentation="El SGDEA debe encargarse de aplicar los procesos de la gestión documental, producción, gestión y trámite, organización, transferencia, disposición, preservación a largo plazo y valoración. *Esto se realiza mediante flujos de trabajo*, gestión de contenidos, clasificación documental, conformación de expedientes entre otras,aplicando funciones sobre las entidades y capturando metadatos.&#xD;&#xA;&#xD;&#xA;Cuando un documento pasa al SGDEA puede ser tramitado mediante un flujo, como por ejemplo; asignación, proyecto de respuesta, aprobación y entrega. Se integra luego a un expediente que pertenece a una serie o subserie documental (clase de documento) previamente valorada. La serie determina la regla para la retención y disposición de documento, es decir, su tiempo de retención, tanto en la fase de archivo de gestión como en la fase de archivo central y la disposición que ha de darse una vez agotados estos tiempos. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c1c98139a834771bc4a2e4e2372e015"
@@ -258,6 +258,24 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-41fa61eb96f94288b24ebb94e4ff451f.xml#id-41fa61eb96f94288b24ebb94e4ff451f"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-546ca5af45a04b5ba4385168af4859c5"
+        source="id-37bccf0c25214255b12f34ea1ba44033"
+        target="id-ef42bcc745994af1ba18584e2a5bb71e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9d0133f58da942c9aabdfdf47131121c.xml#id-9d0133f58da942c9aabdfdf47131121c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f5ad112c7b2643bc94b0aa5ecea99ec7"
+        source="id-37bccf0c25214255b12f34ea1ba44033"
+        target="id-ca76353853dc4e91b046d773952eee9c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f971da0a7d8c4e3fa2b9383356c0f1e1.xml#id-f971da0a7d8c4e3fa2b9383356c0f1e1"/>
+    </sourceConnections>
     <bounds
         x="528"
         y="156"
@@ -271,7 +289,7 @@
           x="48"
           y="48"
           width="145"
-          height="55"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-5ddc8a66a3394120b758660880e88d75.xml#id-5ddc8a66a3394120b758660880e88d75"/>
@@ -282,9 +300,9 @@
         targetConnections="id-eef6f82afd844d51a38377d35f96e665">
       <bounds
           x="48"
-          y="108"
+          y="96"
           width="145"
-          height="55"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-0ac51fcfeb17480d9477a14af04d65b5.xml#id-0ac51fcfeb17480d9477a14af04d65b5"/>
@@ -295,9 +313,9 @@
         targetConnections="id-c3b2a272ebf644e3941441fb13bb1981">
       <bounds
           x="48"
-          y="168"
+          y="144"
           width="145"
-          height="55"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-3d8d6596518f4c5d95b3187b9059e562.xml#id-3d8d6596518f4c5d95b3187b9059e562"/>
@@ -308,9 +326,9 @@
         targetConnections="id-01ebc50f1ed94bcbbfff385e43f20e73">
       <bounds
           x="48"
-          y="228"
+          y="192"
           width="145"
-          height="55"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-e3fc602780474d629721565faebec2e7.xml#id-e3fc602780474d629721565faebec2e7"/>
@@ -321,12 +339,38 @@
         targetConnections="id-8aa371c675c54d2c95f16c74bcd1b806">
       <bounds
           x="48"
-          y="288"
+          y="240"
           width="145"
-          height="55"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessService"
           href="BusinessService_id-1150e8071a294e1b948ec46c2ecd3d70.xml#id-1150e8071a294e1b948ec46c2ecd3d70"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ef42bcc745994af1ba18584e2a5bb71e"
+        targetConnections="id-546ca5af45a04b5ba4385168af4859c5">
+      <bounds
+          x="48"
+          y="288"
+          width="145"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-e52d6dc7ae2f4cbbbba7afbc2dc7b658.xml#id-e52d6dc7ae2f4cbbbba7afbc2dc7b658"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ca76353853dc4e91b046d773952eee9c"
+        targetConnections="id-f5ad112c7b2643bc94b0aa5ecea99ec7">
+      <bounds
+          x="48"
+          y="336"
+          width="145"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:BusinessService"
+          href="BusinessService_id-65be3d7b56b641a4bfef688c3ab45d46.xml#id-65be3d7b56b641a4bfef688c3ab45d46"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -411,6 +455,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-4bae97748e394dd89f000f08c0c93dd2.xml#id-4bae97748e394dd89f000f08c0c93dd2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9b28499c37134fcca388950bb1ddf857"
+        source="id-dce44f4cd09844af9081483314268450"
+        target="id-7b37a9d9105140eeaf08fe5bfc281ff8">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c94697008292430e988deb0239db920f.xml#id-c94697008292430e988deb0239db920f"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="480"
@@ -421,9 +474,9 @@
         id="id-7415e25f6d5345c9ae66f74944916048"
         targetConnections="id-7d30551ac73d4397b984ea6ab37be4f0">
       <bounds
-          x="84"
+          x="24"
           y="24"
-          width="313"
+          width="217"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Principle"
@@ -434,9 +487,9 @@
         id="id-cae0df3b9f6c494a87b42cebe45cf605"
         targetConnections="id-092eff8f640942fb93481b45d631f130">
       <bounds
-          x="84"
+          x="24"
           y="72"
-          width="313"
+          width="217"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Principle"
@@ -447,9 +500,9 @@
         id="id-76a4af4b5c8e4ae1b2f0598e2a19f11a"
         targetConnections="id-f05ff023cb064cbd86ba8548e87cc0cf">
       <bounds
-          x="84"
+          x="24"
           y="120"
-          width="313"
+          width="217"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Principle"
@@ -460,13 +513,26 @@
         id="id-628aa5a791a4461d94a1abfc9a5d6267"
         targetConnections="id-7419bc1c7d7c49b0b47ac10312fcb850">
       <bounds
-          x="85"
+          x="25"
           y="168"
-          width="312"
+          width="217"
           height="37"/>
       <archimateElement
           xsi:type="archimate:Principle"
           href="Principle_id-96f51200da24422d844a1a7cdf1f771d.xml#id-96f51200da24422d844a1a7cdf1f771d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7b37a9d9105140eeaf08fe5bfc281ff8"
+        targetConnections="id-9b28499c37134fcca388950bb1ddf857">
+      <bounds
+          x="252"
+          y="24"
+          width="217"
+          height="37"/>
+      <archimateElement
+          xsi:type="archimate:Principle"
+          href="Principle_id-b42c52f1a6d141bc9e026741b165121a.xml#id-b42c52f1a6d141bc9e026741b165121a"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -601,9 +667,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-7322c6ef76f145409d01ecba6ac0bf56"
       textAlignment="1"
-      content="Vista Conceptual SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Servicios, Normas  y Características de la plataforma SGDEA.&#xD;&#xA;&#xD;&#xA;v0.3&#xD;&#xA;">
+      content="Vista Conceptual SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Servicios, Normas  y Características e Integración conla plataforma SGDEA.&#xD;&#xA;&#xD;&#xA;v0.5">
     <bounds
         x="24"
+        y="25"
         width="241"
         height="120"/>
   </children>
@@ -687,7 +754,7 @@
           id="id-fa3e24081d8a496ba652390a2a202b1f">
         <bounds
             x="12"
-            y="36"
+            y="24"
             width="120"
             height="55"/>
         <archimateElement
@@ -699,7 +766,7 @@
           id="id-97f8901592344adb8cea6258f5f71e70">
         <bounds
             x="144"
-            y="36"
+            y="24"
             width="120"
             height="55"/>
         <archimateElement
@@ -712,7 +779,7 @@
           targetConnections="id-2ad9640b116b4253a2b36783d9ae17cf">
         <bounds
             x="276"
-            y="36"
+            y="24"
             width="120"
             height="55"/>
         <archimateElement
@@ -1018,5 +1085,29 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-ce2808751afb44beb4f0ee3245c7455f.xml#id-ce2808751afb44beb4f0ee3245c7455f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9263f81c29904f9b8d68f6992d6d5c67">
+    <bounds
+        x="276"
+        y="108"
+        width="109"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-9515bfad5cac4d2d8b4eb3357c724eec.xml#id-9515bfad5cac4d2d8b4eb3357c724eec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-68aa46468d19443b9f2869d4e48dc394">
+    <bounds
+        x="408"
+        y="108"
+        width="109"
+        height="37"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-6619c10bd55d492da837ea62ca3c826c.xml#id-6619c10bd55d492da837ea62ca3c826c"/>
   </children>
 </archimate:ArchimateDiagramModel>

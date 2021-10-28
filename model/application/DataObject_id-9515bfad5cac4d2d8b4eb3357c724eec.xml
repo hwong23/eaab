@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entidades SGDEA"
+    id="id-9515bfad5cac4d2d8b4eb3357c724eec"
+    documentation="Son unidades de información dentro del modelo SGDEA que representan un objeto o persona, y que tienen definida atributos que permite controlar su&#xD;&#xA;cadena de custodia a través de los Metadatos, el Historial de Eventos y la Lista de Control de Acceso.&#xD;&#xA;&#xD;&#xA;Las Entidades mínimas del SGDEA&#xD;&#xA;1. Formatos y Formularios&#xD;&#xA;1. Flujos de trabajo&#xD;&#xA;1. Documento&#xD;&#xA;1. Clase (sección, subsección, serie, subserie)&#xD;&#xA;1. Componente&#xD;&#xA;1. Expediente&#xD;&#xA;1. Metadatos&#xD;&#xA;1. Reglas de retención y disposición&#xD;&#xA;1. Grupos&#xD;&#xA;1. Rol&#xD;&#xA;1. Servicio&#xD;&#xA;1. Usuario&#xD;&#xA;&#xD;&#xA;Las Entidades del SGDEA *son fundamentales para la interoperabilidad* y para la integridad, por cuanto al ser gestionadas como un todo posibilita mantener el contexto de los documentos de archivo.&#xD;&#xA;"/>

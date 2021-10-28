@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadatos"
+    id="id-6619c10bd55d492da837ea62ca3c826c"
+    documentation="Son descriptores de las entidades del SGDEA. Cada entidad deberá implementar:&#xD;&#xA;* Metadatos del sistema: corresponde a los metadatos capturados por el sistema&#xD;&#xA;de forma automática y contienen información relacionada con la descripción de&#xD;&#xA;atributos otorgados por el sistema. Ejemplo: fecha de creación y fecha de primer&#xD;&#xA;uso.&#xD;&#xA;* Metadatos contextuales: son aquellos metadatos definidos por la entidad distrital&#xD;&#xA;y son los encargados de describir el contexto y la cadena de custodia sobre la&#xD;&#xA;cual una entidad se gestiona. Ejemplo: Serie documental, proceso,&#xD;&#xA;procedimientos entre otros."/>

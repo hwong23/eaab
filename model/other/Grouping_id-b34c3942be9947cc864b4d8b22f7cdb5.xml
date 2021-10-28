@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Principios operativos del SGDEA"
-    id="id-b34c3942be9947cc864b4d8b22f7cdb5"/>
+    id="id-b34c3942be9947cc864b4d8b22f7cdb5"
+    documentation="El modelo SGDEA, alineado con arquitecturas como SOA y Microservicios, contribuye a la interoperabilidad y la neutralidad tecnológica: los servicios pueden ser implementados con otras tecnologías. &#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Clasificación"
-    id="id-5ddc8a66a3394120b758660880e88d75"/>
+    id="id-5ddc8a66a3394120b758660880e88d75"
+    documentation="* Las clases fondo, sección y subsección están ligadas a la estructura orgánica de una entidad distrital (esta no hace referencia la entidad del sistema).&#xD;&#xA;* Las clases serie y subserie lo están a las funciones de las unidades administrativas en cuyo cumplimiento de sus atribuciones legales se generan documentos que conforman expedientes. Esto compone al cuadro de clasificación documental.&#xD;&#xA;"/>

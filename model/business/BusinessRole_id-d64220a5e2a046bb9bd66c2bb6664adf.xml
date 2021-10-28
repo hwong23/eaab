@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Expedientes"
-    id="id-d64220a5e2a046bb9bd66c2bb6664adf"/>
+    id="id-d64220a5e2a046bb9bd66c2bb6664adf"
+    documentation="Los documentos son agrupados en expedientes y ordenados dentro de él de acuerdo con el trámite que los genera y con la estructura de clasificación determinada por el cuadro de clasificación documental.&#xD;&#xA;&#xD;&#xA;Son realmente son representaciones a través de metadatos, por tanto son fundamentales los metadatos que establecen la relación de los documentos (hijos) con el expediente (padre). Cuentan con un índice electrónico que registra los documentos que contiene. &#xD;&#xA;&#xD;&#xA;Siendo una entidad se tratan como unidades discretas dentro del SGDEA, es decir, en un solo paquete que no comparte componentes con otros.&#xD;&#xA;&#xD;&#xA;Un expediente pertenece a una única serie, pero una serie tiene varios expedientes.&#xD;&#xA;"/>

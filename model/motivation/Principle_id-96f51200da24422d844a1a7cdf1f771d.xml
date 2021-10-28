@@ -1,5 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Apego a la normativa"
+    name="Apego a la normativa: 1080, 2274, 2609, ..."
     id="id-96f51200da24422d844a1a7cdf1f771d"
     documentation="• Interoperabilidad. El SGDEA – DC RTF se ha desarrollado bajo Arquitectura Orientada a Servicios SOA, lo cual facilita el intercambio de información entre los servicios del modelo y otros sistemas.&#xD;&#xA;• Neutralidad Tecnológica. El modelo SGDEA – DC RTF promueve la libre adopción de Sistemas de información de Gestión Documental, a partir de los requisitos funcionales formulados en los diferentes servicios.&#xD;&#xA;• Adaptabilidad y flexibilidad. El SGDEA – DC RTF, permite su aplicación en cualquier entidad distrital facilitando la inclusión de nuevos requisitos y/o servicios teniendo en cuenta que cada una es diferente y tiene sus particularidades.&#xD;&#xA;• Apego a la normativa. El SGDEA – DC RTF, respeta la normativa que rige la función archivística y los aspectos tecnológicos.&#xD;&#xA;"/>

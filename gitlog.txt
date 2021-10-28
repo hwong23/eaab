@@ -1,3 +1,17 @@
+5bfa0df Reporte
+2905393 Vista Conceptual SGDEA de EAAB. v0.5
+ff61c4d Vista Conceptual SGDEA de EAAB. v0.3
+e02c835 Vista Conceptual SGDEA de EAAB
+ecc9dc0 SGDEA. Servicios, Metadatos, Entidades, Relaciones
+5ae1db9 Principios SGDEA
+190a5fc SGDEA. Servicios, Metadatos, Entidades, Relaciones
+8cff650 Objetivos y Requerimientos EAAB
+6c45303 Objetivos y Requerimientos EAAB. Requisitos técnológicos y funcionales
+07f363a Normatividad y Leyes SGDEA. Decreto 1080
+b2ed6f1 Normatividad y Leyes SGDEA. 1
+38deec3 Corrección de textos
+a169d32 Documentación
+e1747bf log
 baa2081 Reporte
 63660a6 Correo Certificado. Solución
 8400c4a COMP32. Gestor de bandejas de correo electrónico EAAB

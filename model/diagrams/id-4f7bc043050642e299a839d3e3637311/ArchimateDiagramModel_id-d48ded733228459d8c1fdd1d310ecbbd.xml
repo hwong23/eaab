@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo de Madurez (general)"
+    name="Modelo de Madurez Interoperabilidad"
     id="id-d48ded733228459d8c1fdd1d310ecbbd"
-    documentation="Niveles de madurez de interoperabilidad. Se dividen en tres: inicial, definido y optimizado. Para alcanzar cualquier nivel en particular se requiere haber alcanzado previamente los niveles anteriores.">
+    documentation="Niveles de madurez de interoperabilidad. Se dividen en tres: inicial, definido y optimizado. Para alcanzar cualquier nivel en particular se requiere haber alcanzado previamente los niveles anteriores.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;La entidad define el tipo de&#xD;&#xA;servicio de intercambio de&#xD;&#xA;información. Establece acuerdos&#xD;&#xA;de nivel de asistencia para los&#xD;&#xA;servicios de intercambio de&#xD;&#xA;información que ofrecerá.&#xD;&#xA;&#xD;&#xA;La entidad realiza el registro de&#xD;&#xA;los servicios de intercambio de&#xD;&#xA;información que presta en el&#xD;&#xA;directorio general de servicios de&#xD;&#xA;intercambio de información n5&#xD;&#xA;La entidad presta o consume&#xD;&#xA;servicios de intercambio de&#xD;&#xA;información, de acuerdo con el&#xD;&#xA;tipo de servicio de intercambio&#xD;&#xA;de información y con la&#xD;&#xA;jerarquización de los mismos.&#xD;&#xA;La entidad adecúa los procesos&#xD;&#xA;de negocio para la prestación o&#xD;&#xA;utilización de servicios de&#xD;&#xA;intercambio de información.&#xD;&#xA;La entidad evalúa los resultados&#xD;&#xA;de la prestación de servicios de&#xD;&#xA;intercambio de información y el&#xD;&#xA;cumplimiento de los niveles de&#xD;&#xA;servicio acordados&#xD;&#xA;&#xD;&#xA;La entidad diseña, ejecuta y&#xD;&#xA;optimiza sus procesos de negocio,&#xD;&#xA;utilizando servicios de&#xD;&#xA;intercambio de información. En&#xD;&#xA;particular, para la prestación de&#xD;&#xA;servicios a ciudadanos,&#xD;&#xA;empresarios, y otras entidades&#xD;&#xA;La entidad presta o consume&#xD;&#xA;servicios de intercambio de&#xD;&#xA;información identificados&#xD;&#xA;La entidad ha puesto en&#xD;&#xA;funcionamiento un modelo de&#xD;&#xA;mejoramiento continuo, con&#xD;&#xA;tendencia a aumentar los&#xD;&#xA;servicios de intercambio de&#xD;&#xA;información disponibles y a&#xD;&#xA;mejorar la calidad de los servicios">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-996b8ae3710e4350b69dbb3efc31a80c">
@@ -45,11 +45,55 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f9dbfd4a8ee04f3290437ae847c825b9"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-235c195289de419490ca3de91df27367"
+        source="id-f9dbfd4a8ee04f3290437ae847c825b9"
+        target="id-11cee936936f42ffb7a777f176910d56">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-1667261dc0cf4bdebc63ad0cc3c284fe.xml#id-1667261dc0cf4bdebc63ad0cc3c284fe"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-27c354e2cdb94ca88670c918decde1ca"
+        source="id-f9dbfd4a8ee04f3290437ae847c825b9"
+        target="id-180c22e030de42f2a2d410c7fdb68941">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-65d69463867d4005ba839c1c64cf5d10.xml#id-65d69463867d4005ba839c1c64cf5d10"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="168"
         width="160"
         height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-11cee936936f42ffb7a777f176910d56"
+        targetConnections="id-235c195289de419490ca3de91df27367">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-7467abf1c0e8496bb86f6a0f492b3962.xml#id-7467abf1c0e8496bb86f6a0f492b3962"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-180c22e030de42f2a2d410c7fdb68941"
+        targetConnections="id-27c354e2cdb94ca88670c918decde1ca">
+      <bounds
+          x="12"
+          y="60"
+          width="120"
+          height="25"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-cc910c5d685944d8becab4f98df2d120.xml#id-cc910c5d685944d8becab4f98df2d120"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-6f86742d82e340c8860da8631b5d4840.xml#id-6f86742d82e340c8860da8631b5d4840"/>
@@ -146,5 +190,17 @@
         y="132"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1924a4a9d01f4f6989ce4836982dbb77">
+    <bounds
+        x="140"
+        y="492"
+        width="120"
+        height="25"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-43caa15331754e98b6cc14b3ae44c23f.xml#id-43caa15331754e98b6cc14b3ae44c23f"/>
   </children>
 </archimate:ArchimateDiagramModel>

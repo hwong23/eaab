@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad. Marco de Interoperabilidad"
-    id="id-676c5d3123a14b4689c9c93aeda582f1">
+    id="id-676c5d3123a14b4689c9c93aeda582f1"
+    documentation="El Marco de interoperabilidad surge como un compendio de políticas, recomendaciones y estándares técnicos, desarrollado para facilitar el desarrollo de capacidades de interoperabilidad de las entidades, de forma que sin importar su tamaño, presupuesto o desarrollo tecnológico pueda coordinar el intercambio de información y realizar ejercicios de colaboración con otras entidades de forma eficiente.">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-0de950175c084431a89a40970943f175"

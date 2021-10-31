@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metas del Nivel Optimizado"
-    id="id-da3f3f7fdf53406796a9565192744c7e"/>
+    id="id-da3f3f7fdf53406796a9565192744c7e"
+    documentation="* Es posible monitorear y medir el desempeño en la prestación de los servicios de intercambio de información.&#xD;&#xA;* No hay redundancia de información operativa (SGDEA, ERP, ...) o se encuentra controlada.&#xD;&#xA;* Existe un marco legal general para la prestación y consumo de todos los servicios de intercambio de información.&#xD;&#xA;"/>

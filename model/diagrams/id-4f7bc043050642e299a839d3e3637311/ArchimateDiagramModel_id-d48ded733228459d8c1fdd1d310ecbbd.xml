@@ -9,7 +9,7 @@
       id="id-996b8ae3710e4350b69dbb3efc31a80c">
     <bounds
         x="12"
-        y="24"
+        y="108"
         width="133"
         height="55"/>
     <archimateElement
@@ -21,7 +21,7 @@
       id="id-419edf4a54094ea1a26f919f48924469">
     <bounds
         x="180"
-        y="24"
+        y="72"
         width="133"
         height="55"/>
     <archimateElement
@@ -30,7 +30,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-85c566b2d220445eb5fa17c4f43fc8d6">
+      id="id-85c566b2d220445eb5fa17c4f43fc8d6"
+      targetConnections="id-e6995c0e6b5e4c468a4e66bcce35e0c0">
     <bounds
         x="348"
         y="24"
@@ -46,9 +47,9 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="96"
+        y="168"
         width="160"
-        height="241"/>
+        height="157"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-6f86742d82e340c8860da8631b5d4840.xml#id-6f86742d82e340c8860da8631b5d4840"/>
@@ -59,9 +60,9 @@
       textAlignment="1">
     <bounds
         x="180"
-        y="96"
+        y="132"
         width="160"
-        height="241"/>
+        height="193"/>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-3ed5297a0aba4bfb81cbda9e4fa28e58.xml#id-3ed5297a0aba4bfb81cbda9e4fa28e58"/>
@@ -69,10 +70,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c06c7e965d584aac8513ba3471133d5a"
+      targetConnections="id-f47ef70ab7ae4c3aaedb00babf22b0b0"
       textAlignment="1">
     <bounds
         x="348"
-        y="96"
+        y="84"
         width="160"
         height="241"/>
     <archimateElement
@@ -85,7 +87,7 @@
     <bounds
         x="12"
         y="348"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -97,7 +99,7 @@
     <bounds
         x="180"
         y="348"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
@@ -109,10 +111,40 @@
     <bounds
         x="348"
         y="348"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Assessment"
         href="Assessment_id-559a4453652f472e878de06b30230d03.xml#id-559a4453652f472e878de06b30230d03"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-306f2a2ecacc44f49b5cca60a7813b43"
+      textAlignment="1"
+      content="Nivel de avance en la cantidad y calidad de la información intercambiada&#xD;&#xA;">
+    <sourceConnections
+        id="id-e6995c0e6b5e4c468a4e66bcce35e0c0"
+        source="id-306f2a2ecacc44f49b5cca60a7813b43"
+        target="id-85c566b2d220445eb5fa17c4f43fc8d6"/>
+    <bounds
+        x="564"
+        y="24"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c0e8f4f51d3340f1817118c81221ffda"
+      textAlignment="1"
+      content="Tiempo, esfuerzo y recursos requeridos para cumplir con el nivel de avance de la calidad de la información intercambiada">
+    <sourceConnections
+        id="id-f47ef70ab7ae4c3aaedb00babf22b0b0"
+        source="id-c0e8f4f51d3340f1817118c81221ffda"
+        target="id-c06c7e965d584aac8513ba3471133d5a"/>
+    <bounds
+        x="564"
+        y="132"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

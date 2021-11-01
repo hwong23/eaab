@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lenguaje de intercambio XRoad"
+    id="c241ea45-99a3-499a-8c55-f113b0597897"
+    documentation="Con el objetivo de integrar los servicios web implementados de las entidades tanto para exponer, como para consumir, las entidades deben implementar el protocolo X-ROAD Message para usar el Servidor de Seguridad X-ROAD de cada entidad. Este protocolo define unos encabezados en el mensaje dependiendo de si es Rest o SOAP, para la petición (request) o respuesta (response) y por último, si el servicio a exponer o consumir es SOAP con adjuntos.&#xA;"/>

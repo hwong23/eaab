@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Acciones y Tecnologías de Interoperabilidad"
+    name="Prácticas Comunes de Interoperabilidad"
     id="id-73f8caac25d34288b65517e5dfef4ab0"
-    documentation="Finalmente, las pautas ofrecidas por el marco de interoperabilidad del SGDEA de la EAAB son presentadas en como recomendaciones y estándares técnicos, que describen en detalle las *acciones a emprender y las tecnologías a utilizar* para garantizar un intercambio efectivo de información.&#xD;&#xA;"/>
+    documentation="Pautas ofrecidas por el marco de interoperabilidad del SGDEA de la EAAB. Son presentadas en como recomendaciones y estándares técnicos que describen en detalle las *acciones a emprender y las tecnologías a utilizar* para garantizar un intercambio efectivo de información.&#xD;&#xA;&#xA;Para facilitar la aplicación de los escenarios de intercambio, cada escenario explica cómo aplicar el marco. &#xA;&#xA;Nota: los niveles de madurez de interoperabilidad inflyen en la ejecución de los escenarios.&#xA;"/>

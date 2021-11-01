@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicios de intercambio de información"
+    id="7b350803-9020-4de9-9a65-0955b8bc4bde"
+    documentation="Servicios de Consumidor, de proveedor.&#xA;&#xA;Tipos de intercambio&#xA;* intercambio Gobierno a Ciudadano (G2C)&#xA;* intercambio Gobierno a Empresa (G2B)&#xA;* intercambio Gobierno a Gobierno (G2G)&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Escenarios de interoperabilidad"
+    id="5e3961e4-1a26-4d9e-8ee4-e93cd462d0ca"
+    documentation="Escenario funcional de interoperabilidad: una entidad requiera comprobar la existencia de alguna circunstancia necesaria para la prestación de un servicio que obre en otra entidad, no debe solicitarle dicha información al usuario, sino que deberá obtenerla de la entidad respectiva.&#xA;"/>

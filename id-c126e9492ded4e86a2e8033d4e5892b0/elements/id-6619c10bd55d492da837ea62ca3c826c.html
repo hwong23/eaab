@@ -46,7 +46,7 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Son descriptores de las entidades del SGDEA. Cada entidad deber&#225; implementar:
+						<textarea id="docsrc" style="display:none">Son descriptores de las entidades del SGDEA. Cada entidad deber&#225; implementar:
 * Metadatos del sistema: corresponde a los metadatos capturados por el sistema
 de forma autom&#225;tica y contienen informaci&#243;n relacionada con la descripci&#243;n de
 atributos otorgados por el sistema. Ejemplo: fecha de creaci&#243;n y fecha de primer
@@ -54,7 +54,8 @@ uso.
 * Metadatos contextuales: son aquellos metadatos definidos por la entidad distrital
 y son los encargados de describir el contexto y la cadena de custodia sobre la
 cual una entidad se gestiona. Ejemplo: Serie documental, proceso,
-procedimientos entre otros.</div>
+procedimientos entre otros.</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

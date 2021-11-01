@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Goal"
-    id="id-43caa15331754e98b6cc14b3ae44c23f"/>
+    name="Servicios"
+    id="id-43caa15331754e98b6cc14b3ae44c23f"
+    documentation="La entidad define el tipo de servicios de intercambio de información, cada uno con acuerdos de nivel de asistencia y documentación, soporte legal y nivel de exposición para el intercambio de información que ofrecerá.&#xD;&#xA;"/>

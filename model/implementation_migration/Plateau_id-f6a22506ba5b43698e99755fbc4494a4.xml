@@ -1,4 +1,5 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Optimizado"
-    id="id-f6a22506ba5b43698e99755fbc4494a4"/>
+    id="id-f6a22506ba5b43698e99755fbc4494a4"
+    documentation="* Es posible monitorear y medir el desempeño en la prestación de los servicios de intercambio de información.&#xD;&#xA;* No hay redundancia de información operativa (SGDEA, ERP, ...) o se encuentra controlada.&#xD;&#xA;* Existe un marco legal general para la prestación y consumo de todos los servicios de intercambio de información.&#xD;&#xA;"/>

@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperabilidad. Modelo Madurez"
+    id="id-e1b54e6e5e674610a258051dd1882acb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-08b53c5600624858b5f3330eecfc0e7d"
+      textAlignment="1">
+    <bounds
+        x="36"
+        y="48"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-47d09b71838246029b91ef3596b4c117">
+      <bounds
+          x="24"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-676c5d3123a14b4689c9c93aeda582f1.xml#id-676c5d3123a14b4689c9c93aeda582f1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-99f60cd53adc41dd8ca46c1e00c3edfa">
+      <bounds
+          x="168"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d48ded733228459d8c1fdd1d310ecbbd.xml#id-d48ded733228459d8c1fdd1d310ecbbd"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-7de09d0da726473ebc8635f34e4bbaf8.xml#id-7de09d0da726473ebc8635f34e4bbaf8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

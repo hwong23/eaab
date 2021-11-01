@@ -1,4 +1,5 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inicial"
-    id="id-f8d77eea53c64d0fafb26a9f00fde325"/>
+    name="Nivel Inicial"
+    id="id-f8d77eea53c64d0fafb26a9f00fde325"
+    documentation="* Las entidades cuentan con elementos mínimos para el diseño y construcción de los esquemas de interoperabilidad.&#xD;&#xA;* Suceden con frecuencia pérdidas de información y retrasos con costos asociados; el resultado de las comunicaciones es impredecible.&#xD;&#xA;"/>

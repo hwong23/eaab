@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelo de Medición"
-    id="id-e465d2bc11724545ab4c8d1e489e5c27"/>
+    id="id-e465d2bc11724545ab4c8d1e489e5c27"
+    documentation="A continuación se presentan los elementos con los que la entidad podrá acreditar ante su articulador o evaluador el cumplimiento del criterio de aplicación del Marco de interoperabilidad, para cada nivel de madurez considerado. Adicionalmente, se presenta en qué escenarios de los descritos por esta guía se ejecutan actividades que obtienen como resultado el criterio de verificación."/>

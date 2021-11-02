@@ -381,9 +381,9 @@
       borderType="2">
     <bounds
         x="24"
-        y="552"
+        y="555"
         width="84"
-        height="27"/>
+        height="20"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -405,9 +405,9 @@
       borderType="2">
     <bounds
         x="24"
-        y="570"
+        y="574"
         width="84"
-        height="27"/>
+        height="19"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelo de Madurez Interoperabilidad SGDEA"
     id="id-d48ded733228459d8c1fdd1d310ecbbd"
-    documentation="Niveles de madurez de interoperabilidad. Se dividen en tres: inicial, definido y optimizado. Para alcanzar cualquier nivel en particular se requiere haber alcanzado previamente los niveles anteriores.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    documentation="El modelo de madurez de interoperabilidad se divide en tres niveles: nivel de madurez inicial, definido y optimizado. Para alcanzar cualquier nivel se requiere haber alcanzado previamente los niveles anteriores.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-996b8ae3710e4350b69dbb3efc31a80c">
@@ -350,7 +350,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c3eca27a90864fd08a4674fac2d2f5a1"
       textAlignment="1"
-      content="Modelo de Madurez Interoperabilidad del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Niveles de madurez, Criterios y Evaluaciones&#xD;&#xA;&#xD;&#xA;v0.2">
+      content="Modelo de Madurez Interoperabilidad del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Niveles de madurez, Criterios y Evaluaciones&#xD;&#xA;&#xD;&#xA;v0.3">
     <bounds
         x="12"
         y="12"

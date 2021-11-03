@@ -154,7 +154,7 @@
           href="CompositionRelationship_id-e39b803f4adf4cbb92b25a5f41d474c3.xml#id-e39b803f4adf4cbb92b25a5f41d474c3"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="696"
         y="408"
         width="384"
         height="529"/>
@@ -431,7 +431,7 @@
           href="CompositionRelationship_id-5c01f70f62d544cda83db7df8682f5e3.xml#id-5c01f70f62d544cda83db7df8682f5e3"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="24"
         y="408"
         width="600"
         height="361"/>
@@ -612,7 +612,7 @@
           href="CompositionRelationship_id-584e1473a4d04a05aa23e4c61c0f7d4b.xml#id-584e1473a4d04a05aa23e4c61c0f7d4b"/>
     </sourceConnections>
     <bounds
-        x="1175"
+        x="1115"
         y="408"
         width="433"
         height="337"/>
@@ -717,7 +717,7 @@
       textAlignment="1"
       content="Alcance. Vista conceptual de la solución de Firma Digital del SGDEA de la EAAB. Motivaciones, Requerimientos y Funcionalidades. &#xD;&#xA;&#xD;&#xA;> v0.7&#xD;&#xD;&#xA;">
     <bounds
-        x="84"
+        x="24"
         y="-144"
         width="229"
         height="120"/>
@@ -746,7 +746,7 @@
           href="CompositionRelationship_id-41e19187373b40c8828a3d139fe83312.xml#id-41e19187373b40c8828a3d139fe83312"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="24"
         y="172"
         width="600"
         height="176"/>
@@ -983,7 +983,7 @@
           href="AssociationRelationship_id-c5400a19499f4ca28cdfce8e867d46e8.xml#id-c5400a19499f4ca28cdfce8e867d46e8"/>
     </sourceConnections>
     <bounds
-        x="756"
+        x="696"
         y="-132"
         width="852"
         height="492"/>

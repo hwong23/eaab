@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Serie 32. Nominas"
+    name="Serie 32. Nóminas"
     id="id-092ed38c877b49829c68bf1f7d4c11e7"
     documentation="Modificaciones contractuales, descuentos legales, judiciales y voluntarios que tienen un efecto directo en la liquidación mensual y pago de la nómina. Al cumplir el tiempo de retención en el archivo central se realiza una selección del último mes del año. Una vez concluido el tiempo de retención, se tomará la muestra para ser conservada mediante medios físicos y electrónicos. "/>

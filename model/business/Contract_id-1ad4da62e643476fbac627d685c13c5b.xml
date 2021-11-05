@@ -1,4 +1,5 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="POL6. Reutilización"
-    id="id-1ad4da62e643476fbac627d685c13c5b"/>
+    id="id-1ad4da62e643476fbac627d685c13c5b"
+    documentation="Definir los elementos y reglas que deben ser consideradas por el prestador de servicio en el intercambio y composición de la información de un servicio o trámite determinado para las entidades que requieran esta información en sus procesos puedan reusarlos o consumir los servicios del SGDEA según corresponda.&#xD;&#xA;"/>

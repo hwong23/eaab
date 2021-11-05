@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperabilidad. Modelo Madurez"
+    name="Interoperabilidad. Marco"
     id="id-e1b54e6e5e674610a258051dd1882acb">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -10,7 +10,7 @@
     <bounds
         x="36"
         y="48"
-        width="400"
+        width="457"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -35,6 +35,18 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-d48ded733228459d8c1fdd1d310ecbbd.xml#id-d48ded733228459d8c1fdd1d310ecbbd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-780965f8b14d4ad0af43bb3a17e2a4a4">
+      <bounds
+          x="312"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-1a21272d78ad4f1eb1229f3abab77365.xml#id-1a21272d78ad4f1eb1229f3abab77365"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

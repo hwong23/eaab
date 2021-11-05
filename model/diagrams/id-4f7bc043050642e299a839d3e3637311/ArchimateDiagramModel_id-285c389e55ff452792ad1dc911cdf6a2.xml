@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperabilidad. Normatividad"
+    id="id-285c389e55ff452792ad1dc911cdf6a2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7550789ac01f4c6ea8dd0aefe9e952b0">
+    <bounds
+        x="36"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_63bbcb70-8c6b-414d-abf5-cde4b5843f76.xml#63bbcb70-8c6b-414d-abf5-cde4b5843f76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b8794c75e2904a94a907b3318a6dfc8f">
+    <bounds
+        x="204"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-a1c06a40b243484caf28f7c247ba9d30.xml#id-a1c06a40b243484caf28f7c247ba9d30"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fa3c8df2d84e434da1487de6eb0ca1a3">
+    <bounds
+        x="348"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-1b24bb8415f34e38bcc60949d79fce33.xml#id-1b24bb8415f34e38bcc60949d79fce33"/>
+  </children>
+</archimate:ArchimateDiagramModel>

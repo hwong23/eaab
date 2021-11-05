@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo de Madurez Interoperabilidad"
+    name="Interoperabilidad. Modelo de Madurez"
     id="id-c78f2ee02a02476fafdc3a5ec79c5d9a"
     documentation="Niveles de madurez de interoperabilidad. Se dividen en tres: inicial, definido y optimizado. Para alcanzar cualquier nivel en particular se requiere haber alcanzado previamente los niveles anteriores.">
   <children

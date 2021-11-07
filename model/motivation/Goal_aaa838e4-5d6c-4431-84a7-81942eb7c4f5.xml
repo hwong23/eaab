@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOL101. Retención y Disposición Documental"
+    id="aaa838e4-5d6c-4431-84a7-81942eb7c4f5"
+    documentation="Los SGDEA deben permitir como mínimo las siguientes acciones de disposición para cualquier regla de retención y disposición:&#xA;• Conservación permanente&#xA;• Eliminación automática&#xA;• Eliminación con autorización del rol administrativo;&#xA;• Transferencia&#xA;• Selección&#xA;&#xA;El SGDEA debe mantener una historia inalterable de modificaciones (pistas de auditoría) que se realizan en los tiempos de retención y disposición, incluida la fecha del cambio o eliminación y el usuario que lo registra.&#xA;&#xA;El SGDEA debe garantizar que cualquier cambio a un tiempo de retención y disposición se aplique inmediatamente a todas las series, subseries a las que se asigna.&#xA;&#xA;El SGDEA no debe limitar la duración de los tiempos de retención.&#xA;&#xA;El SGDEA debe activar automáticamente un alerta al rol administrador cuando el&#xA;período de retención aplicable está a punto de cumplir el tiempo establecido.&#xA;"/>

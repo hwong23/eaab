@@ -8,9 +8,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b30e510f-eeeb-4235-a62d-f5ddd5a54a8e">
     <bounds
-        x="76"
+        x="60"
         y="43"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -20,9 +20,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="67fb4f82-25f7-4ad9-9db2-529c6fa06597">
     <bounds
-        x="226"
+        x="210"
         y="43"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -32,9 +32,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="66c02d4b-9ad2-4e85-9eb6-386f5f3991d3">
     <bounds
-        x="376"
+        x="360"
         y="43"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -44,9 +44,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bb9bab64-64c1-4880-baed-1757a97f5ba9">
     <bounds
-        x="76"
+        x="60"
         y="108"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -56,9 +56,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="32952f44-8647-4bd9-a65e-9d664ce15272">
     <bounds
-        x="226"
+        x="210"
         y="108"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -68,9 +68,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="68e35885-d70a-4c2a-9baf-2057b6aea96a">
     <bounds
-        x="376"
+        x="360"
         y="108"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -80,9 +80,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="52cc07ca-55c6-4085-9f4f-bb6029f60b93">
     <bounds
-        x="76"
-        y="208"
-        width="120"
+        x="60"
+        y="168"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -92,9 +92,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7b880460-4f69-4de0-8624-07c06cbe0cfd">
     <bounds
-        x="226"
-        y="208"
-        width="120"
+        x="210"
+        y="168"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -104,9 +104,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d1a51a14-b318-4f08-b59a-2530725cc7c2">
     <bounds
-        x="376"
-        y="208"
-        width="120"
+        x="360"
+        y="168"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -116,9 +116,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="53ebefba-935c-4cf3-b5e3-c53711c6a101">
     <bounds
-        x="76"
-        y="308"
-        width="120"
+        x="60"
+        y="268"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -128,9 +128,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2934ad9a-b249-4286-958f-fd232c7172ec">
     <bounds
-        x="226"
-        y="308"
-        width="120"
+        x="210"
+        y="268"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -140,9 +140,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2b1e574b-db4e-44bd-b52c-149573edd4eb">
     <bounds
-        x="376"
-        y="308"
-        width="120"
+        x="360"
+        y="268"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -152,9 +152,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="cf3e8437-e8d4-4231-82aa-993f6ec8c9e3">
     <bounds
-        x="76"
+        x="60"
         y="408"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -164,9 +164,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="62e04dfc-6994-4276-b82e-a27a26874e48">
     <bounds
-        x="226"
+        x="210"
         y="408"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -176,9 +176,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4015219a-bd1c-459a-809f-f1a5be46872b">
     <bounds
-        x="376"
+        x="360"
         y="408"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -188,9 +188,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bf76463e-02dd-4238-8072-bcc39ba91742">
     <bounds
-        x="76"
-        y="508"
-        width="120"
+        x="60"
+        y="468"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -200,9 +200,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="39268a73-2eb5-4e39-8499-261b0a7e0de4">
     <bounds
-        x="226"
-        y="508"
-        width="120"
+        x="210"
+        y="468"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -212,9 +212,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bf9c37dc-1c95-454c-b7bb-2be2edb32dc6">
     <bounds
-        x="376"
-        y="508"
-        width="120"
+        x="360"
+        y="468"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -224,9 +224,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="85b223f6-b136-4ff3-98a1-29cacc647ea4">
     <bounds
-        x="76"
-        y="576"
-        width="120"
+        x="60"
+        y="536"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -236,9 +236,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="389241dc-0e90-48ae-a5cf-7687f66171ea">
     <bounds
-        x="226"
-        y="576"
-        width="120"
+        x="210"
+        y="536"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -248,9 +248,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="34ee84d5-16ea-4dd5-b38a-855ae69078e0">
     <bounds
-        x="376"
-        y="576"
-        width="120"
+        x="360"
+        y="536"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
@@ -260,9 +260,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="93ee05fa-4486-42af-af6a-f854858313e9">
     <bounds
-        x="76"
+        x="60"
         y="743"
-        width="120"
+        width="136"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"

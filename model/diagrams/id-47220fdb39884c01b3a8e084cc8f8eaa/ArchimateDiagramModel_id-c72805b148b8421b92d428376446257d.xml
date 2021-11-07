@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Objetivos y Requerimientos EAAB"
+    name="Objetivos y Requerimientos SDEA de EAAB"
     id="id-c72805b148b8421b92d428376446257d"
     documentation="Con base en el diagnóstico de producción documental es importante plantear como prioridad incluir dentro del SGDEA la implementación del manejo de la siguiente documentación.&#xD;&#xA;&#xD;&#xA;El SGDEA es una definición de requisitos funcionales para un Sistema de Gestión de Documentos Electrónicos de Archivo. No es un patrón de diseño de software.&#xD;&#xA;"
     viewpoint="motivation">
@@ -12,7 +12,7 @@
         x="24"
         y="24"
         width="222"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-1917c65f9ace469094302eadf72c1469.xml#id-1917c65f9ace469094302eadf72c1469"/>
@@ -24,7 +24,7 @@
         x="24"
         y="94"
         width="222"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-5db6a819ae5349cbb3353052f4f1b5a8.xml#id-5db6a819ae5349cbb3353052f4f1b5a8"/>
@@ -36,7 +36,7 @@
         x="24"
         y="166"
         width="222"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-4e6e8f89c78646da9c102e705856999c.xml#id-4e6e8f89c78646da9c102e705856999c"/>
@@ -48,7 +48,7 @@
         x="264"
         y="24"
         width="222"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-8e1885e6d4a344a5ae43bf92f3d525a6.xml#id-8e1885e6d4a344a5ae43bf92f3d525a6"/>
@@ -60,7 +60,7 @@
         x="264"
         y="96"
         width="222"
-        height="55"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-bf85c920eb5e4981a3c942fcf9c72cc0.xml#id-bf85c920eb5e4981a3c942fcf9c72cc0"/>

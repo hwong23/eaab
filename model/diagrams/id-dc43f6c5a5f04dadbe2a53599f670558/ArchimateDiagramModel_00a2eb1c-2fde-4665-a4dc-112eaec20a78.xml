@@ -161,6 +161,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_5c0ee418-dc86-4e87-99d5-25c047d7cfac.xml#5c0ee418-dc86-4e87-99d5-25c047d7cfac"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="30686b67-a25a-47f9-8926-5b6e095f52f8"
+        source="1bd56061-5a4f-4c1d-967a-a57837199acb"
+        target="e4b72820-9f63-4735-9a42-758c4e32503a">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_5c9abf09-0390-4d33-a881-deee45fb890a.xml#5c9abf09-0390-4d33-a881-deee45fb890a"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="624"
@@ -457,7 +466,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e4b72820-9f63-4735-9a42-758c4e32503a"
-      targetConnections="9d71ff45-e00b-4093-adfd-c5a8c4fd59cf"
+      targetConnections="9d71ff45-e00b-4093-adfd-c5a8c4fd59cf 30686b67-a25a-47f9-8926-5b6e095f52f8"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -534,7 +543,7 @@
       <bounds
           x="426"
           y="108"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Outcome"
@@ -547,7 +556,7 @@
       <bounds
           x="576"
           y="108"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Outcome"
@@ -586,7 +595,7 @@
       <bounds
           x="426"
           y="174"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Outcome"
@@ -599,7 +608,7 @@
       <bounds
           x="576"
           y="42"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Outcome"
@@ -612,7 +621,7 @@
       <bounds
           x="426"
           y="42"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Outcome"

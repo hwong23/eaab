@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>FUNC320. Firmado digital de documento / correo</title>
+	<title>FUNC320. Firma digital de documento / correo</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -22,7 +22,7 @@
 
 		<div class="panel-heading root-panel-heading">
             <!-- Name -->
-               <b>FUNC320. Firmado digital de documento / correo</b>
+               <b>FUNC320. Firma digital de documento / correo</b>
 
             <!-- If a View with Viewpoint -->
 			   (<span class="i18n-elementtype-ApplicationFunction"></span>)
@@ -46,9 +46,13 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">El SGDEA proveer&#225; (y controlar&#225;) alternativas para el firmado y asociar&#225; la firma electr&#243;nica, digital u otras a un tipo documental.
+						<textarea id="docsrc" style="display:none">El SGDEA proveer&#225; (y controlar&#225;) alternativas para el firmado y asociar&#225; la firma electr&#243;nica, digital u otras a un tipo documental.
 
-</div>
+La firma digital se define (Ley 527) como &#8220;un valor num&#233;rico que se adhiere a un mensaje de datos y que, utilizando un procedimiento matem&#225;tico conocido vinculado a la clave del iniciador y al texto del mensaje&#8221;. Es decir, la firma digital se configura como un valor num&#233;rico que se asocia a un mensaje de datos y permite determinar que dicho valor ha sido generado a partir de la clave originaria, sin modificaci&#243;n posterior.
+
+La firma digital se basa en un certificado seguro y permite a una entidad receptora probar la autenticidad del origen y la integridad de los datos recibidos.
+</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

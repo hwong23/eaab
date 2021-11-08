@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>GOL107. Requerimientos No Funcionales</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>GOL107. Requerimientos No Funcionales</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Goal"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Goal" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">El tiempo de inactividad no prevista del SGDEA, no debe superar las 10 horas al trimestre y 40 horas al a&#241;o.
+
+El SGDEA deber&#225; estar disponible las 24 horas del d&#237;a, 7 d&#237;as de la semana, 365 d&#237;as del a&#241;o.
+
+Toda funcionalidad del sistema y transacci&#243;n de negocio realizada en el SGDEA debe responder al usuario en menos de 5 segundos.
+
+El SGDEA debe ser 100% web y su administraci&#243;n y parametrizaci&#243;n debe realizarse desde el navegador. Se deben proveer interfaces de escritorio opcionales.
+
+Cuando se produzca un fallo del software o del hardware, debe resultar posible devolver el sistema a un estado conocido (m&#225;s reciente que la copia de seguridad del d&#237;a anterior) en menos de 02 horas de trabajo con el hardware disponible.
+
+El SGDEA debe ser capaz de realizar una b&#250;squeda sencilla en 3 segundos y una b&#250;squeda compleja (combinando criterios) en m&#225;ximo 5 segundos, con independencia de la capacidad de almacenamietno y el n&#250;mero de documentos en el sistema.
+
+El SGDEA debe ser escalable y no permitir ninguna caracter&#237;stica que impida su uso en organizaci&#243;n de peque&#241;o o gran tama&#241;o, permitiendo aumentar la capacidad del sistema para ofrecer mas servicios a un mayor n&#250;mero de usuarios sin degradar la calidad del servicio.
+
+El SGDEA debe ofrecer soporte para sistemas de almacenamiento tipo NAS, DAS y SAN.
+
+El SGDEA debe permitir la f&#225;cil instalaci&#243;n y despliegue de plugins y desarrollos personalizados.</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

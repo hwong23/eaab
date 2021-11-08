@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>GOL102. Captura e Ingreso de Documentos</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>GOL102. Captura e Ingreso de Documentos</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Goal"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Goal" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">El SGDEA debe permitir la definici&#243;n y parametrizaci&#243;n de formatos de captura y el mantenimiento de los mismos, teniendo en cuenta las necesidades del negocio, los est&#225;ndares, formatos abiertos y formatos recomendados por el AGN.
+
+El SGDEA debe permitir gestionar contenidos como: videos, audio, imagen, entre otros,
+de la misma forma que los documentos eletronicos de texto.
+
+...
+
+Cuando se realiza captura masiva de documentos, el SGDEA debe permitir la administraci&#243;n de las colas de entrada. A trav&#233;s de servicios como:
+&#8226; Ver cola;
+&#8226; Pausar la cola de un documento o de todos;
+&#8226; Reiniciar la cola;
+&#8226; Eliminar la cola.
+
+El SGDEA debe integrarse como m&#237;nimo con una soluci&#243;n de digitalizaci&#243;n y debe permitir:
+&#8226; El escaneo monocrom&#225;tico, a color o en escala de grises
+&#8226; El escaneo de documentos en diferentes resoluciones
+&#8226; Manejar diferentes tama&#241;os de papel est&#225;ndar
+&#8226; Debe reconocer y capturar documentos individuales en un proceso de
+digitalizaci&#243;n masiva
+&#8226; Debe tener la funcionalidad de reconocimiento &#243;ptico de caracteres (OCR) (optical character recognition) e ICR (intelligent character recognition).
+&#8226; Guardar im&#225;genes en formatos est&#225;ndar.
+&#8226; El SGDEA debe incluir tecnologias de reconocimiento de datos, (de acuerdo a las necesidades y las que sean requeridads por la entidad):
+&#8226; (OCR) Reconocimiento &#243;ptico de caracteres
+&#8226; (HCR) Huella de la mano de reconocimiento de caracteres
+&#8226; (ICR) Reconocimiento inteligente de caracteres
+&#8226; (OMR) Reconocimiento &#243;ptico de marcas
+&#8226; Reconocimiento de codigo de barras&#8221;
+
+El SGDEA debe permitir la captura autom&#225;tica de metadatos pertenecientes a mensajes de correo electr&#243;nico y sus archivos adjuntos.
+
+El SGDEA debe permitir al usuario capturar un mensaje de correo electr&#243;nico asign&#225;ndolo dentro de una serie, subserie o expediente.
+
+El SGDEA debe tener la opci&#243;n de capturar en una sola operaci&#243;n, varios correos electr&#243;nicos seleccionados manualmente.</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

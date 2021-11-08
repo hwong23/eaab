@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOL203. Integración de Comunicaciones y Conformación de Expedientes"
+    id="8ceee436-8e09-4b21-a2bc-4e621b413fa6"
+    documentation="(Del diagnóstico consulta de documentos). &#xA;&#xA;El futuro SGDEA, no solo debe integrar las comunicaciones oficiales y el proceso de radicación y entrega de la correspondencia, sino que a partir de toda la documentación que se genere se vayan conformando los expedientes de la Entidad y que todos los documentos al final reposen en el expediente correspondiente.&#xA;&#xA;Nota: tener en cuenta el concepto de expediente que se ha definido en el documento denominado *Guía para la gestión de documentos y expedientes electrónicos del Ministerio de Tecnologías de la Información y las Comunicaciones*, el cual da las pautas del concepto de expediente electrónico y lo que debe contener y los aspectos a tener en cuenta.&#xA;"/>

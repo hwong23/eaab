@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FUNC320. Firmado digital de documento / correo"
+    name="FUNC320. Firma digital de documento / correo"
     id="id-a80fd5f38dcd45d28a9d7e682734d9af"
-    documentation="El SGDEA proveerá (y controlará) alternativas para el firmado y asociará la firma electrónica, digital u otras a un tipo documental.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="El SGDEA proveerá (y controlará) alternativas para el firmado y asociará la firma electrónica, digital u otras a un tipo documental.&#xD;&#xA;&#xD;&#xA;La firma digital se define (Ley 527) como “un valor numérico que se adhiere a un mensaje de datos y que, utilizando un procedimiento matemático conocido vinculado a la clave del iniciador y al texto del mensaje”. Es decir, la firma digital se configura como un valor numérico que se asocia a un mensaje de datos y permite determinar que dicho valor ha sido generado a partir de la clave originaria, sin modificación posterior.&#xA;&#xA;La firma digital se basa en un certificado seguro y permite a una entidad receptora probar la autenticidad del origen y la integridad de los datos recibidos.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC322. Firma electrónica al documento"
+    id="70cf1451-51fe-447a-bf3b-b327ab8a0ceb"
+    documentation="Es el mecanismo técnico cuyo objetivo es identificar a una persona ante un sistema de información, siempre y cuando dicho mecanismo sea confiable y apropiado mediante, por ejemplo, de un nombre y contraseña.&#xA;"/>

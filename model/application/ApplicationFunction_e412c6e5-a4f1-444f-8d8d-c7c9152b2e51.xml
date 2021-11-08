@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNC321. Firma cronológica (estampa de tiempo) al documento"
+    id="e412c6e5-a4f1-444f-8d8d-c7c9152b2e51"
+    documentation="El SGDEA incuirá el estampado cronológico, que consiste de la fecha y hora actual, a un objeto digital (documento, video, audio, etc.), sea que la EAAB lo provea, o por parte de una entidad prestadora de servicios de certificación que asegura la exactitud e integridad de la marca de tiempo del documento.&#xA;"/>

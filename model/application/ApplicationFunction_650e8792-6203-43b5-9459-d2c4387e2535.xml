@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FUNC317.  Opciones de control de acceso"
+    name="FUNC317. Opciones de control de acceso"
     id="650e8792-6203-43b5-9459-d2c4387e2535"
     documentation="* Control de acceso a los tipos documentales por parte de usuarios específicos que manejen los documentos. Sin permisos grupales a toda la dependencia. Sin permisos generales por serie&#xD;&#xA;* Que permita el control de acceso a nivel de tipo documental y no solo de serie y subserie para los casos en que una serie es manejada por diferentes usuarios,,application-function&#xD;&#xA;&#xD;&#xA;Nota: habrá series donde algunos tipos documentales son manejados por ciertos usuarios, y es necesario tener el control de acceso por usuario"/>

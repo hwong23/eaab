@@ -1,5 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GOL204. Digitalización nativa"
+    name="GOL204. Digitalización nativa y (opción) OCR"
     id="id-aac975d873314728881fa989fb102de3"
-    documentation="(Del diagnóstico captura de documentos). &#xA;&#xA;Dados los volúmenes de documentos digitalizados, el nuevo SGDEA debe contemplar un módulo de digitalización nativo dentro de la herramienta para poder controlar el peso, la calidad, la resolución y el nivel de compresión de todas las imágenes que se digitalicen por la entidad.&#xD;&#xA;&#xD;&#xA;Las características de los documentos digitalizados son:&#xD;&#xA;&#xD;&#xA;* Resolución: DPI 300&#xD;&#xA;* Formato: PDF&#xD;&#xA;* Color:  B/N&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="(Del diagnóstico captura de documentos). &#xA;&#xA;Dados los volúmenes de documentos digitalizados, el nuevo SGDEA debe contemplar un módulo de digitalización nativo dentro de la herramienta para poder controlar el peso, la calidad, la resolución y el nivel de compresión de todas las imágenes que se digitalicen por la entidad.&#xD;&#xA;&#xD;&#xA;Las características de los documentos digitalizados son:&#xD;&#xA;&#xD;&#xA;* Resolución: DPI 300&#xD;&#xA;* Formato: PDF&#xD;&#xA;* Color:  B/N&#xD;&#xA;&#xD;&#xA;Adicionalmente a la digitalización, debe ser posible aplicarle reconocimiento óptico de caracteres (OCR) a las imágenes, tanto individual (como masiva) para habilitar en el SGDEA la búsqueda por contenido dentro de los documentos digitalizados.&#xD;&#xA;"/>

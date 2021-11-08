@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GOL200. Seguridad y Controles de Acceso"
     id="da254e01-4bc2-459b-8a1e-e104ac573f3b"
-    documentation="Diagnóstico Tecnológico. Se recomienda que el futuro SGDEA sea una herramienta con opciones robustas de seguridad y controles de acceso que permita controlar a nivel de tipo documental las siguientes acciones sobre los documentos"/>
+    documentation="Los documentos electrónicos deben cumplir con cuatro características fundamentales que pueden garantizarse a través de la firma electrónica o digital: &#xA;&#xA;* Integridad&#xA;* Autenticidad&#xA;* Fiabilidad&#xA;* Disponibilidad. &#xA;&#xA;(Diagnóstico Tecnológico) Se recomienda que el futuro SGDEA sea una herramienta con opciones robustas de seguridad y controles de acceso que permita controlar a nivel de tipo documental las siguientes acciones sobre los documentos.&#xA;"/>

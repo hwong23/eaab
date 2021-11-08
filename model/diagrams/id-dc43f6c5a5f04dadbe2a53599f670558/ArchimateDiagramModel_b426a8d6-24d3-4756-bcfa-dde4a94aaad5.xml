@@ -73,9 +73,9 @@
       id="cd489e0e-a646-4b45-b898-22daf76df6ac"
       targetConnections="2a436dc6-d180-4279-ba1c-cf6711dc1ad6 id-cccfcee0fcf54056b05ebbc5a39e65d6">
     <bounds
-        x="24"
-        y="97"
-        width="120"
+        x="-12"
+        y="96"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Requirement"

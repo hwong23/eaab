@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Producción de Series Documentales"
+    name="Producción Documental por Dependencia"
     id="id-530af8e4d48747c8ac4a2a120a9f5442">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -28,7 +28,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -81,7 +81,7 @@
       <bounds
           x="24"
           y="48"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -92,9 +92,9 @@
         id="id-e104fb1215d24b6d8411d5f488207835"
         targetConnections="id-e34f50b211934274a3e98967cf6eb8e9">
       <bounds
-          x="156"
+          x="181"
           y="48"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -105,9 +105,9 @@
         id="id-fde95a4de9b644a29ad94430e265e01f"
         targetConnections="id-936a91a38bc44549ba0b5dbae772e35d">
       <bounds
-          x="288"
+          x="336"
           y="48"
-          width="120"
+          width="144"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQR33. Configurar y consultar por serie, subserie y tipo documental"
+    id="id-9737531d5f3d4cbc8cd0f436235f0335"
+    documentation="El futuro SGDEA debe permitir configurar las opciones de consulta por serie, subserie y tipo documental y habilitar consultas y búsquedas de los documentos por todos los metadatos definidos. *Es muy importante considerar este que el SGDEA de mercado que se vaya a recomendar* cuente con estos criterios de consulta, debido a que muchos presentan limitaciones en esta consulta y no permiten las búsquedas por todos los criterios aún si hacen parte de los metadatos de los documentos.&#xD;&#xA;&#xD;&#xA;Es importante que:&#xD;&#xA;* Para los campos de fechas se permitan opciones de consulta por rangos de fechas&#xD;&#xA;* Para los campos numéricos por rangos de valores&#xD;&#xA;* Para los campos tipo cadena que se permita consultar por palabras contenidas en los metadatos; que permita el uso de comodines para hacer las consultas más flexibles&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="ModeloRequisitoEAAB"
+      value="1.6.17"/>
+</archimate:Requirement>

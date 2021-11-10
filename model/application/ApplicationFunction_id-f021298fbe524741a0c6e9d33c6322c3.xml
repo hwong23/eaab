@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FUNC505. Cifrado de documento electrónico"
-    id="id-f021298fbe524741a0c6e9d33c6322c3"/>
+    id="id-f021298fbe524741a0c6e9d33c6322c3"
+    documentation="El futuro sistema de gestión documental SGDEA debe contar con la funcionalidad de cifrado de los archivos almacenados que resulte en la seguridad de los documentos. Así mismo, este mecanismo refuerza la privacidad y la seguridad de los documentos y la información.&#xA;"/>

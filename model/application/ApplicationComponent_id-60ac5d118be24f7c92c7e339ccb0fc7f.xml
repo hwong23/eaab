@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AR. GG.HH. Empresa (copy)"
+    name="AR. Supervisión y Control Empresa"
     id="id-60ac5d118be24f7c92c7e339ccb0fc7f"
     documentation="Este componente podría ser implementado por diferentes medios como, por ejemplo: un Bus de servicios (ESB Enterprise Service Bus), o un API.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Dentro de este componente se recomiendan implementar las siguientes necesidades:&#xD;&#xA;- Transformación de servicios web. &#xD;&#xA;- Orquestación de servicios&#xD;&#xA;- Seguridad. La Plataforma de interoperabilidad – PDI que se soporta con la herramienta X-ROAD garantizan la seguridad en el intercambio de información para los servicios que se exponen a otras entidades públicas o privadas, sin embargo, cuando se realizan servicios de intercambio de información (especialmente para uso interno) es recomendableincluir como buena práctica una capa de seguridad a cada uno de los servicios expuestos por la entidad. &#xD;&#xA;- Auditoría&#xD;&#xA;&#xD;&#xA;El contar con esta capa, se garantizan los siguientes requerimientos no funcionales:&#xD;&#xA;- Mantenibilidad&#xD;&#xA;- Bajo acoplamiento&#xD;&#xA;- Alta cohesión&#xD;&#xA;- Seguridad&#xD;&#xA;- Escalabilidad&#xD;&#xA;&#xD;&#xA;"/>

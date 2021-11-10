@@ -1,5 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración Interna SGDEA - EAAB"
+    name="Integración Otras Plataformas EAAB"
     id="id-ce2808751afb44beb4f0ee3245c7455f"
     documentation="El SGDEA requiere transferencia de datos y Entidades a través de protocolos, como SOA, con el fin de facilitar la interoperabilidad.&#xD;&#xA;&#xD;&#xA;El servicio de intercambio de información del SGDEA de EAAB es un mecanismo para evitar que se le solicite a otros sistemas información documental con la que este ya cuenta. Este servicio de intercambio es realmente un medio de transmición electrónica para el intercambio de información que no genera costo alguno para la EAAB y demás sistemas que solicitan información. documental. &#xD;&#xA;&#xD;&#xA;La integración permite la transferencia de Entidades con varios fines como:&#xD;&#xA;&#xD;&#xA;* La migración a otro SGDEA u otro sistema de información&#xD;&#xA;* La generación de copias de respaldo&#xD;&#xA;* Las transferencias documentales primarias y secundarias (sentido archivístico)&#xD;&#xA;"/>

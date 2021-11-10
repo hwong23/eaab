@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura de Referencia SGDEA. General"
+    name="Arquitectura de Referencia SGDEA. Alternativa 1"
     id="id-bba3874dc6a648858f42de13d96e93a3"
     documentation="El modelo conceptual trata los aspectos teóricos que fundamentan el enfoque definido para el SGDEA y su funcionamiento. Esto es: servicios, metadatos, entidades y relaciones entre ellas Incluye el comportamiento esperado del sistema. Estos conceptos preceden al modelo de arquitectura del SGDEA. &#xD;&#xA;&#xD;&#xA;Contiene diagrama de bloques de los componentes del sistema y su relación con los procesos de la gestión documental.&#xD;&#xA;">
   <children
@@ -582,6 +582,15 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-96ec3c36f2984c7ea390beb7f58b85bc"
         targetConnections="id-5cb33666a5ab4d82baa14b3458400932">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="fc0bf26e-7066-4ec3-a0b7-e1291a323709"
+          source="id-96ec3c36f2984c7ea390beb7f58b85bc"
+          target="id-da5783f192a74e0aa904ade751b999f1">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_4229a99b-e0d7-4112-9c17-b52d3dc66deb.xml#4229a99b-e0d7-4112-9c17-b52d3dc66deb"/>
+      </sourceConnections>
       <bounds
           x="36"
           y="36"
@@ -597,7 +606,7 @@
         targetConnections="id-61a5e28123024c119db2153cb624e739">
       <bounds
           x="36"
-          y="96"
+          y="300"
           width="120"
           height="55"/>
       <archimateElement
@@ -607,10 +616,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-da5783f192a74e0aa904ade751b999f1"
-        targetConnections="id-80963f0cec7646ec828cdbb4ba8032b1">
+        targetConnections="id-80963f0cec7646ec828cdbb4ba8032b1 fc0bf26e-7066-4ec3-a0b7-e1291a323709">
       <bounds
           x="36"
-          y="156"
+          y="120"
           width="120"
           height="55"/>
       <archimateElement
@@ -623,7 +632,7 @@
         targetConnections="id-53c9483e55e147bc8ca543da9c56a68f">
       <bounds
           x="36"
-          y="216"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -636,7 +645,7 @@
         targetConnections="id-ce7e92cfd0d246e185b7319172ca48a4">
       <bounds
           x="36"
-          y="276"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement

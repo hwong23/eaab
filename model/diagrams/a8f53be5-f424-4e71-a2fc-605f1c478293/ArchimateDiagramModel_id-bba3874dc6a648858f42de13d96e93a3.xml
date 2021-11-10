@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura de Referencia SGDEA. Alternativa 1"
+    name="Arquitectura de Referencia SGDEA"
     id="id-bba3874dc6a648858f42de13d96e93a3"
     documentation="El modelo conceptual trata los aspectos teóricos que fundamentan el enfoque definido para el SGDEA y su funcionamiento. Esto es: servicios, metadatos, entidades y relaciones entre ellas Incluye el comportamiento esperado del sistema. Estos conceptos preceden al modelo de arquitectura del SGDEA. &#xD;&#xA;&#xD;&#xA;Contiene diagrama de bloques de los componentes del sistema y su relación con los procesos de la gestión documental.&#xD;&#xA;">
   <children

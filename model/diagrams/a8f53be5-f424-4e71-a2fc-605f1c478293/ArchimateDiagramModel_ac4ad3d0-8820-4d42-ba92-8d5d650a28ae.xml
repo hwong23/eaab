@@ -56,9 +56,9 @@
           href="ServingRelationship_id-1d78553a3ca143268cf99587181e51ba.xml#id-1d78553a3ca143268cf99587181e51ba"/>
     </sourceConnections>
     <bounds
-        x="386"
+        x="348"
         y="900"
-        width="666"
+        width="744"
         height="108"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -74,7 +74,7 @@
             href="ServingRelationship_id-932299a6ddac4dbd98a1c9aefae079d9.xml#id-932299a6ddac4dbd98a1c9aefae079d9"/>
       </sourceConnections>
       <bounds
-          x="30"
+          x="68"
           y="30"
           width="133"
           height="55"/>
@@ -87,7 +87,7 @@
         id="id-039f029c80e24de5be0a697a55318192"
         targetConnections="id-4e724309702c42aea0649a44d840d81b">
       <bounds
-          x="180"
+          x="218"
           y="30"
           width="133"
           height="55"/>
@@ -109,7 +109,7 @@
             href="ServingRelationship_id-4f1cf086f40f425681dd9479b420de47.xml#id-4f1cf086f40f425681dd9479b420de47"/>
       </sourceConnections>
       <bounds
-          x="332"
+          x="370"
           y="30"
           width="133"
           height="55"/>
@@ -122,7 +122,7 @@
         id="id-431da8c79499479b9ac9024254ba99bd"
         targetConnections="id-95aacd9134234d3c8915fb6b017613ca">
       <bounds
-          x="480"
+          x="518"
           y="30"
           width="133"
           height="55"/>
@@ -1118,11 +1118,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="3ac2bed9-b3b4-4908-a4c0-33b2c2ee2c61"
       textAlignment="1"
-      content="Arquitectura de Referencia SGDEA de EAAB&#xD;&#xA;&#xD;&#xA;Procesos de negocio, documentales, tecnologías y componentes de realización de los servicios del SGDEA&#xD;&#xA;&#xD;&#xA;versión 0.1.4&#xD;&#xA;">
+      content="Arquitectura de Referencia SGDEA de EAAB&#xD;&#xA;&#xD;&#xA;Procesos de negocio, procesos documentales, servicios principales y utilitarios del SGDEA, componentes de realización.&#xD;&#xA;&#xD;&#xA;versión 0.1.5&#xD;&#xA;">
     <bounds
         x="24"
-        width="233"
-        height="103"/>
+        y="-12"
+        width="253"
+        height="115"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1908,16 +1909,16 @@
           href="CompositionRelationship_id-40a558cb42f34a49913ead1a7da5d4a3.xml#id-40a558cb42f34a49913ead1a7da5d4a3"/>
     </sourceConnections>
     <bounds
-        x="311"
+        x="588"
         y="1056"
-        width="1105"
+        width="829"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5a490c6e66a0477b8918eb5d5451a9b3"
         targetConnections="id-945838d477fa4a3eb621648150240619">
       <bounds
-          x="24"
+          x="23"
           y="36"
           width="120"
           height="55"/>
@@ -1930,7 +1931,7 @@
         id="id-b96cb0ca3a70480bb1f85ac9c785b54d"
         targetConnections="id-c4c905cbd33a49ff8c83798fcc8ba42c">
       <bounds
-          x="156"
+          x="155"
           y="36"
           width="120"
           height="55"/>
@@ -1943,7 +1944,7 @@
         id="id-76bcd28163364ad58cff82c98f8712b1"
         targetConnections="id-113c29fdea9d4a0290ba0292d148e920">
       <bounds
-          x="288"
+          x="287"
           y="36"
           width="120"
           height="55"/>
@@ -1956,7 +1957,7 @@
         id="id-d9ea892531f84b1e83c627240f395bf7"
         targetConnections="id-5f8f9376390f4ab48fb8b3eedb0f0d35">
       <bounds
-          x="420"
+          x="419"
           y="36"
           width="120"
           height="55"/>
@@ -1969,7 +1970,7 @@
         id="id-53b65142325b426d96153553ddab675f"
         targetConnections="id-7a873922b5f2461a8f16fc7a7f62fab6">
       <bounds
-          x="552"
+          x="551"
           y="36"
           width="132"
           height="55"/>
@@ -1982,7 +1983,7 @@
         id="id-b63450df60a24d7e9d662df041546a62"
         targetConnections="id-61ee90b99b2f49448268846dc6481412">
       <bounds
-          x="696"
+          x="695"
           y="36"
           width="120"
           height="55"/>

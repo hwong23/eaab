@@ -7,9 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7c4ed9e7a7314d68880e455848c06848">
     <bounds
-        x="58"
-        y="114"
-        width="120"
+        x="214"
+        y="24"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Gap"
@@ -19,12 +19,83 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02150758533540cbb5e314072be3dfb3">
     <bounds
-        x="192"
-        y="114"
-        width="120"
+        x="372"
+        y="24"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-1099c94738bb4307be9d7ed2af5514b1.xml#id-1099c94738bb4307be9d7ed2af5514b1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6b9c4e9c6b2b40fabd94cbad27d67ebd">
+    <bounds
+        x="214"
+        y="90"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-56571d7c3ed441d9b22a4870c4a1f9ef.xml#id-56571d7c3ed441d9b22a4870c4a1f9ef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c25159abf3224a42a1c01aa471bac4e2">
+    <bounds
+        x="372"
+        y="90"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-ceff681b2d1048d38735c63b17ac1b32.xml#id-ceff681b2d1048d38735c63b17ac1b32"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49b34e914f394726800bb0294e842287">
+    <bounds
+        x="214"
+        y="162"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-34843064df6947c9b0289cee85725a53.xml#id-34843064df6947c9b0289cee85725a53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-76f8a52d295c4c44ad1039a7343e3521">
+    <bounds
+        x="372"
+        y="162"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-5a67580cb32a47f394414ce8e73e59e2.xml#id-5a67580cb32a47f394414ce8e73e59e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2065144b16cd48d7a764125c950d7e3c">
+    <bounds
+        x="214"
+        y="234"
+        width="145"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-7f0e78c58477426986caf6c2c646c545.xml#id-7f0e78c58477426986caf6c2c646c545"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fe115875c68e405a8da294d0794abb1c"
+      textAlignment="1"
+      content="Problemas Documentales y archivísticos diagnosticados EAAB&#xD;&#xA;&#xD;&#xA;v0.1">
+    <bounds
+        x="8"
+        y="24"
+        width="185"
+        height="97"/>
   </children>
 </archimate:ArchimateDiagramModel>

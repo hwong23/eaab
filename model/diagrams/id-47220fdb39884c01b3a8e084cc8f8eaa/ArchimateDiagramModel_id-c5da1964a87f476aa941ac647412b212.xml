@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Brechas Archivísticas"
-    id="id-c5da1964a87f476aa941ac647412b212">
+    id="id-c5da1964a87f476aa941ac647412b212"
+    documentation="El Diagnóstivo archivísticos* realizado a la EAAB identificó las debilidades en las capacidades documentales. Estas debilidades, que se expresan en brechas archivísticas, son problemas administrativos, documentales y archivísticos que deben ser relacionados con el diseño del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Las brechas archivísticas dan a conocer la situación actual de los archivos de la EAAB-ESP y dan información útil para tomar decisiones de diseño de la gestión del archivo del futuro Sistema de Gestión Documental Electrónica y Archivo SGDEA.&#xD;&#xA;&#xD;&#xA;* INFORME GLOBAL COMPONENTE ADMINISTRATIVO, ARCHIVÍSTICO Y DE CONSERVACIÓN">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7c4ed9e7a7314d68880e455848c06848">
@@ -31,8 +32,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b9c4e9c6b2b40fabd94cbad27d67ebd">
     <bounds
-        x="214"
-        y="90"
+        x="528"
+        y="24"
         width="145"
         height="55"/>
     <archimateElement
@@ -43,8 +44,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c25159abf3224a42a1c01aa471bac4e2">
     <bounds
-        x="372"
-        y="90"
+        x="214"
+        y="84"
         width="145"
         height="55"/>
     <archimateElement
@@ -55,8 +56,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49b34e914f394726800bb0294e842287">
     <bounds
-        x="214"
-        y="162"
+        x="370"
+        y="84"
         width="145"
         height="55"/>
     <archimateElement
@@ -67,8 +68,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-76f8a52d295c4c44ad1039a7343e3521">
     <bounds
-        x="372"
-        y="162"
+        x="526"
+        y="84"
         width="145"
         height="55"/>
     <archimateElement
@@ -80,7 +81,7 @@
       id="id-2065144b16cd48d7a764125c950d7e3c">
     <bounds
         x="214"
-        y="234"
+        y="144"
         width="145"
         height="55"/>
     <archimateElement

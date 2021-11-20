@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brechas Archivísticas"
+    id="id-c5da1964a87f476aa941ac647412b212">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7c4ed9e7a7314d68880e455848c06848">
+    <bounds
+        x="58"
+        y="114"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-546681b0f1fe42da809704cb1fa47623.xml#id-546681b0f1fe42da809704cb1fa47623"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-02150758533540cbb5e314072be3dfb3">
+    <bounds
+        x="192"
+        y="114"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_id-1099c94738bb4307be9d7ed2af5514b1.xml#id-1099c94738bb4307be9d7ed2af5514b1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

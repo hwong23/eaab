@@ -6,9 +6,10 @@
     documentation="El Diagnóstivo archivísticos* realizado a la EAAB identificó las debilidades en las capacidades documentales. Estas debilidades, que se expresan en brechas archivísticas, son problemas administrativos, documentales y archivísticos que deben ser relacionados con el diseño del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Las brechas archivísticas dan a conocer la situación actual de los archivos de la EAAB-ESP y dan información útil para tomar decisiones de diseño de la gestión del archivo del futuro Sistema de Gestión Documental Electrónica y Archivo SGDEA.&#xD;&#xA;&#xD;&#xA;* INFORME GLOBAL COMPONENTE ADMINISTRATIVO, ARCHIVÍSTICO Y DE CONSERVACIÓN">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7c4ed9e7a7314d68880e455848c06848">
+      id="id-7c4ed9e7a7314d68880e455848c06848"
+      fillColor="#996633">
     <bounds
-        x="8"
+        x="344"
         y="168"
         width="157"
         height="55"/>
@@ -18,9 +19,10 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-02150758533540cbb5e314072be3dfb3">
+      id="id-02150758533540cbb5e314072be3dfb3"
+      fillColor="#e61a0d">
     <bounds
-        x="178"
+        x="8"
         y="168"
         width="157"
         height="55"/>
@@ -30,10 +32,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6b9c4e9c6b2b40fabd94cbad27d67ebd">
+      id="id-6b9c4e9c6b2b40fabd94cbad27d67ebd"
+      fillColor="#00ff80">
     <bounds
-        x="346"
-        y="168"
+        x="176"
+        y="288"
         width="157"
         height="55"/>
     <archimateElement
@@ -42,7 +45,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c25159abf3224a42a1c01aa471bac4e2">
+      id="id-c25159abf3224a42a1c01aa471bac4e2"
+      fillColor="#00ff80">
     <bounds
         x="8"
         y="228"
@@ -54,7 +58,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-49b34e914f394726800bb0294e842287">
+      id="id-49b34e914f394726800bb0294e842287"
+      fillColor="#00ff80">
     <bounds
         x="176"
         y="228"
@@ -66,7 +71,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-76f8a52d295c4c44ad1039a7343e3521">
+      id="id-76f8a52d295c4c44ad1039a7343e3521"
+      fillColor="#00ff80">
     <bounds
         x="344"
         y="228"
@@ -78,7 +84,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2065144b16cd48d7a764125c950d7e3c">
+      id="id-2065144b16cd48d7a764125c950d7e3c"
+      fillColor="#00ff80">
     <bounds
         x="8"
         y="288"
@@ -92,7 +99,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-fe115875c68e405a8da294d0794abb1c"
       textAlignment="1"
-      content="Problemas Documentales y archivísticos diagnosticados EAAB&#xD;&#xA;&#xD;&#xA;Brechas administrativas y  archivísticas prioritarias.&#xD;&#xA;&#xD;&#xA;v0.2">
+      content="Problemas Documentales y archivísticos diagnosticados EAAB&#xD;&#xA;&#xD;&#xA;Brechas administrativas y  archivísticas prioritarias. Puntaje.&#xD;&#xA;&#xD;&#xA;v0.3">
     <bounds
         x="8"
         y="24"
@@ -101,10 +108,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5db2e38c0f064fbaafefea6331e6662d">
+      id="id-5db2e38c0f064fbaafefea6331e6662d"
+      fillColor="#bf4020">
     <bounds
-        x="178"
-        y="288"
+        x="176"
+        y="168"
         width="157"
         height="55"/>
     <archimateElement
@@ -113,7 +121,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-22123f42cf5d4e53ad2a23a67504a915">
+      id="id-22123f42cf5d4e53ad2a23a67504a915"
+      fillColor="#00ff80">
     <bounds
         x="344"
         y="288"

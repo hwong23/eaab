@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BRE7. No se elaboran inventarios documentales para la totalidad de los expedientes"
     id="id-7f0e78c58477426986caf6c2c646c545"
-    documentation="1530001 - OFICINA ASESORA DE REPRESENTACIÓN JUDICIAL Y ACTUACIÓN ADMINISTRATIVA&#xD;&#xA;2510001 - GERENCIA CORPORATIVA SISTEMA MAESTRO&#xD;&#xA;"/>
+    documentation="1530001 - OFICINA ASESORA DE REPRESENTACIÓN JUDICIAL Y ACTUACIÓN ADMINISTRATIVA&#xD;&#xA;2510001 - GERENCIA CORPORATIVA SISTEMA MAESTRO&#xD;&#xA;">
+  <properties
+      key="Impacto"
+      value="100"/>
+</archimate:Gap>

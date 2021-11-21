@@ -1,5 +1,9 @@
 <archimate:Gap
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BRE9. Control de correspondencia interna y externa"
+    name="BRE9. Control de correspondencia y comunicaciones interna y externa"
     id="id-67d4b942f64446e3ad359f7e82755a99"
-    documentation="En la aplicación de los controles de la correspondencia tenemos que el 5% emplea planillas, el 32% una herramienta tecnológica de las mencionadas anteriormente, el 45% hace uso de bases de datos en excel y el porcentaje restante de dependencias no emplea ningún control.&#xD;&#xA;&#xD;&#xA;De aquí se desprende una gestión inconsistente de los controles, que sumada a una administración insular del proceso de correspondencia, genera riesgo de pérdida de información, o confusión o que no lleguen a ser parte de los expedientes a los cuales pertenecen.&#xD;&#xA;"/>
+    documentation="En la aplicación de los controles de la correspondencia tenemos que el 5% emplea planillas, el 32% una herramienta tecnológica de las mencionadas anteriormente, el 45% hace uso de bases de datos en excel y el porcentaje restante de dependencias no emplea ningún control.&#xD;&#xA;&#xD;&#xA;De aquí se desprende una gestión inconsistente de los controles, que sumada a una administración insular del proceso de correspondencia, genera riesgo de pérdida de información, o confusión o que no lleguen a ser parte de los expedientes a los cuales pertenecen.&#xD;&#xA;&#xD;&#xA;Pese a existir reglamentación interna sobre el manejo de la correspondencia como también los procedimientos que detalla el flujo documental de las comunicaciones externas e internas, hay dependencias que no están ligadas al mismo entorno y no emplean las mismas aplicaciones. Hace falto, por tanto, que exista una articulación desde lo tecnológico y procedimental para garantizar que todas las comunicaciones internas y externas están gestionadas de forma unificada y centralizada.&#xD;&#xA;">
+  <properties
+      key="Impacto"
+      value="100"/>
+</archimate:Gap>

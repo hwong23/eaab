@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Brechas Archivísticas"
     id="id-c5da1964a87f476aa941ac647412b212"
-    documentation="El Diagnóstivo archivísticos* realizado a la EAAB identificó las debilidades en las capacidades documentales. Estas debilidades, que se expresan en brechas archivísticas, son problemas administrativos, documentales y archivísticos que deben ser relacionados con el diseño del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Las brechas archivísticas dan a conocer la situación actual de los archivos de la EAAB-ESP y dan información útil para tomar decisiones de diseño de la gestión del archivo del futuro Sistema de Gestión Documental Electrónica y Archivo SGDEA.&#xD;&#xA;&#xD;&#xA;* INFORME GLOBAL COMPONENTE ADMINISTRATIVO, ARCHIVÍSTICO Y DE CONSERVACIÓN">
+    documentation="El Diagnóstivo archivísticos* realizado a la EAAB identificó las debilidades en las capacidades documentales de la entidad. Estas debilidades, que se expresan en brechas archivísticas, traen problemas administrativos, documentales y archivísticos que deben ser relacionados con el diseño del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Las brechas archivísticas dan a conocer la situación actual de los archivos de la EAAB-ESP y dan información útil para tomar decisiones de diseño de la gestión del archivo del futuro Sistema de Gestión Documental Electrónica y Archivo SGDEA.&#xD;&#xA;&#xD;&#xA;El resultado de las brechas archivísticas de la EAAB hace necesario el seguimiento de los procesos de organización de expedientes que estén desarrollado de acuerdo con los criterios archivísticos, y que:&#xD;&#xA;* posean una hoja de control en la cual se pueda relacionar los medios análogos&#xD;&#xA;* que tengan los instrumentos descriptivos necesarios para asegurar su trazabilidad&#xD;&#xA;* que garantice el vínculo archivístico con el expediente al cual pertenece&#xD;&#xA;&#xD;&#xA;(*) INFORME GLOBAL COMPONENTE ADMINISTRATIVO, ARCHIVÍSTICO Y DE CONSERVACIÓN">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7c4ed9e7a7314d68880e455848c06848"
@@ -36,7 +36,7 @@
       fillColor="#00ff80">
     <bounds
         x="176"
-        y="288"
+        y="300"
         width="157"
         height="55"/>
     <archimateElement
@@ -48,8 +48,8 @@
       id="id-c25159abf3224a42a1c01aa471bac4e2"
       fillColor="#00ff80">
     <bounds
-        x="8"
-        y="228"
+        x="344"
+        y="234"
         width="157"
         height="55"/>
     <archimateElement
@@ -59,10 +59,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49b34e914f394726800bb0294e842287"
-      fillColor="#00ff80">
+      fillColor="#e61a0d">
     <bounds
-        x="176"
-        y="228"
+        x="8"
+        y="234"
         width="157"
         height="55"/>
     <archimateElement
@@ -72,10 +72,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-76f8a52d295c4c44ad1039a7343e3521"
-      fillColor="#00ff80">
+      fillColor="#bf4020">
     <bounds
-        x="344"
-        y="228"
+        x="176"
+        y="234"
         width="157"
         height="55"/>
     <archimateElement
@@ -88,7 +88,7 @@
       fillColor="#00ff80">
     <bounds
         x="8"
-        y="288"
+        y="300"
         width="157"
         height="55"/>
     <archimateElement
@@ -125,7 +125,7 @@
       fillColor="#00ff80">
     <bounds
         x="344"
-        y="288"
+        y="300"
         width="157"
         height="55"/>
     <archimateElement

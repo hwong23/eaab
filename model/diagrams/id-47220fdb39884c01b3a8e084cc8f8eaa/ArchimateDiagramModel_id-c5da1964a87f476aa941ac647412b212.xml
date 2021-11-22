@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Brechas Archivísticas"
+    name="Brechas Archivísticas: administrativas, documentales"
     id="id-c5da1964a87f476aa941ac647412b212"
     documentation="El Diagnóstivo archivísticos* realizado a la EAAB identificó las debilidades en las capacidades documentales de la entidad. Estas debilidades, que se expresan en brechas archivísticas, traen problemas administrativos, documentales y archivísticos que deben ser relacionados con el diseño del SGDEA de EAAB.&#xD;&#xA;&#xD;&#xA;Las brechas archivísticas dan a conocer la situación actual de los archivos de la EAAB-ESP y dan información útil para tomar decisiones de diseño de la gestión del archivo del futuro Sistema de Gestión Documental Electrónica y Archivo SGDEA.&#xD;&#xA;&#xD;&#xA;El resultado de las brechas archivísticas de la EAAB hace necesario el seguimiento de los procesos de organización de expedientes que estén desarrollado de acuerdo con los criterios archivísticos, y que:&#xD;&#xA;* posean una hoja de control en la cual se pueda relacionar los medios análogos&#xD;&#xA;* que tengan los instrumentos descriptivos necesarios para asegurar su trazabilidad&#xD;&#xA;* que garantice el vínculo archivístico con el expediente al cual pertenece&#xD;&#xA;&#xD;&#xA;(*) INFORME GLOBAL COMPONENTE ADMINISTRATIVO, ARCHIVÍSTICO Y DE CONSERVACIÓN">
   <children
@@ -9,10 +9,10 @@
       id="id-7c4ed9e7a7314d68880e455848c06848"
       fillColor="#996633">
     <bounds
-        x="344"
+        x="396"
         y="168"
-        width="157"
-        height="55"/>
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-546681b0f1fe42da809704cb1fa47623.xml#id-546681b0f1fe42da809704cb1fa47623"/>
@@ -24,8 +24,8 @@
     <bounds
         x="8"
         y="168"
-        width="157"
-        height="55"/>
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-1099c94738bb4307be9d7ed2af5514b1.xml#id-1099c94738bb4307be9d7ed2af5514b1"/>
@@ -35,10 +35,10 @@
       id="id-6b9c4e9c6b2b40fabd94cbad27d67ebd"
       fillColor="#00ff80">
     <bounds
-        x="176"
-        y="300"
-        width="157"
-        height="55"/>
+        x="204"
+        y="336"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-56571d7c3ed441d9b22a4870c4a1f9ef.xml#id-56571d7c3ed441d9b22a4870c4a1f9ef"/>
@@ -48,10 +48,10 @@
       id="id-c25159abf3224a42a1c01aa471bac4e2"
       fillColor="#00ff80">
     <bounds
-        x="344"
-        y="234"
-        width="157"
-        height="55"/>
+        x="396"
+        y="252"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-ceff681b2d1048d38735c63b17ac1b32.xml#id-ceff681b2d1048d38735c63b17ac1b32"/>
@@ -62,9 +62,9 @@
       fillColor="#e61a0d">
     <bounds
         x="8"
-        y="234"
-        width="157"
-        height="55"/>
+        y="252"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-34843064df6947c9b0289cee85725a53.xml#id-34843064df6947c9b0289cee85725a53"/>
@@ -74,10 +74,10 @@
       id="id-76f8a52d295c4c44ad1039a7343e3521"
       fillColor="#bf4020">
     <bounds
-        x="176"
-        y="234"
-        width="157"
-        height="55"/>
+        x="204"
+        y="252"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-5a67580cb32a47f394414ce8e73e59e2.xml#id-5a67580cb32a47f394414ce8e73e59e2"/>
@@ -88,9 +88,9 @@
       fillColor="#00ff80">
     <bounds
         x="8"
-        y="300"
-        width="157"
-        height="55"/>
+        y="336"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-7f0e78c58477426986caf6c2c646c545.xml#id-7f0e78c58477426986caf6c2c646c545"/>
@@ -111,10 +111,10 @@
       id="id-5db2e38c0f064fbaafefea6331e6662d"
       fillColor="#bf4020">
     <bounds
-        x="176"
+        x="204"
         y="168"
-        width="157"
-        height="55"/>
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-a8013bc1e9d34019bae3b43ab7aac2fd.xml#id-a8013bc1e9d34019bae3b43ab7aac2fd"/>
@@ -124,10 +124,10 @@
       id="id-22123f42cf5d4e53ad2a23a67504a915"
       fillColor="#00ff80">
     <bounds
-        x="344"
-        y="300"
-        width="157"
-        height="55"/>
+        x="396"
+        y="336"
+        width="185"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Gap"
         href="Gap_id-67d4b942f64446e3ad359f7e82755a99.xml#id-67d4b942f64446e3ad359f7e82755a99"/>

@@ -43,7 +43,7 @@
         id="33a6d55c-36d1-47ee-bb19-621d621614ce"
         targetConnections="137aa196-fe72-44ac-8919-cbc3d8fea6a4">
       <bounds
-          x="12"
+          x="24"
           y="48"
           width="120"
           height="55"/>
@@ -56,7 +56,7 @@
         id="75aa2972-ceed-40b3-b078-0e85ef761be5"
         targetConnections="47e9940c-6864-494a-a4e9-0db601040bee">
       <bounds
-          x="12"
+          x="24"
           y="108"
           width="120"
           height="55"/>

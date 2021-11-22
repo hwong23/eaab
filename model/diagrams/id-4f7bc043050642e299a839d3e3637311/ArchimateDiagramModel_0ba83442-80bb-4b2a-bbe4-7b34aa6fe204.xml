@@ -43,8 +43,8 @@
           href="CompositionRelationship_id-bff38263c68b4923bb5f5b4d928d59e5.xml#id-bff38263c68b4923bb5f5b4d928d59e5"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="324"
+        x="12"
+        y="384"
         width="444"
         height="193"/>
     <children
@@ -134,8 +134,8 @@
           href="CompositionRelationship_532dc19b-0836-4cf7-b43d-0211b7c1295e.xml#532dc19b-0836-4cf7-b43d-0211b7c1295e"/>
     </sourceConnections>
     <bounds
-        x="84"
-        y="132"
+        x="12"
+        y="192"
         width="444"
         height="181"/>
     <children
@@ -185,8 +185,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="020267c3-bae1-4f66-9a97-16ad0efc0f61">
     <bounds
-        x="84"
-        y="60"
+        x="12"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -197,8 +197,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6a8be383-69cf-461c-b863-f085bd47d06d">
     <bounds
-        x="252"
-        y="60"
+        x="180"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -210,8 +210,8 @@
       id="93a92668-5407-47ef-9901-b266cfbf78a7"
       targetConnections="c73861fa-570f-446e-92c8-b82e27ab8867">
     <bounds
-        x="408"
-        y="60"
+        x="336"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -259,8 +259,8 @@
           href="CompositionRelationship_ddafd863-224a-4f3f-adc0-401f88195c06.xml#ddafd863-224a-4f3f-adc0-401f88195c06"/>
     </sourceConnections>
     <bounds
-        x="624"
-        y="60"
+        x="552"
+        y="120"
         width="444"
         height="140"/>
     <children
@@ -305,5 +305,76 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_2147e6db-5099-432e-bf09-0b9df311f940.xml#2147e6db-5099-432e-bf09-0b9df311f940"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c73d84a0bbbc455e84a5ef7806074f9c">
+    <bounds
+        x="552"
+        y="276"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-224e2378883240e888aad9678dc8440a.xml#id-224e2378883240e888aad9678dc8440a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8c10e756064b4966a39a0faaf4fe2473">
+    <bounds
+        x="552"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-47d02856d82b4cc28b5a20414fadba3c.xml#id-47d02856d82b4cc28b5a20414fadba3c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0220848ccbc6444bb4266495ca927fe3">
+    <bounds
+        x="552"
+        y="396"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-fafe52f21aeb4215807939e800977d18.xml#id-fafe52f21aeb4215807939e800977d18"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-604a0ec7aebb427189e3bd4c0eda6aca">
+    <bounds
+        x="552"
+        y="453"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-e0719dd6593a40a8ba8dfc3e1b115fa3.xml#id-e0719dd6593a40a8ba8dfc3e1b115fa3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-91e02957e82d45c09563f9e6dd7a38de">
+    <bounds
+        x="552"
+        y="513"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-2e6dac0f954c4e3e9757053d6decdf0e.xml#id-2e6dac0f954c4e3e9757053d6decdf0e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3b46699a190f4206b76151687a5f1e87"
+      textAlignment="1"
+      content="Sistemas de Información, Aplicaciones de EAAB relacionadas con la función archivística&#xD;&#xA;&#xD;&#xA;v0.2">
+    <bounds
+        x="15"
+        y="5"
+        width="202"
+        height="92"/>
   </children>
 </archimate:ArchimateDiagramModel>

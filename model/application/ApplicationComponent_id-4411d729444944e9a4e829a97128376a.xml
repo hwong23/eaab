@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP16.FICHAS DE PERSONAL"
-    id="id-4411d729444944e9a4e829a97128376a"/>
+    id="id-4411d729444944e9a4e829a97128376a"
+    documentation="Registro de fichas de personal de Acueducto, contiene históricos de pensionados.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP44.SGO"
+    id="id-bdea6945f06c4c2ea4d3de7cdcf464d1"
+    documentation="Sistema de gestión operativa, aplicación por medio de la que se realiza el seguimiento y control al trabajo diario de los operarios y cuadrillas de las zonas 1,2,3,4,5. &#xD;&#xA;&#xD;&#xA;Es decir, Soporta la gestión de órdenes de Acueducto y Alcantarillado que se generan desde SAP y que deben ser atendidas por los diferentes equipos de la zona."/>

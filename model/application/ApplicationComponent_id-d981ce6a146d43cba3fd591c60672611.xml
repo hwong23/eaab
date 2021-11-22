@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP4.ERP SAP ECC 6.0"
-    id="id-d981ce6a146d43cba3fd591c60672611"/>
+    id="id-d981ce6a146d43cba3fd591c60672611"
+    documentation="Es un sistema integrado e interactivo que permite controlar la mayor parte de los procesos que se llevan a cabo en la empresa, con 35 módulos funcionales.&#xD;&#xA;"/>

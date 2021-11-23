@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aplicaciones EAAB: misionales y estratégicos"
-    id="id-ba5e6a0f97174db9b1c85f64a290169d">
+    id="id-ba5e6a0f97174db9b1c85f64a290169d"
+    documentation="Sistemas de información existentes en EAAB relacionados en el PETI4 considerados en la integración del futuro SGDEA.&#xA;&#xA;Es importante &#xA;* Determinar las necesidades documentales de estas aplicaciones, como almacenamiento, gestión, integridad, confidencialidad, seguridad y disposición final de los documentos que serán soportadas por el futuro SGDEA de EAAB.&#xA;* Identificar el tipo de integración que estas herramientas de EAAB-ESP requerirán al futuro SGDEA.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-aa2678cbd79643fc8b86f6a545da6f69"
@@ -186,8 +187,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4a9f92c8d505423cb11d164190e80c47">
     <bounds
-        x="17"
-        y="510"
+        x="768"
+        y="314"
         width="142"
         height="55"/>
     <archimateElement
@@ -198,8 +199,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-da5da62203004a4f9984b2dc45c33446">
     <bounds
-        x="167"
-        y="510"
+        x="618"
+        y="132"
         width="142"
         height="55"/>
     <archimateElement
@@ -378,8 +379,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55592012413946d196a7e005d90e46cd">
     <bounds
-        x="768"
-        y="252"
+        x="618"
+        y="192"
         width="142"
         height="55"/>
     <archimateElement

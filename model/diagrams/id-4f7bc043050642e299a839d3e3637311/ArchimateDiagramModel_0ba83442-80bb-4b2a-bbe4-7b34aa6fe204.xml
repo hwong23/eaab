@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aplicaciones SGDEA-EAAB. Situación Actual"
     id="0ba83442-80bb-4b2a-bbe4-7b34aa6fe204"
-    documentation="Sistemas de información de EAAB relacionados en el PETI4 y vinculados con gestión documental de la entidad.&#xA;&#xA;Es importante que el futuro SGDEA de EAAB&#xA;* Se comunique con estas aplicaciones y centralice el almacenamiento, gestión, integridad, confidencialidad, seguridad y disposición final de los documentos. &#xA;* Identifique cuáles herramientas de las que cuenta EAAB-ESP serán asumidas por el SGDEA, por ejemplo: CORI, Content Manager, Archivo electrónico, y con cuáles requerirá integraciones. &#xA;&#xA;">
+    documentation="Situación actual de los sistemas de información de EAAB, relacionados en el PETI4, vinculados con la gestión documental de la entidad.&#xA;&#xA;Es importante que el futuro SGDEA de EAAB&#xA;* Se comunique con estas aplicaciones y centralice el almacenamiento, gestión, integridad, confidencialidad, seguridad y disposición final de los documentos. &#xA;* Identifique cuáles herramientas de las que cuenta EAAB-ESP serán asumidas por el futuro SGDEA, por ejemplo: CORI, Content Manager, Archivo electrónico, y con cuáles requerirá integraciones. &#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1e58c58b-56c2-4c6b-baca-4bcac1d44afe">
@@ -487,7 +487,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-3b46699a190f4206b76151687a5f1e87"
       textAlignment="1"
-      content="Sistemas de Información, Aplicaciones de EAAB relacionadas con la función archivística&#xD;&#xA;&#xA;Situación Actual EAAB.&#xD;&#xA;v0.3">
+      content="Sistemas de Información, Aplicaciones de EAAB relacionadas con los procesos archivísticos.&#xD;&#xA;&#xA;Situación Actual EAAB.&#xD;&#xA;v0.3">
     <bounds
         x="15"
         y="5"

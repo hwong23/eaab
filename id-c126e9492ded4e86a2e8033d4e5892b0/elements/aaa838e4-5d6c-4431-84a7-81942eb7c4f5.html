@@ -46,7 +46,7 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Los SGDEA deben permitir como m&#237;nimo las siguientes acciones de disposici&#243;n para cualquier regla de retenci&#243;n y disposici&#243;n:
+						<textarea id="docsrc" style="display:none">Los SGDEA deben permitir como m&#237;nimo las siguientes acciones de disposici&#243;n para cualquier regla de retenci&#243;n y disposici&#243;n:
 &#8226; Conservaci&#243;n permanente
 &#8226; Eliminaci&#243;n autom&#225;tica
 &#8226; Eliminaci&#243;n con autorizaci&#243;n del rol administrativo;
@@ -61,7 +61,8 @@ El SGDEA no debe limitar la duraci&#243;n de los tiempos de retenci&#243;n.
 
 El SGDEA debe activar autom&#225;ticamente un alerta al rol administrador cuando el
 per&#237;odo de retenci&#243;n aplicable est&#225; a punto de cumplir el tiempo establecido.
-</div>
+</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

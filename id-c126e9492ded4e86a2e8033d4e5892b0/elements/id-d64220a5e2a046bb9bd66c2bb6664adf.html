@@ -46,14 +46,15 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<div class="convertlinks documentation" style="white-space:pre-wrap">Los documentos son agrupados en expedientes y ordenados dentro de &#233;l de acuerdo con el tr&#225;mite que los genera y con la estructura de clasificaci&#243;n determinada por el cuadro de clasificaci&#243;n documental.
+						<textarea id="docsrc" style="display:none">Los documentos son agrupados en expedientes y ordenados dentro de &#233;l de acuerdo con el tr&#225;mite que los genera y con la estructura de clasificaci&#243;n determinada por el cuadro de clasificaci&#243;n documental.
 
 Son realmente son representaciones a trav&#233;s de metadatos, por tanto son fundamentales los metadatos que establecen la relaci&#243;n de los documentos (hijos) con el expediente (padre). Cuentan con un &#237;ndice electr&#243;nico que registra los documentos que contiene. 
 
 Siendo una entidad se tratan como unidades discretas dentro del SGDEA, es decir, en un solo paquete que no comparte componentes con otros.
 
 Un expediente pertenece a una &#250;nica serie, pero una serie tiene varios expedientes.
-</div>
+</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">
 						<table class="table table-striped table-hover table-condensed">

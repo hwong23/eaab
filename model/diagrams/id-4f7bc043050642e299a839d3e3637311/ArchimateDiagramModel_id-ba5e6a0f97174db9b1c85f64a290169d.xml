@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aplicaciones EAAB: misionales y estratégicos"
+    name="Sistemas de Información EAAB: misionales y estratégicos"
     id="id-ba5e6a0f97174db9b1c85f64a290169d">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -414,8 +414,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e80140cdcda444a5a42a942d4a583724">
     <bounds
-        x="1032"
-        y="204"
+        x="1020"
+        y="180"
         width="145"
         height="37"/>
     <archimateElement
@@ -426,8 +426,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a96014d937543e0a12793dc135197fe">
     <bounds
-        x="1032"
-        y="252"
+        x="1020"
+        y="228"
         width="145"
         height="37"/>
     <archimateElement
@@ -438,8 +438,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ce9f6d60e24f4ab2ae2793ad2c9e0490">
     <bounds
-        x="1032"
-        y="300"
+        x="1020"
+        y="276"
         width="145"
         height="37"/>
     <archimateElement
@@ -450,8 +450,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3663d2d088e44b35b787e7dd8cb29228">
     <bounds
-        x="1032"
-        y="348"
+        x="1020"
+        y="324"
         width="145"
         height="37"/>
     <archimateElement
@@ -462,8 +462,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-516b45926f5b47478f8d95c7987fef7a">
     <bounds
-        x="1032"
-        y="396"
+        x="1020"
+        y="372"
         width="145"
         height="37"/>
     <archimateElement
@@ -474,8 +474,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-de2f21fb99e047f997f76ce7534d3148">
     <bounds
-        x="1032"
-        y="444"
+        x="1020"
+        y="420"
         width="145"
         height="37"/>
     <archimateElement
@@ -486,8 +486,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cde6a3a63b9b4af58514e1ebad093b5d">
     <bounds
-        x="1032"
-        y="492"
+        x="1020"
+        y="468"
         width="145"
         height="37"/>
     <archimateElement
@@ -498,8 +498,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-01d5c2660216496b81c70ff0447e84c8">
     <bounds
-        x="1032"
-        y="156"
+        x="1020"
+        y="132"
         width="145"
         height="37"/>
     <archimateElement

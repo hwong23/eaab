@@ -44,6 +44,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_0753daf9-5c5f-43b5-9ca8-3c014050998b.xml#0753daf9-5c5f-43b5-9ca8-3c014050998b"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-37f95f5014a7473b829fe2459fc2a607"
+        source="bdacd4ea-c536-4362-b20e-20d14415b795"
+        target="id-fd37610ce0b44db68dc049dfdad79569">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-73bb3d05077f4a239f082322e5457098.xml#id-73bb3d05077f4a239f082322e5457098"/>
+    </sourceConnections>
     <bounds
         x="144"
         y="36"
@@ -534,5 +543,39 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-769c7e81012843489b229978fe1b7737.xml#id-769c7e81012843489b229978fe1b7737"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-91425c44535c4d24a465e3d5b1872476">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-89be4eaab2784432b35ba03a2cbee793"
+        source="id-91425c44535c4d24a465e3d5b1872476"
+        target="id-fd37610ce0b44db68dc049dfdad79569">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-8688b6d8c158442c990cf6769674af2a.xml#id-8688b6d8c158442c990cf6769674af2a"/>
+    </sourceConnections>
+    <bounds
+        x="756"
+        y="60"
+        width="204"
+        height="92"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fd37610ce0b44db68dc049dfdad79569"
+        targetConnections="id-89be4eaab2784432b35ba03a2cbee793 id-37f95f5014a7473b829fe2459fc2a607">
+      <bounds
+          x="48"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-6a0334a77bc34bf18f618e39f84e668f.xml#id-6a0334a77bc34bf18f618e39f84e668f"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-505873cf70e24de8929cee5c97f7e0a3.xml#id-505873cf70e24de8929cee5c97f7e0a3"/>
   </children>
 </archimate:ArchimateDiagramModel>

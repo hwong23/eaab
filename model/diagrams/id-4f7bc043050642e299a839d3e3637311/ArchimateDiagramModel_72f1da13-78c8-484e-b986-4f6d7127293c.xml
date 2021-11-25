@@ -281,8 +281,8 @@
           href="ServingRelationship_ad81fa8c-6b65-4790-bb4b-d9a4a2a48f1c.xml#ad81fa8c-6b65-4790-bb4b-d9a4a2a48f1c"/>
     </sourceConnections>
     <bounds
-        x="256"
-        y="480"
+        x="60"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -293,8 +293,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ba943cdc-b8a6-4a52-99fa-e24201cceb18">
     <bounds
-        x="56"
-        y="480"
+        x="192"
+        y="576"
         width="120"
         height="55"/>
     <archimateElement

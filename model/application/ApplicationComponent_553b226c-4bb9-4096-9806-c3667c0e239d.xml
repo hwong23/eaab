@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AR. Plantillas de Documentos"
-    id="553b226c-4bb9-4096-9806-c3667c0e239d"/>
+    id="553b226c-4bb9-4096-9806-c3667c0e239d"
+    documentation="Dado que la mayoría de los documentos son creados con las herramienta de ofimática Word, es requerido que el módulo de plantillas del SGDEA permita la parametrización de múltiples modelos de comunicaciones, actas e informes. Mediante las plantiilas se deben parametrizar los encabezados, pies de páginas y contenidos de los documentos con información predefinida por el usuario en los metadatos del documento.&#xD;&#xA;"/>
